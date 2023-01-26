@@ -1,0 +1,323 @@
+IQ-TREE multicore version 2.0-rc1 for Linux 64-bit built Jan 17 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    sei39.cluster.bc2.ch (AVX2, FMA3, 503 GB RAM)
+Command: /scicore/soft/apps/IQ-TREE/2.0-rc1-foss-2018b/bin/iqtree -s Database_V1R_cdhit_70_plus_T2R.aln -st AA -nt 20 -bb 1000 --redo
+Seed:    429614 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Sep 27 15:54:49 2022
+Kernel:  AVX+FMA - 20 threads (20 CPU cores detected)
+
+Reading alignment file Database_V1R_cdhit_70_plus_T2R.aln ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 99 sequences with 589 columns, 571 distinct patterns
+379 parsimony-informative, 141 singleton sites, 69 constant sites
+                                                                    Gap/Ambiguity  Composition  p-value
+   1  Atractosteus_spatula_Complete_JAAWVO010038486.1_983267_984334-ORA5   39.56%    failed      0.00%
+   2  Atractosteus_spatula_Complete_JAAWVO010062913.1_217861_218817-ORA2   45.84%    passed     25.00%
+   3  Atractosteus_spatula_Complete_JAAWVO010062913.1_231213_232229-ORA8   42.44%    passed     10.31%
+   4  Atractosteus_spatula_Complete_JAAWVO010062913.1_274822_275769-ORA7   46.35%    passed     18.97%
+   5  Atractosteus_spatula_Complete_JAAWVO010072201.1_151548_154837-ORA3   42.11%    failed      0.61%
+   6  Atractosteus_spatula_Complete_JAAWVO010079372.1_294790_295758-ORA6   45.16%    passed     80.60%
+   7  Danio_rerio_Complete_CM002894.2_1590605_1591501-ORA5                 49.24%    passed     44.66%
+   8  Danio_rerio_Complete_CM002904.2_54658812_54659813-ORA6               43.29%    failed      0.00%
+   9  Danio_rerio_Complete_CM002906.2_213651_214559-ORA2                   48.56%    failed      0.00%
+  10  Danio_rerio_Complete_CM002906.2_374479_378234-ORA4                   42.28%    failed      0.00%
+  11  Danio_rerio_Complete_CM002906.2_387076_392225-ORA3                   41.60%    failed      2.92%
+  12  Oreochromis_niloticus_Complete_NC_031970.2_10555639_10556601-ORA2    45.50%    passed      7.05%
+  13  Oreochromis_niloticus_Complete_NC_031970.2_21601680_21604895-ORA3    44.48%    passed     31.24%
+  14  Oreochromis_niloticus_Complete_NC_031972.2_21472229_21473350-ORA5    36.50%    failed      4.67%
+  15  Oreochromis_niloticus_Complete_NC_031980.2_4541818_4542780-ORA6      45.50%    passed     74.19%
+  16  Oryzias_latipes_Complete_12_12978761_12979837-ORA5                   39.05%    passed     10.36%
+  17  Oryzias_latipes_Complete_24_2070760_2071677-ORA6                     48.05%    passed     93.34%
+  18  Oryzias_latipes_Complete_5_15345901_15346875-ORA2                    44.82%    passed     19.33%
+  19  Oryzias_latipes_Complete_5_1933570_1934748-ORA4                      37.52%    failed      1.12%
+  20  Oryzias_latipes_Complete_5_1944526_1950342-ORA3                      39.05%    passed     10.40%
+  21  Perca_flavescens_Complete_CM014938.1_14861546_14862691-ORA1          35.14%    passed     11.91%
+  22  Perca_flavescens_Complete_CM014938.1_24730299_24733698-ORA3          46.86%    passed     26.78%
+  23  Perca_flavescens_Complete_CM014950.1_18197739_18198863-ORA5          36.33%    passed     14.18%
+  24  Perca_flavescens_Complete_CM014952.1_13101086_13101988-ORA6          48.90%    passed     98.71%
+  25  Sc-ORA4_sf75446                                                      48.22%    passed     34.02%
+  26  Sc-ORA3_sf4878                                                       47.88%    failed      3.67%
+  27  Cm-ORA1_XM_007894309.1                                               46.01%    passed     26.41%
+  28  Cm-ORA2_XM_007894310.1                                               45.84%    passed     49.47%
+  29  Cm-ORA3_XM_007906972.1                                               47.71%    passed     62.54%
+  30  Cm-ORA4_XM_007906911.1                                               47.54%    passed     16.04%
+  31  rat_V1R103                                                           49.41%    passed     93.81%
+  32  rat_V1R104                                                           49.41%    passed     56.41%
+  33  rat_V1R105                                                           51.44%    passed      8.58%
+  34  rat_V1r106                                                           47.71%    passed      8.58%
+  35  frog_V1R1                                                            45.50%    passed     15.53%
+  36  frog_V1R10                                                           41.43%    passed     11.03%
+  37  frog_V1R13                                                           45.16%    passed      6.43%
+  38  frog_V1R15                                                           44.14%    passed     50.72%
+  39  frog_V1R17                                                           46.52%    passed     41.46%
+  40  frog_V1R18                                                           45.84%    passed     62.36%
+  41  frog_V1R19                                                           47.54%    passed     85.18%
+  42  frog_V1R2                                                            45.84%    passed     96.48%
+  43  frog_V1R4                                                            45.50%    passed     66.07%
+  44  frog_V1R8                                                            44.48%    passed     31.69%
+  45  opossum_V1R10                                                        48.39%    passed     61.28%
+  46  opossum_V1R11                                                        49.41%    failed      1.03%
+  47  opossum_V1R12                                                        49.58%    passed     36.61%
+  48  opossum_V1R13                                                        50.08%    passed     60.33%
+  49  opossum_V1R15                                                        44.99%    passed     35.12%
+  50  opossum_V1R17                                                        49.41%    passed     84.25%
+  51  opossum_V1R2                                                         47.20%    passed     95.40%
+  52  opossum_V1R20                                                        49.07%    passed     96.32%
+  53  opossum_V1R21                                                        47.54%    passed     18.35%
+  54  opossum_V1R22                                                        49.41%    failed      3.04%
+  55  opossum_V1R23                                                        49.41%    passed      9.90%
+  56  opossum_V1R25                                                        46.69%    passed     93.33%
+  57  opossum_V1R26                                                        45.84%    passed     36.41%
+  58  opossum_V1R27                                                        43.63%    passed     27.50%
+  59  opossum_V1R28                                                        47.37%    passed     50.94%
+  60  opossum_V1R29                                                        48.56%    passed     69.65%
+  61  opossum_V1R3                                                         41.26%    passed     71.18%
+  62  opossum_V1R31                                                        45.84%    failed      2.85%
+  63  opossum_V1R32                                                        48.56%    passed     48.78%
+  64  opossum_V1R33                                                        50.25%    passed     33.57%
+  65  opossum_V1R34                                                        47.88%    passed     36.65%
+  66  opossum_V1R35                                                        48.56%    failed      4.14%
+  67  opossum_V1R36                                                        43.46%    passed     59.47%
+  68  opossum_V1R38                                                        41.94%    passed     17.48%
+  69  opossum_V1R4                                                         48.05%    passed     96.92%
+  70  opossum_V1R40                                                        49.41%    failed      1.95%
+  71  opossum_V1R41                                                        42.61%    passed     55.86%
+  72  opossum_V1R44                                                        45.50%    passed     97.88%
+  73  opossum_V1R45                                                        48.39%    passed     78.22%
+  74  opossum_V1R5                                                         44.31%    passed     34.85%
+  75  opossum_V1R51                                                        45.84%    passed     51.05%
+  76  opossum_V1R53                                                        46.35%    passed     16.95%
+  77  opossum_V1R55                                                        43.80%    passed     21.50%
+  78  opossum_V1R57                                                        43.97%    passed     44.49%
+  79  opossum_V1R6                                                         47.03%    passed     56.83%
+  80  opossum_V1R66                                                        45.33%    passed     45.33%
+  81  opossum_V1R7                                                         48.39%    passed     98.06%
+  82  opossum_V1R78                                                        45.67%    passed     19.85%
+  83  opossum_V1R9                                                         48.05%    passed     48.93%
+  84  opossum_V1R96                                                        46.18%    passed     45.75%
+  85  opossum_V1R99                                                        47.03%    passed     56.32%
+  86  TA2R4_MOUSE-Taste-receptor-type-2-member-4-OS                        51.44%    passed     56.21%
+  87  TA2R4_PANTR-Taste-receptor-type-2-member-4-OS                        51.27%    passed     91.21%
+  88  TA2R8_HUMAN-Taste-receptor-type-2-member-8-OS                        50.76%    passed     22.19%
+  89  Danio_rerio_tas2r200.2-201_1                                         47.54%    passed     66.23%
+  90  Danio_rerio_tas2r200.1-201_1                                         47.54%    passed     53.79%
+  91  Lepisosteus_oculatus_tas2r200.1-201_1                                48.73%    passed     16.70%
+  92  Acanthochromis_polyacanthus_tas2r200.1-201_1                         47.54%    failed      0.51%
+  93  Seriola_dumerili_tas2r200.1-201_1                                    46.86%    passed      7.13%
+  94  Carassius_auratus_ENSCART00000057193.1_1                             46.86%    passed     85.58%
+  95  Carassius_auratus_ENSCART00000022222.1_1                             47.54%    passed     73.04%
+  96  Carassius_auratus_ENSCART00000000992.1_1                             47.54%    passed     77.88%
+  97  Scleropages_formosus_tas2r200.1-201_1                                47.71%    passed     66.25%
+  98  V1R-Receptor-Mus_musculus_intact_ancV1R                              46.86%    passed     27.48%
+  99  coelacanth_ancV1R                                                    45.84%    passed     12.05%
+WARNING: 6 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                                46.08%  15 sequences failed composition chi2 test (p-value<5%; df=19)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.057 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -53881.997
+Optimal log-likelihood: -53881.814
+Proportion of invariable sites: 0.002
+Gamma shape alpha: 1.800
+Parameters optimization took 1 rounds (0.057 sec)
+Time for fast ML tree search: 41.265 seconds
+
+NOTE: ModelFinder requires 92 MB RAM!
+ModelFinder will test up to 546 protein models (sample size: 589) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            55120.409    195 110630.817   110825.321   111484.610
+  2  LG+I          55107.019    196 110606.037   110803.037   111464.209
+  3  LG+G4         53883.290    196 108158.580   108355.580   109016.752
+  4  LG+I+G4       53881.836    197 108157.671   108357.190   109020.221
+  5  LG+R2         54135.613    197 108665.227   108864.746   109527.777
+  6  LG+R3         53891.443    199 108180.887   108385.514   109052.193
+  7  LG+R4         53825.430    201 108052.861   108262.690   108932.924
+  8  LG+R5         53803.192    203 108012.384   108227.512   108901.205
+  9  LG+R6         53789.608    205 107989.216   108209.738   108886.793
+ 10  LG+R7         53786.022    207 107986.045   108212.060   108892.379
+ 22  LG+F+R6       53375.258    224 107198.517   107475.440   108179.284
+ 23  LG+F+R7       53373.100    226 107198.200   107481.636   108187.724
+ 35  WAG+R6        53862.802    205 108135.603   108356.126   109033.181
+ 36  WAG+R7        53860.496    207 108134.992   108361.008   109041.326
+ 48  WAG+F+R6      53194.465    224 106836.930   107113.853   107817.697
+ 49  WAG+F+R7      53191.457    226 106834.915   107118.351   107824.439
+ 61  JTT+R6        53267.462    205 106944.923   107165.445   107842.500
+ 62  JTT+R7        53262.847    207 106939.694   107165.710   107846.029
+ 74  JTT+F+R6      52752.462    224 105952.924   106229.847   106933.691
+ 75  JTT+F+R7      52749.073    226 105950.146   106233.583   106939.670
+ 87  JTTDCMut+R6   53290.974    205 106991.947   107212.469   107889.524
+ 88  JTTDCMut+R7   53288.151    207 106990.302   107216.318   107896.636
+100  JTTDCMut+F+R6 52771.216    224 105990.431   106267.354   106971.199
+101  JTTDCMut+F+R7 52768.023    226 105988.047   106271.483   106977.571
+113  DCMut+R6      54585.996    205 109581.992   109802.514   110479.570
+114  DCMut+R7      54578.975    207 109571.950   109797.966   110478.284
+126  DCMut+F+R6    53592.490    224 107632.981   107909.904   108613.748
+127  DCMut+F+R7    53591.463    226 107634.927   107918.363   108624.451
+139  VT+R6         53749.334    205 107908.669   108129.191   108806.246
+140  VT+R7         53747.475    207 107908.951   108134.966   108815.285
+152  VT+F+R6       53172.790    224 106793.580   107070.503   107774.348
+153  VT+F+R7       53170.953    226 106793.906   107077.342   107783.430
+165  PMB+R6        54037.233    205 108484.465   108704.987   109382.043
+166  PMB+R7        54035.237    207 108484.475   108710.491   109390.809
+178  PMB+F+R6      53741.076    224 107930.152   108207.075   108910.919
+179  PMB+F+R7      53738.752    226 107929.503   108212.940   108919.027
+191  Blosum62+R6   54208.170    205 108826.340   109046.863   109723.918
+192  Blosum62+R7   54206.472    207 108826.944   109052.959   109733.278
+204  Blosum62+F+R6 53752.899    224 107953.798   108230.721   108934.565
+205  Blosum62+F+R7 53750.757    226 107953.514   108236.950   108943.038
+217  Dayhoff+R6    54586.246    205 109582.492   109803.015   110480.070
+218  Dayhoff+R7    54579.118    207 109572.235   109798.251   110478.570
+230  Dayhoff+F+R6  53591.904    224 107631.808   107908.731   108612.576
+231  Dayhoff+F+R7  53588.361    226 107628.721   107912.158   108618.246
+243  mtREV+R6      54968.613    205 110347.225   110567.747   111244.803
+244  mtREV+R7      54967.483    207 110348.965   110574.981   111255.300
+256  mtREV+F+R6    53857.926    224 108163.852   108440.775   109144.620
+257  mtREV+F+R7    53856.175    226 108164.350   108447.786   109153.874
+269  mtART+R6      55545.270    205 111500.540   111721.062   112398.117
+270  mtART+R7      55533.563    207 111481.126   111707.142   112387.460
+282  mtART+F+R6    54783.996    224 110015.991   110292.914   110996.759
+283  mtART+F+R7    54770.393    226 109992.786   110276.222   110982.310
+295  mtZOA+R6      54397.109    205 109204.218   109424.740   110101.795
+296  mtZOA+R7      54390.506    207 109195.012   109421.028   110101.346
+308  mtZOA+F+R6    53940.310    224 108328.621   108605.544   109309.388
+309  mtZOA+F+R7    53937.306    226 108326.612   108610.048   109316.136
+321  mtMet+R6      54152.606    205 108715.212   108935.734   109612.789
+322  mtMet+R7      54146.781    207 108707.562   108933.578   109613.896
+334  mtMet+F+R6    53257.930    224 106963.860   107240.783   107944.628
+335  mtMet+F+R7    53257.641    226 106967.283   107250.719   107956.807
+347  mtVer+R6      54783.333    205 109976.667   110197.189   110874.244
+348  mtVer+R7      54781.961    207 109977.922   110203.938   110884.257
+360  mtVer+F+R6    53584.823    224 107617.645   107894.569   108598.413
+361  mtVer+F+R7    53584.570    226 107621.139   107904.576   108610.663
+373  mtInv+R6      54508.683    205 109427.366   109647.888   110324.943
+374  mtInv+R7      54502.579    207 109419.158   109645.174   110325.492
+386  mtInv+F+R6    53189.509    224 106827.018   107103.942   107807.786
+387  mtInv+F+R7    53187.953    226 106827.906   107111.343   107817.431
+399  mtMAM+R6      55748.501    205 111907.002   112127.524   112804.579
+400  mtMAM+R7      55747.796    207 111909.593   112135.609   112815.927
+412  mtMAM+F+R6    54578.862    224 109605.725   109882.648   110586.492
+413  mtMAM+F+R7    54574.970    226 109601.941   109885.377   110591.465
+425  HIVb+R6       53722.076    205 107854.153   108074.675   108751.730
+426  HIVb+R7       53718.118    207 107850.237   108076.252   108756.571
+438  HIVb+F+R6     53191.883    224 106831.766   107108.689   107812.534
+439  HIVb+F+R7     53185.056    226 106822.111   107105.548   107811.636
+451  HIVw+R6       55407.806    205 111225.612   111446.134   112123.189
+452  HIVw+R7       55395.129    207 111204.258   111430.274   112110.592
+464  HIVw+F+R6     53951.697    224 108351.393   108628.316   109332.161
+465  HIVw+F+R7     53947.844    226 108347.688   108631.124   109337.212
+477  FLU+R6        54134.888    205 108679.776   108900.298   109577.353
+478  FLU+R7        54133.986    207 108681.971   108907.987   109588.306
+490  FLU+F+R6      53541.688    224 107531.377   107808.300   108512.144
+491  FLU+F+R7      53539.637    226 107531.275   107814.711   108520.799
+503  rtREV+R6      54797.076    205 110004.153   110224.675   110901.730
+504  rtREV+R7      54795.789    207 110005.579   110231.595   110911.913
+516  rtREV+F+R6    53986.445    224 108420.890   108697.813   109401.657
+517  rtREV+F+R7    53985.445    226 108422.891   108706.327   109412.415
+529  cpREV+R6      53644.273    205 107698.547   107919.069   108596.124
+530  cpREV+R7      53642.657    207 107699.314   107925.330   108605.648
+542  cpREV+F+R6    53295.683    224 107039.367   107316.290   108020.134
+543  cpREV+F+R7    53294.959    226 107041.919   107325.355   108031.443
+Akaike Information Criterion:           JTT+F+R7
+Corrected Akaike Information Criterion: JTT+F+R6
+Bayesian Information Criterion:         JTT+F+R6
+Best-fit model: JTT+F+R6 chosen according to BIC
+
+All model information printed to Database_V1R_cdhit_70_plus_T2R.aln.model.gz
+CPU time for ModelFinder: 8984.343 seconds (2h:29m:44s)
+Wall-clock time for ModelFinder: 539.041 seconds (0h:8m:59s)
+Generating 1000 samples for ultrafast bootstrap (seed: 429614)...
+
+NOTE: 56 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -52752.462
+Optimal log-likelihood: -52752.429
+Site proportion and rates:  (0.051,0.121) (0.062,0.265) (0.201,0.484) (0.325,0.813) (0.280,1.337) (0.081,2.998)
+Parameters optimization took 1 rounds (0.289 sec)
+Computing ML distances based on estimated model parameters... 2.282 sec
+Computing BIONJ tree...
+0.021 seconds
+Log-likelihood of BIONJ tree: -52807.450
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 3.477 second
+Computing log-likelihood of 98 initial trees ... 3.134 seconds
+Current best score: -52752.429
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -52748.396
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 5: -52735.585
+Iteration 10 / LogL: -52751.297 / Time: 0h:0m:15s
+Iteration 20 / LogL: -52750.226 / Time: 0h:0m:24s
+Finish initializing candidate tree set (13)
+Current best tree score: -52735.585 / CPU time: 23.458
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 21: -52734.758
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -52734.649
+Iteration 30 / LogL: -52736.060 / Time: 0h:1m:24s (0h:4m:25s left)
+Iteration 40 / LogL: -52734.727 / Time: 0h:1m:30s (0h:3m:8s left)
+Iteration 50 / LogL: -52734.733 / Time: 0h:1m:37s (0h:2m:21s left)
+Log-likelihood cutoff on original alignment: -52783.517
+Iteration 60 / LogL: -52738.227 / Time: 0h:1m:44s (0h:1m:48s left)
+Iteration 70 / LogL: -52736.405 / Time: 0h:1m:51s (0h:1m:22s left)
+Iteration 80 / LogL: -52735.273 / Time: 0h:1m:58s (0h:1m:1s left)
+Iteration 90 / LogL: -52734.999 / Time: 0h:2m:4s (0h:0m:43s left)
+Iteration 100 / LogL: -52737.656 / Time: 0h:2m:11s (0h:0m:27s left)
+Log-likelihood cutoff on original alignment: -52783.517
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 110 / LogL: -52740.635 / Time: 0h:2m:18s (0h:1m:54s left)
+Iteration 120 / LogL: -52734.756 / Time: 0h:2m:24s (0h:1m:37s left)
+TREE SEARCH COMPLETED AFTER 122 ITERATIONS / Time: 0h:2m:26s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -52734.649
+2. Current log-likelihood: -52734.634
+Optimal log-likelihood: -52734.620
+Site proportion and rates:  (0.053,0.118) (0.066,0.271) (0.196,0.477) (0.332,0.807) (0.277,1.338) (0.076,3.191)
+Parameters optimization took 2 rounds (0.509 sec)
+BEST SCORE FOUND : -52734.620
+Creating bootstrap support values...
+Split supports printed to NEXUS file Database_V1R_cdhit_70_plus_T2R.aln.splits.nex
+Total tree length: 81.668
+
+Total number of iterations: 122
+CPU time used for tree search: 2474.721 sec (0h:41m:14s)
+Wall-clock time used for tree search: 145.523 sec (0h:2m:25s)
+Total CPU time used: 2498.329 sec (0h:41m:38s)
+Total wall-clock time used: 147.009 sec (0h:2m:27s)
+
+Computing bootstrap consensus tree...
+Reading input file Database_V1R_cdhit_70_plus_T2R.aln.splits.nex...
+99 taxa and 357 splits.
+Consensus tree written to Database_V1R_cdhit_70_plus_T2R.aln.contree
+Reading input trees file Database_V1R_cdhit_70_plus_T2R.aln.contree
+Log-likelihood of consensus tree: -52734.618
+
+Analysis results written to: 
+  IQ-TREE report:                Database_V1R_cdhit_70_plus_T2R.aln.iqtree
+  Maximum-likelihood tree:       Database_V1R_cdhit_70_plus_T2R.aln.treefile
+  Likelihood distances:          Database_V1R_cdhit_70_plus_T2R.aln.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          Database_V1R_cdhit_70_plus_T2R.aln.splits.nex
+  Consensus tree:                Database_V1R_cdhit_70_plus_T2R.aln.contree
+  Screen log file:               Database_V1R_cdhit_70_plus_T2R.aln.log
+
+Date and Time: Tue Sep 27 16:06:15 2022

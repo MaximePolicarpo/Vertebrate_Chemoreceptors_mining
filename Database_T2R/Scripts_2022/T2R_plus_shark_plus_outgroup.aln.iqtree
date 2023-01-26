@@ -1,0 +1,783 @@
+IQ-TREE 2.0-rc1 built Jan 17 2020
+
+Input file name: T2R_plus_shark_plus_outgroup.aln
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 611011
+
+REFERENCES
+----------
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+To cite IQ-TREE please use:
+
+Lam-Tung Nguyen, Heiko A. Schmidt, Arndt von Haeseler, and Bui Quang Minh
+(2015) IQ-TREE: A fast and effective stochastic algorithm for estimating
+maximum likelihood phylogenies. Mol Biol Evol, 32:268-274.
+https://doi.org/10.1093/molbev/msu300
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2017) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol Biol Evol, in press.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 148 sequences with 490 amino-acid sites
+Number of constant sites: 41 (= 8.36735% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 41 (= 8.36735% of all sites)
+Number of parsimony informative sites: 398
+Number of distinct site patterns: 480
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: JTT+F+R6
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+JTT+F+R6         -67751.446  136146.891 +        1  137392.472 +        1  137497.490 +        1
+JTTDCMut+F+R6    -67783.077  136210.154 - 1.83e-14  137455.734 - 1.83e-14  137560.752 - 1.83e-14
+HIVb+F+R6        -68323.210  137290.420 - 4.85e-249  138536.000 - 4.85e-249  138641.018 - 4.85e-249
+JTT+R6           -68494.493  137594.985 - 3.55e-315  138585.437 - 8.93e-260  138865.890 - 7.17e-298
+VT+F+R6          -68455.198  137554.397 - 2.31e-306  138799.978 - 2.31e-306  138904.995 - 2.31e-306
+mtInv+F+R6       -68466.082  137576.164 - 4.34e-311  138821.744 - 4.34e-311  138926.762 - 4.34e-311
+mtMet+F+R6       -68469.960  137583.920 - 8.98e-313  138829.501 - 8.98e-313  138934.519 - 8.98e-313
+JTTDCMut+R6      -68533.864  137673.728 -        0  138664.180 - 7.12e-277  138944.633 - 5.71e-315
+cpREV+F+R6       -68502.960  137649.919 -        0  138895.500 -        0  139000.518 -        0
+WAG+F+R6         -68538.000  137720.000 -        0  138965.581 -        0  139070.599 -        0
+mtVer+F+R6       -68791.856  138227.712 -        0  139473.293 -        0  139578.311 -        0
+HIVw+F+R6        -68912.748  138469.495 -        0  139715.076 -        0  139820.094 -        0
+HIVb+R6          -68996.590  138599.179 -        0  139589.631 -        0  139870.084 -        0
+LG+F+R6          -68952.816  138549.631 -        0  139795.212 -        0  139900.230 -        0
+cpREV+R6         -69042.623  138691.246 -        0  139681.698 -        0  139962.151 -        0
+FLU+F+R6         -69015.458  138674.916 -        0  139920.496 -        0  140025.514 -        0
+Dayhoff+F+R6     -69135.643  138915.286 -        0  140160.867 -        0  140265.885 -        0
+DCMut+F+R6       -69135.776  138915.552 -        0  140161.133 -        0  140266.150 -        0
+VT+R6            -69204.554  139015.107 -        0  140005.559 -        0  140286.012 -        0
+WAG+R6           -69346.886  139299.772 -        0  140290.224 -        0  140570.677 -        0
+PMB+F+R6         -69298.791  139241.583 -        0  140487.164 -        0  140592.181 -        0
+mtREV+F+R6       -69320.785  139285.569 -        0  140531.150 -        0  140636.168 -        0
+Blosum62+F+R6    -69327.312  139298.624 -        0  140544.205 -        0  140649.223 -        0
+LG+R6            -69420.257  139446.513 -        0  140436.965 -        0  140717.418 -        0
+LG+R7            -69420.390  139450.780 -        0  140465.236 -        0  140730.073 -        0
+LG+R5            -69433.169  139468.337 -        0  140435.380 -        0  140730.853 -        0
+LG+R4            -69465.868  139529.735 -        0  140473.946 -        0  140783.862 -        0
+LG+G4            -69524.454  139636.908 -        0  140526.447 -        0  140870.063 -        0
+LG+I+G4          -69524.423  139638.846 -        0  140539.052 -        0  140876.195 -        0
+mtMet+R6         -69505.311  139616.622 -        0  140607.073 -        0  140887.527 -        0
+LG+R3            -69541.471  139676.941 -        0  140598.879 -        0  140922.680 -        0
+FLU+R6           -69581.485  139768.969 -        0  140759.421 -        0  141039.874 -        0
+PMB+R6           -69596.995  139799.990 -        0  140790.442 -        0  141070.895 -        0
+mtZOA+F+R6       -69636.205  139916.410 -        0  141161.991 -        0  141267.009 -        0
+LG+R2            -69820.528  140231.055 -        0  141131.261 -        0  141468.405 -        0
+Blosum62+R6      -69846.778  140299.555 -        0  141290.007 -        0  141570.460 -        0
+rtREV+F+R6       -69795.275  140234.550 -        0  141480.131 -        0  141585.149 -        0
+mtInv+R6         -69980.483  140566.967 -        0  141557.418 -        0  141837.872 -        0
+mtZOA+R6         -70132.275  140870.551 -        0  141861.002 -        0  142141.456 -        0
+mtMAM+F+R6       -70265.412  141174.825 -        0  142420.405 -        0  142525.423 -        0
+mtVer+R6         -70339.776  141285.552 -        0  142276.004 -        0  142556.457 -        0
+DCMut+R6         -70546.145  141698.289 -        0  142688.741 -        0  142969.194 -        0
+Dayhoff+R6       -70547.722  141701.445 -        0  142691.896 -        0  142972.350 -        0
+mtREV+R6         -70703.888  142013.776 -        0  143004.228 -        0  143284.681 -        0
+rtREV+R6         -70868.233  142342.466 -        0  143332.918 -        0  143613.371 -        0
+mtART+F+R6       -70853.913  142351.827 -        0  143597.408 -        0  143702.425 -        0
+HIVw+R6          -70938.625  142483.251 -        0  143473.702 -        0  143754.156 -        0
+LG               -71198.652  142983.304 -        0  143862.304 -        0  144212.265 -        0
+LG+I             -71198.649  142985.299 -        0  143874.837 -        0  144218.454 -        0
+mtART+R6         -71661.799  143929.598 -        0  144920.049 -        0  145200.503 -        0
+mtMAM+R6         -71676.818  143959.636 -        0  144950.088 -        0  145230.541 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+F+R6
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0565
+  pi(R) = 0.0394
+  pi(N) = 0.0433
+  pi(D) = 0.0201
+  pi(C) = 0.0253
+  pi(Q) = 0.0262
+  pi(E) = 0.0188
+  pi(G) = 0.0381
+  pi(H) = 0.0238
+  pi(I) = 0.0982
+  pi(L) = 0.1449
+  pi(K) = 0.0439
+  pi(M) = 0.0355
+  pi(F) = 0.0762
+  pi(P) = 0.0265
+  pi(S) = 0.0905
+  pi(T) = 0.0581
+  pi(W) = 0.0214
+  pi(Y) = 0.0354
+  pi(V) = 0.0778
+
+Model of rate heterogeneity: FreeRate with 6 categories
+Site proportion and rates:  (0.0516,0.1331) (0.1178,0.3364) (0.1381,0.5796) (0.2293,0.8330) (0.2968,1.2627) (0.1664,1.8493)
+
+ Category  Relative_rate  Proportion
+  1         0.1331         0.0516
+  2         0.3364         0.1178
+  3         0.5796         0.1381
+  4         0.8330         0.2293
+  5         1.2627         0.2968
+  6         1.8493         0.1664
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -67729.6076 (s.e. 2225.6963)
+Unconstrained log-likelihood (without tree): -3020.8724
+Number of free parameters (#branches + #model parameters): 322
+Akaike information criterion (AIC) score: 136103.2153
+Corrected Akaike information criterion (AICc) score: 137348.7961
+Bayesian information criterion (BIC) score: 137453.8138
+
+Total tree length (sum of branch lengths): 94.0275
+Sum of internal branch lengths: 45.2916 (48.1684% of tree length)
+
+WARNING: 1 near-zero internal branches (<0.0020) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Chimpanzee_Tas2r30' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--Chimpanzee_Tas2r30
+|
+|                                                     +--Chimpanzee_Tas2r1
+|                                                  +--| (99)
+|                                                  |  +--Mouselemur_Tas2r1
+|                                            +-----| (100)
+|                                            |     +---Mouse_Tas2r1A
+|                                         +--| (58)
+|                                         |  |               +--Chimpanzee_Tas2r39
+|                                         |  |            +--| (100)
+|                                         |  |            |  +---Mouse_Tas2r6
+|                                         |  |        +---| (100)
+|                                         |  |        |   |     +--Chimpanzee_Tas2r40
+|                                         |  |        |   |  +--| (100)
+|                                         |  |        |   |  |  +--Mouselemur_Tas2r40
+|                                         |  |        |   +--| (100)
+|                                         |  |        |      +--Mouse_Tas2r7
+|                                         |  |     +--| (90)
+|                                         |  |     |  |        +--Zebra_Finch_Tas2r1
+|                                         |  |     |  |     +--| (100)
+|                                         |  |     |  |     |  +--Zebra_Finch_Tas2r8
+|                                         |  |     |  +-----| (100)
+|                                         |  |     |        +--Zebra_Finch_Tas2r3
+|                                         |  |  +--| (83)
+|                                         |  |  |  |                           +--Gm_T2R1
+|                                         |  |  |  |                        +--| (97)
+|                                         |  |  |  |                        |  +--Tn_T2R1
+|                                         |  |  |  |               +--------| (100)
+|                                         |  |  |  |               |        +----Dr_T2R1
+|                                         |  |  |  |            +--| (87)
+|                                         |  |  |  |            |  |                      +--Chiloscyllium_punctatum---BEZZ01000514.1-303085-304101---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |                   +--| (100)
+|                                         |  |  |  |            |  |                   |  +--Chiloscyllium_plagiosum---CM012986.1-4461908-4462924---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |                +--| (100)
+|                                         |  |  |  |            |  |                |  +--Hemiscyllium_ocellatum---CM036686.1-43667640-43668656---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |             +--| (100)
+|                                         |  |  |  |            |  |             |  |     +--Ginglymostoma_cirratum---JAHRHZ010000132.1-202980-203993---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |             |  |  +--| (99)
+|                                         |  |  |  |            |  |             |  |  |  +--Rhincodon_typus---CM038826.1-278077-279270---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |             |  +--| (100)
+|                                         |  |  |  |            |  |             |     +--Stegostoma_fasciatum---CM039255.1-41488116-41489120---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |          +--| (87)
+|                                         |  |  |  |            |  |          |  |  +--Scyliorhinus_torazame---BFAA01014499.1-26256-27266---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |          |  +--| (100)
+|                                         |  |  |  |            |  |          |     +--Scyliorhinus_canicula---LR744047.1-71451999-71453033---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  +----------| (100)
+|                                         |  |  |  |            |             +--Pristis_pectinata---CM019896.1-3658922-3659917---1_exons---phobius-tmhmm
+|                                         |  |  |  |         +--| (60)
+|                                         |  |  |  |         |  |         +--------Gm_T2R2
+|                                         |  |  |  |         |  +---------| (100)
+|                                         |  |  |  |         |            |     +--Dr_T2R2
+|                                         |  |  |  |         |            +-----| (100)
+|                                         |  |  |  |         |                  +--Dr_T2R5
+|                                         |  |  |  |      +--| (80)
+|                                         |  |  |  |      |  |                            +--Gm_T2R3
+|                                         |  |  |  |      |  |                         +--| (86)
+|                                         |  |  |  |      |  |                         |  |  +--Gm_T2R4
+|                                         |  |  |  |      |  |                         |  +--| (86)
+|                                         |  |  |  |      |  |                         |     +--Gm_T2R5
+|                                         |  |  |  |      |  |                    +----| (100)
+|                                         |  |  |  |      |  |                    |    +--Gm_T2R6
+|                                         |  |  |  |      |  |                 +--| (89)
+|                                         |  |  |  |      |  |                 |  |           +--Tn_T2R2
+|                                         |  |  |  |      |  |                 |  |        +--| (100)
+|                                         |  |  |  |      |  |                 |  |        |  +--Tn_T2R5
+|                                         |  |  |  |      |  |                 |  |     +--| (100)
+|                                         |  |  |  |      |  |                 |  |     |  +--Tn_T2R4
+|                                         |  |  |  |      |  |                 |  +-----| (100)
+|                                         |  |  |  |      |  |                 |        +--Tn_T2R3
+|                                         |  |  |  |      |  |              +--| (99)
+|                                         |  |  |  |      |  |              |  +--------Tn_T2R6
+|                                         |  |  |  |      |  |           +--| (84)
+|                                         |  |  |  |      |  |           |  |         +--Dr_T2R3a
+|                                         |  |  |  |      |  |           |  |      +--| (100)
+|                                         |  |  |  |      |  |           |  |      |  +--Dr_T2R3b
+|                                         |  |  |  |      |  |           |  +------| (100)
+|                                         |  |  |  |      |  |           |         +--Dr_T2R6
+|                                         |  |  |  |      |  +-----------| (100)
+|                                         |  |  |  |      |              +----------Dr_T2R4
+|                                         |  |  |  +------| (100)
+|                                         |  |  |         |           +----Danio_rerio_Complete_CM002894.2_1590605_1591501-ORA5
+|                                         |  |  |         |    +------| (100)
+|                                         |  |  |         |    |      +---------Danio_rerio_Complete_CM002904.2_54658812_54659813-ORA6
+|                                         |  |  |         +----| (100)
+|                                         |  |  |              |              +--Danio_rerio_Complete_CM002906.2_208695_209643-ORA1
+|                                         |  |  |              |           +--| (99)
+|                                         |  |  |              |           |  +--frog_V1R17
+|                                         |  |  |              |        +--| (100)
+|                                         |  |  |              |        |  |        +--------rat_V1R103
+|                                         |  |  |              |        |  |     +--| (100)
+|                                         |  |  |              |        |  |     |  +-------rat_V1R104
+|                                         |  |  |              |        |  |  +--| (100)
+|                                         |  |  |              |        |  |  |  |         +--rat_V1R105
+|                                         |  |  |              |        |  |  |  +---------| (100)
+|                                         |  |  |              |        |  |  |            +--rat_V1r106
+|                                         |  |  |              |        |  +--| (100)
+|                                         |  |  |              |        |     |     +--frog_V1R19
+|                                         |  |  |              |        |     +-----| (100)
+|                                         |  |  |              |        |           +--frog_V1R20
+|                                         |  |  |              |     +--| (100)
+|                                         |  |  |              |     |  |              +---frog_V1R1
+|                                         |  |  |              |     |  |           +--| (99)
+|                                         |  |  |              |     |  |           |  |        +--frog_V1R10
+|                                         |  |  |              |     |  |           |  |     +--| (100)
+|                                         |  |  |              |     |  |           |  |     |  |  +--frog_V1R11
+|                                         |  |  |              |     |  |           |  |     |  +--| (100)
+|                                         |  |  |              |     |  |           |  |     |     |  +--frog_V1R12
+|                                         |  |  |              |     |  |           |  |     |     +--| (100)
+|                                         |  |  |              |     |  |           |  |     |        +--frog_V1R23
+|                                         |  |  |              |     |  |           |  |  +--| (100)
+|                                         |  |  |              |     |  |           |  |  |  +--frog_V1R13
+|                                         |  |  |              |     |  |           |  +--| (92)
+|                                         |  |  |              |     |  |           |     |  +**frog_V1R8
+|                                         |  |  |              |     |  |           |     +--| (100)
+|                                         |  |  |              |     |  |           |        +**frog_V1R9
+|                                         |  |  |              |     |  |        +--| (98)
+|                                         |  |  |              |     |  |        |  |  +--frog_V1R4
+|                                         |  |  |              |     |  |        |  +--| (100)
+|                                         |  |  |              |     |  |        |     |  +--frog_V1R5
+|                                         |  |  |              |     |  |        |     +--| (100)
+|                                         |  |  |              |     |  |        |        |  +**frog_V1R6
+|                                         |  |  |              |     |  |        |        +--| (100)
+|                                         |  |  |              |     |  |        |           +**frog_V1R7
+|                                         |  |  |              |     |  |     +--| (98)
+|                                         |  |  |              |     |  |     |  |  +--frog_V1R14
+|                                         |  |  |              |     |  |     |  +--| (100)
+|                                         |  |  |              |     |  |     |     |  +--frog_V1R15
+|                                         |  |  |              |     |  |     |     +--| (100)
+|                                         |  |  |              |     |  |     |        +--frog_V1R16
+|                                         |  |  |              |     |  |  +--| (100)
+|                                         |  |  |              |     |  |  |  |  +**frog_V1R2
+|                                         |  |  |              |     |  |  |  +--| (100)
+|                                         |  |  |              |     |  |  |     +**frog_V1R3
+|                                         |  |  |              |     |  +--| (100)
+|                                         |  |  |              |     |     +------frog_V1R18
+|                                         |  |  |              |  +--| (99)
+|                                         |  |  |              |  |  +------Danio_rerio_Complete_CM002906.2_213651_214559-ORA2
+|                                         |  |  |              +--| (99)
+|                                         |  |  |                 |     +---Danio_rerio_Complete_CM002906.2_374479_378234-ORA4
+|                                         |  |  |                 +-----| (100)
+|                                         |  |  |                       |    +--Danio_rerio_Complete_CM002906.2_381146_382956-ORA3
+|                                         |  |  |                       +----| (100)
+|                                         |  |  |                            +--Danio_rerio_Complete_CM002906.2_387076_392225-ORA3
+|                                         |  +--| (55)
+|                                         |     |  +--Turtle_Tas2r135
+|                                         |     +--| (100)
+|                                         |        |     +--Zebra_Finch_Tas2r4
+|                                         |        +-----| (100)
+|                                         |              |     +--Zebra_Finch_Tas2r5
+|                                         |              |  +--| (54)
+|                                         |              |  |  +--Zebra_Finch_Tas2r7
+|                                         |              +--| (54)
+|                                         |                 +--Zebra_Finch_Tas2r6
+|                                      +--| (29)
+|                                      |  |            +--Chimpanzee_Tas2r2
+|                                      |  |     +------| (100)
+|                                      |  |     |      +--Mouse_Tas2r1
+|                                      |  |  +--| (69)
+|                                      |  |  |  |        +--Chimpanzee_Tas2r16
+|                                      |  |  |  |     +--| (100)
+|                                      |  |  |  |     |  +---Mouse_Tas2r2
+|                                      |  |  |  |  +--| (100)
+|                                      |  |  |  |  |  |     +--Chimpanzee_Tas2r62
+|                                      |  |  |  |  |  |  +--| (100)
+|                                      |  |  |  |  |  |  |  +--Mouselemur_Tas2r62
+|                                      |  |  |  |  |  +--| (100)
+|                                      |  |  |  |  |     |  +--Mouse_Tas2r8
+|                                      |  |  |  |  |     +--| (100)
+|                                      |  |  |  |  |        +--Mouse_Tas2r134
+|                                      |  |  |  +--| (100)
+|                                      |  |  |     |     +--Chimpanzee_Tas2r41
+|                                      |  |  |     |  +--| (100)
+|                                      |  |  |     |  |  |  +--Mouse_Tas2r10
+|                                      |  |  |     |  |  +--| (100)
+|                                      |  |  |     |  |     +--Mouselemur_Tas2r41
+|                                      |  |  |     +--| (99)
+|                                      |  |  |        |   +--Chimpanzee_Tas2r60
+|                                      |  |  |        +---| (100)
+|                                      |  |  |            +--Mouse_Tas2r9
+|                                      |  +--| (33)
+|                                      |     |                 +--Turtle_Tas2r12
+|                                      |     |              +--| (100)
+|                                      |     |              |  +--Turtle_Tas2r46
+|                                      |     |           +--| (100)
+|                                      |     |           |  +--Turtle_Tas2r30
+|                                      |     |        +--| (100)
+|                                      |     |        |  +--Turtle_Tas2r62
+|                                      |     |     +--| (100)
+|                                      |     |     |  +--Turtle_Tas2r18
+|                                      |     |  +--| (88)
+|                                      |     |  |  +--Turtle_Tas2r42
+|                                      |     +--| (100)
+|                                      |        +--Turtle_Tas2r136
+|                                   +--| (13)
+|                                   |  |        +--------Chimpanzee_Tas2r5
+|                                   |  |     +--| (66)
+|                                   |  |     |  |  +--Turtle_Tas2r4
+|                                   |  |     |  +--| (100)
+|                                   |  |     |     +--Turtle_Tas2r7
+|                                   |  |  +--| (60)
+|                                   |  |  |  |        +--Mouse_Tas2r138
+|                                   |  |  |  +--------| (100)
+|                                   |  |  |           +--Mouselemur_Tas2r38
+|                                   |  +--| (14)
+|                                   |     +----Turtle_Tas2r8
+|                                +--| (100)
+|                                |  |        +--Chimpanzee_Tas2r4
+|                                |  +--------| (100)
+|                                |           +--Mouse_Tas2r108
+|                             +--| (99)
+|                             |  |      +--Chimpanzee_Tas2r3
+|                             |  |   +--| (100)
+|                             |  |   |  +--Mouselemur_Tas2r3
+|                             |  +---| (100)
+|                             |      +--Mouse_Tas2r3
+|                          +--| (72)
+|                          |  |   +--Chimpanzee_Tas2r10
+|                          |  +---| (100)
+|                          |      |  +--Mouse_Tas2r12
+|                          |      +--| (100)
+|                          |         |  +--Mouse_Tas2r13
+|                          |         +--| (98)
+|                          |            |  +--Mouse_Tas2r15
+|                          |            +--| (100)
+|                          |               +--Mouse_Tas2r16
+|                       +--| (75)
+|                       |  |     +--Chimpanzee_Tas2r7
+|                       |  |  +--| (100)
+|                       |  |  |  +--Mouse_Tas2r11
+|                       |  +--| (99)
+|                       |     |     +--Chimpanzee_Tas2r8
+|                       |     |  +--| (100)
+|                       |     |  |  +--Mouselemur_Tas2r8
+|                       |     +--| (85)
+|                       |        +---Chimpanzee_Tas2r9
+|                    +--| (71)
+|                    |  |  +------Mouse_Tas2r34
+|                    |  +--| (100)
+|                    |     |  +--Mouselemur_Tas2r67
+|                    |     +--| (100)
+|                    |        +--Mouselemur_Tas2r67a
+|                 +--| (100)
+|                 |  +--------Mouse_Tas2r19
+|              +**| (65)
+|              |  |  +--Chimpanzee_Tas2r14
+|              |  +--| (100)
+|              |     |     +----Mouse_Tas2r20
+|              |     |  +--| (44)
+|              |     |  |  |  +--Mouse_Tas2r31
+|              |     |  |  +--| (86)
+|              |     |  |     |  +---Mouse_Tas2r33
+|              |     |  |     +--| (99)
+|              |     |  |        |  +--Mouse_Tas2r35
+|              |     |  |        +--| (100)
+|              |     |  |           +--Mouse_Tas2r117
+|              |     +--| (52)
+|              |        |         +--Mouse_Tas2r26
+|              |        |     +---| (100)
+|              |        |     |   +--Mouse_Tas2r28
+|              |        |  +--| (67)
+|              |        |  |  |  +--Mouse_Tas2r38
+|              |        |  |  +--| (100)
+|              |        |  |     +--Mouse_Tas2r39
+|              |        +--| (61)
+|              |           |  +--Mouse_Tas2r27
+|              |           +--| (98)
+|              |              +---Mouse_Tas2r29
+|           +--| (100)
+|           |  |  +--Chimpanzee_Tas2r13
+|           |  +--| (100)
+|           |     |  +--Mouse_Tas2r18
+|           |     +--| (98)
+|           |        |  +--Mouse_Tas2r21
+|           |        +--| (100)
+|           |           +--Mouse_Tas2r22
+|        +--| (99)
+|        |  |  +--Mouse_Tas2r17
+|        |  +--| (99)
+|        |     +---Mouse_Tas2r23
+|     +--| (99)
+|     |  |     +--Chimpanzee_Tas2r19
+|     |  |  +--| (100)
+|     |  |  |  +--Chimpanzee_Tas2r49
+|     |  +--| (97)
+|     |     +--Chimpanzee_Tas2r20
+|  +--| (100)
+|  |  +--Chimpanzee_Tas2r50
++--| (100)
+|  |     +--Chimpanzee_Tas2r43
+|  |  +--| (100)
+|  |  |  +--Chimpanzee_Tas2r45
+|  +--| (100)
+|     +--Chimpanzee_Tas2r451
+|
++--Chimpanzee_Tas2r66
+
+Tree in newick format:
+
+(Chimpanzee_Tas2r30:0.1273893831,(((((((((((((((((Chimpanzee_Tas2r1:0.2992958293,Mouselemur_Tas2r1:0.3056384961)99:0.1363885027,Mouse_Tas2r1A:0.5560193483)100:0.9267463844,(((((Chimpanzee_Tas2r39:0.2313675257,Mouse_Tas2r6:0.6351720397)100:0.1973514904,((Chimpanzee_Tas2r40:0.1029469932,Mouselemur_Tas2r40:0.1965343600)100:0.0552475257,Mouse_Tas2r7:0.3301644610)100:0.2230148990)100:0.6056727930,((Zebra_Finch_Tas2r1:0.1110219471,Zebra_Finch_Tas2r8:0.1877154241)100:0.0589935858,Zebra_Finch_Tas2r3:0.1663890857)100:0.8147125441)90:0.0554062622,((((((Gm_T2R1:0.3150305638,Tn_T2R1:0.5175421696)97:0.1515852509,Dr_T2R1:0.7290633304)100:1.3115306490,(((((Chiloscyllium_punctatum---BEZZ01000514.1-303085-304101---1_exons---phobius-tmhmm:0.0269492144,Chiloscyllium_plagiosum---CM012986.1-4461908-4462924---1_exons---phobius-tmhmm:0.0212993309)100:0.0103710164,Hemiscyllium_ocellatum---CM036686.1-43667640-43668656---1_exons---phobius-tmhmm:0.0263156157)100:0.0777976653,((Ginglymostoma_cirratum---JAHRHZ010000132.1-202980-203993---1_exons---phobius-tmhmm:0.0334791777,Rhincodon_typus---CM038826.1-278077-279270---1_exons---phobius-tmhmm:0.0208592999)99:0.0090797105,Stegostoma_fasciatum---CM039255.1-41488116-41489120---1_exons---phobius-tmhmm:0.0603420587)100:0.1436143982)100:0.2503048245,(Scyliorhinus_torazame---BFAA01014499.1-26256-27266---1_exons---phobius-tmhmm:0.0253410016,Scyliorhinus_canicula---LR744047.1-71451999-71453033---1_exons---phobius-tmhmm:0.1052979383)100:0.2387657098)87:0.2284423200,Pristis_pectinata---CM019896.1-3658922-3659917---1_exons---phobius-tmhmm:0.4682574598)100:1.5845726120)87:0.2565630593,(Gm_T2R2:1.2103533089,(Dr_T2R2:0.1553310280,Dr_T2R5:0.1108693228)100:0.9008490836)100:1.3739539450)60:0.0321473854,((((((Gm_T2R3:0.2062828400,(Gm_T2R4:0.1652272854,Gm_T2R5:0.2824303640)86:0.0388661393)86:0.0614251052,Gm_T2R6:0.1173272943)100:0.6747666768,(((Tn_T2R2:0.0341006151,Tn_T2R5:0.0272816932)100:0.1793572068,Tn_T2R4:0.1151657936)100:0.2122422846,Tn_T2R3:0.1940605224)100:0.8657610227)89:0.1169601732,Tn_T2R6:1.3162889067)99:0.2697605992,((Dr_T2R3a:0.0092155235,Dr_T2R3b:0.0310638350)100:0.3123984552,Dr_T2R6:0.5313808164)100:0.9722290845)84:0.1910840704,Dr_T2R4:1.5146765615)100:1.6145922850)80:0.2862484454,((Danio_rerio_Complete_CM002894.2_1590605_1591501-ORA5:0.7241926674,Danio_rerio_Complete_CM002904.2_54658812_54659813-ORA6:1.4675543512)100:0.9625476847,(((((Danio_rerio_Complete_CM002906.2_208695_209643-ORA1:0.2982842487,frog_V1R17:0.4463584008)99:0.1326811770,(((rat_V1R103:1.2351464838,rat_V1R104:1.1379355034)100:0.2903769160,(rat_V1R105:0.1449532605,rat_V1r106:0.3323378132)100:1.3800152120)100:0.3619549898,(frog_V1R19:0.1046876679,frog_V1R20:0.1427973096)100:0.8881202946)100:0.2670833119)100:0.2018387387,(((((frog_V1R1:0.5911543305,(((frog_V1R10:0.0034139265,(frog_V1R11:0.0844547967,(frog_V1R12:0.0663403736,frog_V1R23:0.0121124313)100:0.0247836001)100:0.0665033764)100:0.2457492437,frog_V1R13:0.3105027259)100:0.1133022216,(frog_V1R8:0.0000010060,frog_V1R9:0.0000010060)100:0.3244998427)92:0.0727196119)99:0.0850618694,(frog_V1R4:0.0987282339,(frog_V1R5:0.0612327924,(frog_V1R6:0.0000010060,frog_V1R7:0.0000010060)100:0.0684962408)100:0.0594759650)100:0.2006877482)98:0.1536424653,(frog_V1R14:0.1665372915,(frog_V1R15:0.0963287475,frog_V1R16:0.1519586489)100:0.0613968168)100:0.4352946344)98:0.1508190856,(frog_V1R2:0.0000010060,frog_V1R3:0.0000010060)100:0.4987621329)100:0.2471173917,frog_V1R18:1.0220168344)100:0.1971497679)100:0.3198503690,Danio_rerio_Complete_CM002906.2_213651_214559-ORA2:0.9359250492)99:0.4984596021,(Danio_rerio_Complete_CM002906.2_374479_378234-ORA4:0.6597347265,(Danio_rerio_Complete_CM002906.2_381146_382956-ORA3:0.1357742772,Danio_rerio_Complete_CM002906.2_387076_392225-ORA3:0.1562891860)100:0.7036274437)100:0.8811083308)99:0.4231282682)100:0.7980167580)100:0.9810032923)83:0.1483756278,(Turtle_Tas2r135:0.4552488282,(Zebra_Finch_Tas2r4:0.1902087098,((Zebra_Finch_Tas2r5:0.3402024975,Zebra_Finch_Tas2r7:0.2726486415)54:0.0847940253,Zebra_Finch_Tas2r6:0.2521666618)54:0.0653202367)100:0.9323281053)100:0.4550387804)55:0.1238920200)58:0.0894982570,(((Chimpanzee_Tas2r2:0.0826032911,Mouse_Tas2r1:0.4642877352)100:1.0349683680,(((Chimpanzee_Tas2r16:0.2919889665,Mouse_Tas2r2:0.5500546098)100:0.4861262112,((Chimpanzee_Tas2r62:0.4166150513,Mouselemur_Tas2r62:0.3033505282)100:0.0769521050,(Mouse_Tas2r8:0.4058162726,Mouse_Tas2r134:0.3538941463)100:0.1255335962)100:0.4491896817)100:0.3162663777,((Chimpanzee_Tas2r41:0.2069628947,(Mouse_Tas2r10:0.2693751458,Mouselemur_Tas2r41:0.2646638220)100:0.0530596252)100:0.4686646326,(Chimpanzee_Tas2r60:0.2878093038,Mouse_Tas2r9:0.4407168051)100:0.6168896146)99:0.2249943508)100:0.4317536567)69:0.1390713000,((((((Turtle_Tas2r12:0.0269685979,Turtle_Tas2r46:0.0415961292)100:0.0752110560,Turtle_Tas2r30:0.0591040924)100:0.0461844372,Turtle_Tas2r62:0.1141617982)100:0.0803030056,Turtle_Tas2r18:0.1591370945)100:0.2977366538,Turtle_Tas2r42:0.2827409207)88:0.0854690915,Turtle_Tas2r136:0.2572374395)100:0.5234449165)33:0.0943483216)29:0.0868115735,(((Chimpanzee_Tas2r5:1.2752013182,(Turtle_Tas2r4:0.3499710700,Turtle_Tas2r7:0.3242889282)100:0.4727446706)66:0.1249129047,(Mouse_Tas2r138:0.2000350336,Mouselemur_Tas2r38:0.3041980925)100:1.2611692130)60:0.0344483108,Turtle_Tas2r8:0.7809745803)14:0.0619901643)13:0.0853766645,(Chimpanzee_Tas2r4:0.1791044764,Mouse_Tas2r108:0.3780194239)100:1.2995929740)100:0.4553485997,((Chimpanzee_Tas2r3:0.1867975925,Mouselemur_Tas2r3:0.2022210336)100:0.0803545396,Mouse_Tas2r3:0.3437762748)100:0.5555506587)99:0.1285484823,(Chimpanzee_Tas2r10:0.2763838149,(Mouse_Tas2r12:0.3868052711,(Mouse_Tas2r13:0.4314976531,(Mouse_Tas2r15:0.3869178269,Mouse_Tas2r16:0.3550284245)100:0.0839167712)98:0.0324764596)100:0.1424108099)100:0.5637915565)72:0.0975136597,((Chimpanzee_Tas2r7:0.1542349856,Mouse_Tas2r11:0.3331019615)100:0.2753059022,((Chimpanzee_Tas2r8:0.2500420540,Mouselemur_Tas2r8:0.1871182113)100:0.4203906935,Chimpanzee_Tas2r9:0.6283476223)85:0.0610953707)99:0.0828298528)75:0.1328914004,(Mouse_Tas2r34:0.9929111686,(Mouselemur_Tas2r67:0.1250263501,Mouselemur_Tas2r67a:0.1516141239)100:0.2895366696)100:0.3837802635)71:0.0873940041,Mouse_Tas2r19:1.2307798064)100:0.3293359149,(Chimpanzee_Tas2r14:0.4125589250,((Mouse_Tas2r20:0.6868026643,(Mouse_Tas2r31:0.4491684671,(Mouse_Tas2r33:0.6592520292,(Mouse_Tas2r35:0.2894210530,Mouse_Tas2r117:0.2771459295)100:0.2823948141)99:0.1098998150)86:0.0638839239)44:0.0401840797,(((Mouse_Tas2r26:0.2023460121,Mouse_Tas2r28:0.1087909529)100:0.5650554405,(Mouse_Tas2r38:0.5341389877,Mouse_Tas2r39:0.3730627752)100:0.1326253514)67:0.0473324859,(Mouse_Tas2r27:0.4750833458,Mouse_Tas2r29:0.6093461962)98:0.0810642602)61:0.0538945515)52:0.0707765243)100:0.2092045109)65:0.0000029717,(Chimpanzee_Tas2r13:0.3236661295,(Mouse_Tas2r18:0.4177465634,(Mouse_Tas2r21:0.2800467018,Mouse_Tas2r22:0.2798191457)100:0.3183617402)98:0.0722833577)100:0.3298751105)100:0.3531858072,(Mouse_Tas2r17:0.5189937876,Mouse_Tas2r23:0.6673862529)99:0.1729138012)99:0.1378309166,((Chimpanzee_Tas2r19:0.0541780616,Chimpanzee_Tas2r49:0.0861419999)100:0.1609339320,Chimpanzee_Tas2r20:0.2383052738)97:0.0346700348)99:0.0345945123,Chimpanzee_Tas2r50:0.2661453246)100:0.1371926022,((Chimpanzee_Tas2r43:0.0467086017,Chimpanzee_Tas2r45:0.0645944938)100:0.0341457914,Chimpanzee_Tas2r451:0.0676172573)100:0.0239632826)100:0.0280710724,Chimpanzee_Tas2r66:0.0445133874);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -67730.110748
+Robinson-Foulds distance between ML tree and consensus tree: 4
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--Chimpanzee_Tas2r30
+|
+|                                                     +--Chimpanzee_Tas2r1
+|                                                  +--| (99)
+|                                                  |  +--Mouselemur_Tas2r1
+|                                            +-----| (100)
+|                                            |     +---Mouse_Tas2r1A
+|                                         +--| (58)
+|                                         |  |               +--Chimpanzee_Tas2r39
+|                                         |  |            +--| (100)
+|                                         |  |            |  +---Mouse_Tas2r6
+|                                         |  |        +---| (100)
+|                                         |  |        |   |     +--Chimpanzee_Tas2r40
+|                                         |  |        |   |  +--| (100)
+|                                         |  |        |   |  |  +--Mouselemur_Tas2r40
+|                                         |  |        |   +--| (100)
+|                                         |  |        |      +--Mouse_Tas2r7
+|                                         |  |     +--| (90)
+|                                         |  |     |  |        +--Zebra_Finch_Tas2r1
+|                                         |  |     |  |     +--| (100)
+|                                         |  |     |  |     |  +--Zebra_Finch_Tas2r8
+|                                         |  |     |  +-----| (100)
+|                                         |  |     |        +--Zebra_Finch_Tas2r3
+|                                         |  |  +--| (83)
+|                                         |  |  |  |                           +--Gm_T2R1
+|                                         |  |  |  |                        +--| (97)
+|                                         |  |  |  |                        |  +--Tn_T2R1
+|                                         |  |  |  |               +--------| (100)
+|                                         |  |  |  |               |        +----Dr_T2R1
+|                                         |  |  |  |            +--| (87)
+|                                         |  |  |  |            |  |                      +--Chiloscyllium_punctatum---BEZZ01000514.1-303085-304101---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |                   +--| (100)
+|                                         |  |  |  |            |  |                   |  +--Chiloscyllium_plagiosum---CM012986.1-4461908-4462924---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |                +--| (100)
+|                                         |  |  |  |            |  |                |  +--Hemiscyllium_ocellatum---CM036686.1-43667640-43668656---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |             +--| (100)
+|                                         |  |  |  |            |  |             |  |     +--Ginglymostoma_cirratum---JAHRHZ010000132.1-202980-203993---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |             |  |  +--| (99)
+|                                         |  |  |  |            |  |             |  |  |  +--Rhincodon_typus---CM038826.1-278077-279270---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |             |  +--| (100)
+|                                         |  |  |  |            |  |             |     +--Stegostoma_fasciatum---CM039255.1-41488116-41489120---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |          +--| (87)
+|                                         |  |  |  |            |  |          |  |  +--Scyliorhinus_torazame---BFAA01014499.1-26256-27266---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  |          |  +--| (100)
+|                                         |  |  |  |            |  |          |     +--Scyliorhinus_canicula---LR744047.1-71451999-71453033---1_exons---phobius-tmhmm
+|                                         |  |  |  |            |  +----------| (100)
+|                                         |  |  |  |            |             +--Pristis_pectinata---CM019896.1-3658922-3659917---1_exons---phobius-tmhmm
+|                                         |  |  |  |         +--| (60)
+|                                         |  |  |  |         |  |         +--------Gm_T2R2
+|                                         |  |  |  |         |  +---------| (100)
+|                                         |  |  |  |         |            |     +--Dr_T2R2
+|                                         |  |  |  |         |            +-----| (100)
+|                                         |  |  |  |         |                  +--Dr_T2R5
+|                                         |  |  |  |      +--| (80)
+|                                         |  |  |  |      |  |                            +--Gm_T2R3
+|                                         |  |  |  |      |  |                         +--| (86)
+|                                         |  |  |  |      |  |                         |  |  +--Gm_T2R4
+|                                         |  |  |  |      |  |                         |  +--| (86)
+|                                         |  |  |  |      |  |                         |     +--Gm_T2R5
+|                                         |  |  |  |      |  |                    +----| (100)
+|                                         |  |  |  |      |  |                    |    +--Gm_T2R6
+|                                         |  |  |  |      |  |                 +--| (89)
+|                                         |  |  |  |      |  |                 |  |           +--Tn_T2R2
+|                                         |  |  |  |      |  |                 |  |        +--| (100)
+|                                         |  |  |  |      |  |                 |  |        |  +--Tn_T2R5
+|                                         |  |  |  |      |  |                 |  |     +--| (100)
+|                                         |  |  |  |      |  |                 |  |     |  +--Tn_T2R4
+|                                         |  |  |  |      |  |                 |  +-----| (100)
+|                                         |  |  |  |      |  |                 |        +--Tn_T2R3
+|                                         |  |  |  |      |  |              +--| (99)
+|                                         |  |  |  |      |  |              |  +--------Tn_T2R6
+|                                         |  |  |  |      |  |           +--| (84)
+|                                         |  |  |  |      |  |           |  |         +--Dr_T2R3a
+|                                         |  |  |  |      |  |           |  |      +--| (100)
+|                                         |  |  |  |      |  |           |  |      |  +--Dr_T2R3b
+|                                         |  |  |  |      |  |           |  +------| (100)
+|                                         |  |  |  |      |  |           |         +--Dr_T2R6
+|                                         |  |  |  |      |  +-----------| (100)
+|                                         |  |  |  |      |              +----------Dr_T2R4
+|                                         |  |  |  +------| (100)
+|                                         |  |  |         |           +----Danio_rerio_Complete_CM002894.2_1590605_1591501-ORA5
+|                                         |  |  |         |    +------| (100)
+|                                         |  |  |         |    |      +---------Danio_rerio_Complete_CM002904.2_54658812_54659813-ORA6
+|                                         |  |  |         +----| (100)
+|                                         |  |  |              |              +--Danio_rerio_Complete_CM002906.2_208695_209643-ORA1
+|                                         |  |  |              |           +--| (99)
+|                                         |  |  |              |           |  +--frog_V1R17
+|                                         |  |  |              |        +--| (100)
+|                                         |  |  |              |        |  |        +--------rat_V1R103
+|                                         |  |  |              |        |  |     +--| (100)
+|                                         |  |  |              |        |  |     |  +-------rat_V1R104
+|                                         |  |  |              |        |  |  +--| (100)
+|                                         |  |  |              |        |  |  |  |         +--rat_V1R105
+|                                         |  |  |              |        |  |  |  +---------| (100)
+|                                         |  |  |              |        |  |  |            +--rat_V1r106
+|                                         |  |  |              |        |  +--| (100)
+|                                         |  |  |              |        |     |     +--frog_V1R19
+|                                         |  |  |              |        |     +-----| (100)
+|                                         |  |  |              |        |           +--frog_V1R20
+|                                         |  |  |              |     +--| (100)
+|                                         |  |  |              |     |  |              +---frog_V1R1
+|                                         |  |  |              |     |  |           +--| (99)
+|                                         |  |  |              |     |  |           |  |        +--frog_V1R10
+|                                         |  |  |              |     |  |           |  |     +--| (100)
+|                                         |  |  |              |     |  |           |  |     |  |  +--frog_V1R11
+|                                         |  |  |              |     |  |           |  |     |  +--| (100)
+|                                         |  |  |              |     |  |           |  |     |     |  +--frog_V1R12
+|                                         |  |  |              |     |  |           |  |     |     +--| (100)
+|                                         |  |  |              |     |  |           |  |     |        +--frog_V1R23
+|                                         |  |  |              |     |  |           |  |  +--| (100)
+|                                         |  |  |              |     |  |           |  |  |  +--frog_V1R13
+|                                         |  |  |              |     |  |           |  +--| (92)
+|                                         |  |  |              |     |  |           |     |  +--frog_V1R8
+|                                         |  |  |              |     |  |           |     +--| (100)
+|                                         |  |  |              |     |  |           |        +--frog_V1R9
+|                                         |  |  |              |     |  |        +--| (98)
+|                                         |  |  |              |     |  |        |  |  +--frog_V1R4
+|                                         |  |  |              |     |  |        |  +--| (100)
+|                                         |  |  |              |     |  |        |     |  +--frog_V1R5
+|                                         |  |  |              |     |  |        |     +--| (100)
+|                                         |  |  |              |     |  |        |        |  +--frog_V1R6
+|                                         |  |  |              |     |  |        |        +--| (100)
+|                                         |  |  |              |     |  |        |           +--frog_V1R7
+|                                         |  |  |              |     |  |     +--| (98)
+|                                         |  |  |              |     |  |     |  |  +--frog_V1R14
+|                                         |  |  |              |     |  |     |  +--| (100)
+|                                         |  |  |              |     |  |     |     |  +--frog_V1R15
+|                                         |  |  |              |     |  |     |     +--| (100)
+|                                         |  |  |              |     |  |     |        +--frog_V1R16
+|                                         |  |  |              |     |  |  +--| (100)
+|                                         |  |  |              |     |  |  |  |  +--frog_V1R2
+|                                         |  |  |              |     |  |  |  +--| (100)
+|                                         |  |  |              |     |  |  |     +--frog_V1R3
+|                                         |  |  |              |     |  +--| (100)
+|                                         |  |  |              |     |     +------frog_V1R18
+|                                         |  |  |              |  +--| (99)
+|                                         |  |  |              |  |  +-----Danio_rerio_Complete_CM002906.2_213651_214559-ORA2
+|                                         |  |  |              +--| (99)
+|                                         |  |  |                 |     +---Danio_rerio_Complete_CM002906.2_374479_378234-ORA4
+|                                         |  |  |                 +-----| (100)
+|                                         |  |  |                       |    +--Danio_rerio_Complete_CM002906.2_381146_382956-ORA3
+|                                         |  |  |                       +----| (100)
+|                                         |  |  |                            +--Danio_rerio_Complete_CM002906.2_387076_392225-ORA3
+|                                         |  +--| (55)
+|                                         |     |  +--Turtle_Tas2r135
+|                                         |     +--| (100)
+|                                         |        |     +--Zebra_Finch_Tas2r4
+|                                         |        +-----| (100)
+|                                         |              |     +--Zebra_Finch_Tas2r5
+|                                         |              |  +--| (54)
+|                                         |              |  |  +--Zebra_Finch_Tas2r7
+|                                         |              +--| (54)
+|                                         |                 +--Zebra_Finch_Tas2r6
+|                                      +--| (29)
+|                                      |  |            +--Chimpanzee_Tas2r2
+|                                      |  |     +------| (100)
+|                                      |  |     |      +--Mouse_Tas2r1
+|                                      |  |  +--| (69)
+|                                      |  |  |  |        +--Chimpanzee_Tas2r16
+|                                      |  |  |  |     +--| (100)
+|                                      |  |  |  |     |  +---Mouse_Tas2r2
+|                                      |  |  |  |  +--| (100)
+|                                      |  |  |  |  |  |     +--Chimpanzee_Tas2r62
+|                                      |  |  |  |  |  |  +--| (100)
+|                                      |  |  |  |  |  |  |  +--Mouselemur_Tas2r62
+|                                      |  |  |  |  |  +--| (100)
+|                                      |  |  |  |  |     |  +--Mouse_Tas2r8
+|                                      |  |  |  |  |     +--| (100)
+|                                      |  |  |  |  |        +--Mouse_Tas2r134
+|                                      |  |  |  +--| (100)
+|                                      |  |  |     |     +--Chimpanzee_Tas2r41
+|                                      |  |  |     |  +--| (100)
+|                                      |  |  |     |  |  |  +--Mouse_Tas2r10
+|                                      |  |  |     |  |  +--| (100)
+|                                      |  |  |     |  |     +--Mouselemur_Tas2r41
+|                                      |  |  |     +--| (99)
+|                                      |  |  |        |   +--Chimpanzee_Tas2r60
+|                                      |  |  |        +---| (100)
+|                                      |  |  |            +--Mouse_Tas2r9
+|                                      |  +--| (33)
+|                                      |     |                 +--Turtle_Tas2r12
+|                                      |     |              +--| (100)
+|                                      |     |              |  +--Turtle_Tas2r46
+|                                      |     |           +--| (100)
+|                                      |     |           |  +--Turtle_Tas2r30
+|                                      |     |        +--| (100)
+|                                      |     |        |  +--Turtle_Tas2r62
+|                                      |     |     +--| (100)
+|                                      |     |     |  +--Turtle_Tas2r18
+|                                      |     |  +--| (88)
+|                                      |     |  |  +--Turtle_Tas2r42
+|                                      |     +--| (100)
+|                                      |        +--Turtle_Tas2r136
+|                                   +--| (28)
+|                                   |  |           +--Chimpanzee_Tas2r4
+|                                   |  |  +--------| (100)
+|                                   |  |  |        +--Mouse_Tas2r108
+|                                   |  +--| (66)
+|                                   |     +----Turtle_Tas2r8
+|                                +--| (100)
+|                                |  |     +--------Chimpanzee_Tas2r5
+|                                |  |  +--| (66)
+|                                |  |  |  |  +--Turtle_Tas2r4
+|                                |  |  |  +--| (100)
+|                                |  |  |     +--Turtle_Tas2r7
+|                                |  +--| (60)
+|                                |     |        +--Mouse_Tas2r138
+|                                |     +--------| (100)
+|                                |              +--Mouselemur_Tas2r38
+|                             +--| (99)
+|                             |  |      +--Chimpanzee_Tas2r3
+|                             |  |   +--| (100)
+|                             |  |   |  +--Mouselemur_Tas2r3
+|                             |  +---| (100)
+|                             |      +--Mouse_Tas2r3
+|                          +--| (72)
+|                          |  |   +--Chimpanzee_Tas2r10
+|                          |  +---| (100)
+|                          |      |  +--Mouse_Tas2r12
+|                          |      +--| (100)
+|                          |         |  +--Mouse_Tas2r13
+|                          |         +--| (98)
+|                          |            |  +--Mouse_Tas2r15
+|                          |            +--| (100)
+|                          |               +--Mouse_Tas2r16
+|                       +--| (75)
+|                       |  |     +--Chimpanzee_Tas2r7
+|                       |  |  +--| (100)
+|                       |  |  |  +--Mouse_Tas2r11
+|                       |  +--| (99)
+|                       |     |     +--Chimpanzee_Tas2r8
+|                       |     |  +--| (100)
+|                       |     |  |  +--Mouselemur_Tas2r8
+|                       |     +--| (85)
+|                       |        +---Chimpanzee_Tas2r9
+|                    +--| (71)
+|                    |  |  +------Mouse_Tas2r34
+|                    |  +--| (100)
+|                    |     |  +--Mouselemur_Tas2r67
+|                    |     +--| (100)
+|                    |        +--Mouselemur_Tas2r67a
+|                 +--| (100)
+|                 |  +--------Mouse_Tas2r19
+|              +--| (65)
+|              |  |  +--Chimpanzee_Tas2r14
+|              |  +--| (100)
+|              |     |     +----Mouse_Tas2r20
+|              |     |  +--| (44)
+|              |     |  |  |  +--Mouse_Tas2r31
+|              |     |  |  +--| (86)
+|              |     |  |     |  +---Mouse_Tas2r33
+|              |     |  |     +--| (99)
+|              |     |  |        |  +--Mouse_Tas2r35
+|              |     |  |        +--| (100)
+|              |     |  |           +--Mouse_Tas2r117
+|              |     +--| (52)
+|              |        |         +--Mouse_Tas2r26
+|              |        |     +---| (100)
+|              |        |     |   +--Mouse_Tas2r28
+|              |        |  +--| (67)
+|              |        |  |  |  +--Mouse_Tas2r38
+|              |        |  |  +--| (100)
+|              |        |  |     +--Mouse_Tas2r39
+|              |        +--| (61)
+|              |           |  +--Mouse_Tas2r27
+|              |           +--| (98)
+|              |              +---Mouse_Tas2r29
+|           +--| (100)
+|           |  |  +--Chimpanzee_Tas2r13
+|           |  +--| (100)
+|           |     |  +--Mouse_Tas2r18
+|           |     +--| (98)
+|           |        |  +--Mouse_Tas2r21
+|           |        +--| (100)
+|           |           +--Mouse_Tas2r22
+|        +--| (99)
+|        |  |  +--Mouse_Tas2r17
+|        |  +--| (99)
+|        |     +---Mouse_Tas2r23
+|     +--| (99)
+|     |  |     +--Chimpanzee_Tas2r19
+|     |  |  +--| (100)
+|     |  |  |  +--Chimpanzee_Tas2r49
+|     |  +--| (97)
+|     |     +--Chimpanzee_Tas2r20
+|  +--| (100)
+|  |  +--Chimpanzee_Tas2r50
++--| (100)
+|  |     +--Chimpanzee_Tas2r43
+|  |  +--| (100)
+|  |  |  +--Chimpanzee_Tas2r45
+|  +--| (100)
+|     +--Chimpanzee_Tas2r451
+|
++--Chimpanzee_Tas2r66
+
+
+Consensus tree in newick format: 
+
+(Chimpanzee_Tas2r30:0.1273327493,(((((((((((((((((Chimpanzee_Tas2r1:0.2996102486,Mouselemur_Tas2r1:0.3047113763)99:0.1362953217,Mouse_Tas2r1A:0.5554175803)100:0.9268701437,(((((Chimpanzee_Tas2r39:0.2309949097,Mouse_Tas2r6:0.6345913298)100:0.1968788244,((Chimpanzee_Tas2r40:0.1028646859,Mouselemur_Tas2r40:0.1963363988)100:0.0552050273,Mouse_Tas2r7:0.3298634496)100:0.2233349246)100:0.6046169928,((Zebra_Finch_Tas2r1:0.1109322659,Zebra_Finch_Tas2r8:0.1875486769)100:0.0590245477,Zebra_Finch_Tas2r3:0.1661554316)100:0.8118462493)90:0.0637862907,((((((Gm_T2R1:0.3146528224,Tn_T2R1:0.5171119965)97:0.1529394173,Dr_T2R1:0.7267437486)100:1.3110777476,(((((Chiloscyllium_punctatum---BEZZ01000514.1-303085-304101---1_exons---phobius-tmhmm:0.0269201813,Chiloscyllium_plagiosum---CM012986.1-4461908-4462924---1_exons---phobius-tmhmm:0.0212767802)100:0.0103551943,Hemiscyllium_ocellatum---CM036686.1-43667640-43668656---1_exons---phobius-tmhmm:0.0263008827)100:0.0777261825,((Ginglymostoma_cirratum---JAHRHZ010000132.1-202980-203993---1_exons---phobius-tmhmm:0.0334450145,Rhincodon_typus---CM038826.1-278077-279270---1_exons---phobius-tmhmm:0.0208363409)99:0.0090705548,Stegostoma_fasciatum---CM039255.1-41488116-41489120---1_exons---phobius-tmhmm:0.0602768088)100:0.1434565501)100:0.2498467476,(Scyliorhinus_torazame---BFAA01014499.1-26256-27266---1_exons---phobius-tmhmm:0.0253407261,Scyliorhinus_canicula---LR744047.1-71451999-71453033---1_exons---phobius-tmhmm:0.1051720025)100:0.2386926749)87:0.2284808067,Pristis_pectinata---CM019896.1-3658922-3659917---1_exons---phobius-tmhmm:0.4675140340)100:1.5782491860)87:0.2576840732,(Gm_T2R2:1.2068023154,(Dr_T2R2:0.1555495922,Dr_T2R5:0.1104237694)100:0.9004564579)100:1.3717506389)60:0.0286407251,((((((Gm_T2R3:0.2060839525,(Gm_T2R4:0.1650511159,Gm_T2R5:0.2821829249)86:0.0388429093)86:0.0614081874,Gm_T2R6:0.1172711204)100:0.6734065952,(((Tn_T2R2:0.0340624525,Tn_T2R5:0.0272545934)100:0.1790857100,Tn_T2R4:0.1151140506)100:0.2116329588,Tn_T2R3:0.1942052086)100:0.8648273384)89:0.1167545673,Tn_T2R6:1.3148547190)99:0.2692784495,((Dr_T2R3a:0.0092047676,Dr_T2R3b:0.0310370628)100:0.3113967603,Dr_T2R6:0.5313199571)100:0.9711718990)84:0.1904138153,Dr_T2R4:1.5131255407)100:1.6151124361)80:0.2881614281,((Danio_rerio_Complete_CM002894.2_1590605_1591501-ORA5:0.7231921029,Danio_rerio_Complete_CM002904.2_54658812_54659813-ORA6:1.4665318240)100:0.9628798079,(((((Danio_rerio_Complete_CM002906.2_208695_209643-ORA1:0.2979256646,frog_V1R17:0.4457502311)99:0.1325895444,(((rat_V1R103:1.2333097892,rat_V1R104:1.1359305186)100:0.2904857860,(rat_V1R105:0.1446686244,rat_V1r106:0.3322666983)100:1.3774086312)100:0.3610088722,(frog_V1R19:0.1046732993,frog_V1R20:0.1425978945)100:0.8866593377)100:0.2676152687)100:0.2015393768,(((((frog_V1R1:0.5902497789,(((frog_V1R10:0.0034691101,(frog_V1R11:0.0843199779,(frog_V1R12:0.0662403601,frog_V1R23:0.0120985740)100:0.0247501876)100:0.0663567346)100:0.2454504093,frog_V1R13:0.3099545191)100:0.1131489928,(frog_V1R8:0.0000029964,frog_V1R9:0.0000029964)100:0.3240446050)92:0.0726828432)99:0.0848503121,(frog_V1R4:0.0986117281,(frog_V1R5:0.0611582022,(frog_V1R6:0.0000029964,frog_V1R7:0.0000029964)100:0.0684093047)100:0.0593986780)100:0.2004101049)98:0.1535386689,(frog_V1R14:0.1662813138,(frog_V1R15:0.0962166514,frog_V1R16:0.1517458233)100:0.0613993566)100:0.4346141343)98:0.1505210362,(frog_V1R2:0.0000029964,frog_V1R3:0.0000029964)100:0.4980588521)100:0.2470476128,frog_V1R18:1.0201010998)100:0.1970904624)100:0.3200000796,Danio_rerio_Complete_CM002906.2_213651_214559-ORA2:0.9339931733)99:0.4975104119,(Danio_rerio_Complete_CM002906.2_374479_378234-ORA4:0.6596967038,(Danio_rerio_Complete_CM002906.2_381146_382956-ORA3:0.1356744329,Danio_rerio_Complete_CM002906.2_387076_392225-ORA3:0.1561886005)100:0.7019625951)100:0.8795258557)99:0.4226084398)100:0.7951388179)100:0.9775452273)83:0.1461442739,(Turtle_Tas2r135:0.4530137406,(Zebra_Finch_Tas2r4:0.1921936921,((Zebra_Finch_Tas2r5:0.3401773290,Zebra_Finch_Tas2r7:0.2720592859)54:0.0845228317,Zebra_Finch_Tas2r6:0.2522729151)54:0.0631211346)100:0.9320226007)100:0.4543776742)55:0.1167094147)58:0.0956603321,(((Chimpanzee_Tas2r2:0.0819000604,Mouse_Tas2r1:0.4646289311)100:1.0351994128,(((Chimpanzee_Tas2r16:0.2920836273,Mouse_Tas2r2:0.5491501992)100:0.4865614102,((Chimpanzee_Tas2r62:0.4164849332,Mouselemur_Tas2r62:0.3028893864)100:0.0774390263,(Mouse_Tas2r8:0.4058640491,Mouse_Tas2r134:0.3532018111)100:0.1252615877)100:0.4476766437)100:0.3220365279,((Chimpanzee_Tas2r41:0.2069533766,(Mouse_Tas2r10:0.2693301722,Mouselemur_Tas2r41:0.2643074650)100:0.0529147892)100:0.4672061450,(Chimpanzee_Tas2r60:0.2872697302,Mouse_Tas2r9:0.4407940188)100:0.6176200276)99:0.2209056652)100:0.4281276054)69:0.1408070543,((((((Turtle_Tas2r12:0.0269600364,Turtle_Tas2r46:0.0415691279)100:0.0751721189,Turtle_Tas2r30:0.0590662346)100:0.0461566065,Turtle_Tas2r62:0.1140991495)100:0.0803338096,Turtle_Tas2r18:0.1590004134)100:0.2974682185,Turtle_Tas2r42:0.2824912955)88:0.0839599713,Turtle_Tas2r136:0.2583354020)100:0.5264872062)33:0.0886031477)29:0.0857675846,((Chimpanzee_Tas2r4:0.1776720949,Mouse_Tas2r108:0.3790295988)100:1.2255861904,Turtle_Tas2r8:0.6771983616)66:0.1425803073)28:0.0317004863,((Chimpanzee_Tas2r5:1.2633307773,(Turtle_Tas2r4:0.3455243897,Turtle_Tas2r7:0.3292753621)100:0.4827533736)66:0.1115042691,(Mouse_Tas2r138:0.2023066834,Mouselemur_Tas2r38:0.3012319812)100:1.2666563244)60:0.0765052726)100:0.5286606998,((Chimpanzee_Tas2r3:0.1868215511,Mouselemur_Tas2r3:0.2021326691)100:0.0805118721,Mouse_Tas2r3:0.3432866045)100:0.5568698234)99:0.1281434389,(Chimpanzee_Tas2r10:0.2767661733,(Mouse_Tas2r12:0.3864064534,(Mouse_Tas2r13:0.4312349289,(Mouse_Tas2r15:0.3869174145,Mouse_Tas2r16:0.3544880897)100:0.0839136396)98:0.0324917023)100:0.1421939408)100:0.5688341117)72:0.0932761794,((Chimpanzee_Tas2r7:0.1534049533,Mouse_Tas2r11:0.3334765416)100:0.2766378407,((Chimpanzee_Tas2r8:0.2494107147,Mouselemur_Tas2r8:0.1873318657)100:0.4195585624,Chimpanzee_Tas2r9:0.6275524926)85:0.0604628087)99:0.0855706223)75:0.1287601328,(Mouse_Tas2r34:0.9931712679,(Mouselemur_Tas2r67:0.1249618531,Mouselemur_Tas2r67a:0.1515427644)100:0.2884231780)100:0.3848279748)71:0.0884231181,Mouse_Tas2r19:1.2299505407)100:0.3289031087,(Chimpanzee_Tas2r14:0.4122931891,((Mouse_Tas2r20:0.6863253798,(Mouse_Tas2r31:0.4488184048,(Mouse_Tas2r33:0.6588955757,(Mouse_Tas2r35:0.2892619240,Mouse_Tas2r117:0.2769756446)100:0.2821056749)99:0.1098587545)86:0.0640055064)44:0.0401135616,(((Mouse_Tas2r26:0.2023963894,Mouse_Tas2r28:0.1086365533)100:0.5649093637,(Mouse_Tas2r38:0.5338814827,Mouse_Tas2r39:0.3727797628)100:0.1326745907)67:0.0472399108,(Mouse_Tas2r27:0.4747112702,Mouse_Tas2r29:0.6087143334)98:0.0811918950)61:0.0538433362)52:0.0707474529)100:0.2089025971)65:0.0000021979,(Chimpanzee_Tas2r13:0.3233804691,(Mouse_Tas2r18:0.4172511891,(Mouse_Tas2r21:0.2798704410,Mouse_Tas2r22:0.2796978681)100:0.3184265748)98:0.0725185296)100:0.3301534607)100:0.3531283564,(Mouse_Tas2r17:0.5188216173,Mouse_Tas2r23:0.6672105242)99:0.1733227897)99:0.1372367729,((Chimpanzee_Tas2r19:0.0541561614,Chimpanzee_Tas2r49:0.0861078314)100:0.1608206720,Chimpanzee_Tas2r20:0.2382054089)97:0.0346902888)99:0.0346006461,Chimpanzee_Tas2r50:0.2659804913)100:0.1371347093,((Chimpanzee_Tas2r43:0.0466827035,Chimpanzee_Tas2r45:0.0645637267)100:0.0341350495,Chimpanzee_Tas2r451:0.0676032857)100:0.0239736130)100:0.0280608757,Chimpanzee_Tas2r66:0.0444925046);
+
+TIME STAMP
+----------
+
+Date and time: Tue Aug 30 09:08:08 2022
+Total CPU time used: 33426.30745 seconds (9h:17m:6s)
+Total wall-clock time used: 1766.017074 seconds (0h:29m:26s)
+

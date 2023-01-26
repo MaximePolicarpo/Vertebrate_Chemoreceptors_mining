@@ -1,0 +1,2453 @@
+>Cluster 0
+0	327aa, >Lepisosteus_oculatu... at 82.57%
+1	423aa, >Lepisosteus_oculatu... *
+>Cluster 1
+0	419aa, >GAMMA---XetrORs532.... *
+>Cluster 2
+0	410aa, >Gaac-kappa.3... *
+>Cluster 3
+0	394aa, >Gaac-lambda.1... *
+>Cluster 4
+0	386aa, >Orla-lambda.1... *
+>Cluster 5
+0	308aa, >Lepisosteus_oculatu... at 84.74%
+1	380aa, >Lepisosteus_oculatu... *
+>Cluster 6
+0	379aa, >Danio_rerio---ZETA-... *
+>Cluster 7
+0	378aa, >Danio_rerio---ETA-4... *
+>Cluster 8
+0	378aa, >Danio_rerio---ZETA-... *
+1	378aa, >Danio_rerio---ZETA-... at 98.15%
+>Cluster 9
+0	375aa, >Danio_rerio---ZETA-... *
+>Cluster 10
+0	375aa, >Modo-theta1.1... *
+>Cluster 11
+0	357aa, >Danio_rerio---ZETA-... at 99.16%
+1	371aa, >Danio_rerio---ZETA-... *
+2	357aa, >Danio_rerio---ZETA-... at 98.04%
+>Cluster 12
+0	370aa, >Dare-theta2.1... *
+>Cluster 13
+0	367aa, >GAMMA---AncaORs236.... *
+>Cluster 14
+0	316aa, >Danio_rerio---ETA-2... at 80.70%
+1	365aa, >Danio_rerio---ETA-2... *
+2	317aa, >Danio_rerio---ETA-3... at 86.75%
+3	315aa, >Danio_rerio---ETA-3... at 81.59%
+>Cluster 15
+0	362aa, >Lepisosteus_oculatu... *
+>Cluster 16
+0	362aa, >Lepisosteus_oculatu... *
+>Cluster 17
+0	361aa, >Lepisosteus_oculatu... *
+1	311aa, >Lepisosteus_oculatu... at 82.32%
+>Cluster 18
+0	361aa, >Anca-theta2.1... *
+>Cluster 19
+0	360aa, >GAMMA---XetrORs877.... *
+>Cluster 20
+0	360aa, >Dare-lambda.1... *
+>Cluster 21
+0	359aa, >Danio_rerio---DELTA... *
+>Cluster 22
+0	358aa, >Oryzias_latipes---D... *
+>Cluster 23
+0	357aa, >GAMMA---XetrORs396.... *
+>Cluster 24
+0	326aa, >Danio_rerio---ZETA-... at 82.82%
+1	356aa, >Danio_rerio---ZETA-... *
+>Cluster 25
+0	355aa, >Oryzias_latipes---B... *
+>Cluster 26
+0	354aa, >Oryzias_latipes---D... *
+1	314aa, >Oryzias_latipes---D... at 86.94%
+>Cluster 27
+0	353aa, >Lepisosteus_oculatu... *
+>Cluster 28
+0	316aa, >GAMMA---XetrORs1115... at 80.38%
+1	353aa, >GAMMA---XetrORs1115... *
+2	306aa, >GAMMA---XetrORs1115... at 80.07%
+3	307aa, >GAMMA---XetrORs1343... at 80.13%
+4	307aa, >GAMMA---XetrORs1343... at 80.13%
+5	306aa, >GAMMA---XetrORs1355... at 82.03%
+6	310aa, >GAMMA---XetrORs1412... at 81.94%
+>Cluster 29
+0	352aa, >Danio_rerio---ETA-1... *
+>Cluster 30
+0	352aa, >GAMMA---XetrORs290.... *
+>Cluster 31
+0	351aa, >Danio_rerio---ZETA-... *
+>Cluster 32
+0	351aa, >Lepisosteus_oculatu... *
+>Cluster 33
+0	350aa, >Danio_rerio---ZETA-... *
+1	321aa, >Danio_rerio---ZETA-... at 85.98%
+2	321aa, >Danio_rerio---ZETA-... at 86.29%
+>Cluster 34
+0	320aa, >Lepisosteus_oculatu... at 84.06%
+1	320aa, >Lepisosteus_oculatu... at 88.12%
+2	350aa, >Lepisosteus_oculatu... *
+>Cluster 35
+0	350aa, >Cami-theta2.1... *
+>Cluster 36
+0	350aa, >Xetr-theta2.1... *
+>Cluster 37
+0	350aa, >Xetr-theta2.2... *
+>Cluster 38
+0	350aa, >Modo-theta2.1... *
+>Cluster 39
+0	324aa, >Lepisosteus_oculatu... at 87.65%
+1	325aa, >Lepisosteus_oculatu... at 90.46%
+2	324aa, >Lepisosteus_oculatu... at 87.96%
+3	325aa, >Lepisosteus_oculatu... at 84.92%
+4	349aa, >Lepisosteus_oculatu... *
+>Cluster 40
+0	349aa, >Oran-theta2.2... *
+>Cluster 41
+0	348aa, >Danio_rerio---EPSIL... *
+>Cluster 42
+0	321aa, >Lepisosteus_oculatu... at 80.69%
+1	331aa, >Lepisosteus_oculatu... at 95.17%
+2	325aa, >Lepisosteus_oculatu... at 83.38%
+3	325aa, >Lepisosteus_oculatu... at 80.31%
+4	348aa, >Lepisosteus_oculatu... *
+>Cluster 43
+0	348aa, >Lepisosteus_oculatu... *
+1	325aa, >Lepisosteus_oculatu... at 81.85%
+>Cluster 44
+0	347aa, >Lepisosteus_oculatu... *
+1	320aa, >Lepisosteus_oculatu... at 83.12%
+2	320aa, >Lepisosteus_oculatu... at 85.00%
+3	320aa, >Lepisosteus_oculatu... at 90.00%
+4	320aa, >Lepisosteus_oculatu... at 83.75%
+>Cluster 45
+0	347aa, >Mamu-theta1.1... *
+1	347aa, >Hs-theta1.1... at 93.08%
+>Cluster 46
+0	347aa, >Bota-kappa.1... *
+1	292aa, >Cafa-kappa.1... at 86.64%
+>Cluster 47
+0	296aa, >Mm-kappa.1... at 91.55%
+1	296aa, >Mm-kappa.2... at 89.53%
+2	296aa, >Mm-kappa.4... at 90.54%
+3	296aa, >Mm-kappa.5... at 90.54%
+4	296aa, >Mm-kappa.6... at 90.20%
+5	296aa, >Mm-kappa.7... at 90.20%
+6	296aa, >Mm-kappa.8... at 90.88%
+7	296aa, >Mm-kappa.9... at 90.88%
+8	347aa, >Rano-kappa.1... *
+>Cluster 48
+0	339aa, >Lepisosteus_oculatu... at 84.66%
+1	346aa, >Lepisosteus_oculatu... *
+>Cluster 49
+0	346aa, >Gaga-theta2.1... *
+>Cluster 50
+0	345aa, >Xetr-theta1.1... *
+>Cluster 51
+0	344aa, >Danio_rerio---ZETA-... *
+>Cluster 52
+0	344aa, >Lepisosteus_oculatu... *
+>Cluster 53
+0	344aa, >Pema-lambda.1... *
+>Cluster 54
+0	343aa, >Lepisosteus_oculatu... *
+1	310aa, >Lepisosteus_oculatu... at 82.90%
+>Cluster 55
+0	303aa, >GAMMA---XetrORs24.5... at 91.42%
+1	343aa, >GAMMA---XetrORs24.5... *
+>Cluster 56
+0	343aa, >GAMMA---GagaOR17.1... *
+>Cluster 57
+0	343aa, >Anca-kappa.1... *
+>Cluster 58
+0	342aa, >Oryzias_latipes---Z... *
+1	322aa, >Oryzias_latipes---Z... at 95.03%
+>Cluster 59
+0	313aa, >GAMMA---XetrORs21.1... at 84.03%
+1	310aa, >GAMMA---XetrORs150.... at 83.23%
+2	310aa, >GAMMA---XetrORs150.... at 81.61%
+3	305aa, >GAMMA---XetrORs150.... at 83.93%
+4	321aa, >GAMMA---XetrORs150.... at 80.69%
+5	311aa, >GAMMA---XetrORs150.... at 84.24%
+6	317aa, >GAMMA---XetrORs150.... at 83.60%
+7	321aa, >GAMMA---XetrORs150.... at 83.18%
+8	310aa, >GAMMA---XetrORs150.... at 83.23%
+9	311aa, >GAMMA---XetrORs150.... at 83.28%
+10	316aa, >GAMMA---XetrORs150.... at 81.65%
+11	316aa, >GAMMA---XetrORs150.... at 81.65%
+12	315aa, >GAMMA---XetrORs899.... at 83.81%
+13	313aa, >GAMMA---XetrORs899.... at 84.03%
+14	314aa, >GAMMA---XetrORs899.... at 84.08%
+15	317aa, >GAMMA---XetrORs899.... at 82.65%
+16	313aa, >GAMMA---XetrORs899.... at 84.35%
+17	314aa, >GAMMA---XetrORs899.... at 84.71%
+18	314aa, >GAMMA---XetrORs899.... at 83.12%
+19	313aa, >GAMMA---XetrORs899.... at 84.03%
+20	311aa, >GAMMA---XetrORs899.... at 84.24%
+21	314aa, >GAMMA---XetrORs899.... at 84.39%
+22	310aa, >GAMMA---XetrORs899.... at 85.81%
+23	313aa, >GAMMA---XetrORs899.... at 82.43%
+24	325aa, >GAMMA---XetrORs899.... at 82.15%
+25	311aa, >GAMMA---XetrORs899.... at 85.21%
+26	313aa, >GAMMA---XetrORs899.... at 82.11%
+27	317aa, >GAMMA---XetrORs899.... at 80.13%
+28	313aa, >GAMMA---XetrORs913.... at 80.83%
+29	323aa, >GAMMA---XetrORs913.... at 80.50%
+30	309aa, >GAMMA---XetrORs913.... at 82.52%
+31	323aa, >GAMMA---XetrORs913.... at 80.50%
+32	314aa, >GAMMA---XetrORs913.... at 83.44%
+33	315aa, >GAMMA---XetrORs913.... at 82.54%
+34	309aa, >GAMMA---XetrORs913.... at 82.52%
+35	312aa, >GAMMA---XetrORs913.... at 87.18%
+36	315aa, >GAMMA---XetrORs913.... at 83.49%
+37	315aa, >GAMMA---XetrORs913.... at 87.30%
+38	342aa, >GAMMA---XetrORs913.... *
+39	321aa, >GAMMA---XetrORs913.... at 82.55%
+40	322aa, >GAMMA---XetrORs913.... at 83.23%
+41	309aa, >GAMMA---XetrORs913.... at 81.88%
+42	315aa, >GAMMA---XetrORs913.... at 85.08%
+43	317aa, >GAMMA---XetrORs913.... at 82.65%
+44	320aa, >GAMMA---XetrORs913.... at 82.50%
+45	315aa, >GAMMA---XetrORs913.... at 88.57%
+46	315aa, >GAMMA---XetrORs913.... at 85.08%
+47	321aa, >GAMMA---XetrORs913.... at 81.93%
+48	313aa, >GAMMA---XetrORs926.... at 83.39%
+49	315aa, >GAMMA---XetrORs926.... at 82.54%
+50	308aa, >GAMMA---XetrORs926.... at 85.39%
+51	312aa, >GAMMA---XetrORs926.... at 80.77%
+52	308aa, >GAMMA---XetrORs926.... at 80.84%
+53	309aa, >GAMMA---XetrORs926.... at 80.91%
+54	310aa, >GAMMA---XetrORs926.... at 82.26%
+55	308aa, >GAMMA---XetrORs926.... at 85.71%
+56	315aa, >GAMMA---XetrORs926.... at 83.49%
+57	312aa, >GAMMA---XetrORs926.... at 82.05%
+58	315aa, >GAMMA---XetrORs926.... at 84.13%
+59	308aa, >GAMMA---XetrORs926.... at 86.69%
+60	308aa, >GAMMA---XetrORs926.... at 84.74%
+61	314aa, >GAMMA---XetrORs926.... at 85.35%
+62	313aa, >GAMMA---XetrORs999.... at 83.39%
+63	313aa, >GAMMA---XetrORs999.... at 83.71%
+64	313aa, >GAMMA---XetrORs999.... at 83.39%
+65	314aa, >GAMMA---XetrORs999.... at 82.80%
+66	314aa, >GAMMA---XetrORs999.... at 83.76%
+67	312aa, >GAMMA---XetrORs999.... at 83.97%
+68	311aa, >GAMMA---XetrORs999.... at 85.53%
+69	311aa, >GAMMA---XetrORs999.... at 84.57%
+70	311aa, >GAMMA---XetrORs999.... at 83.28%
+71	314aa, >GAMMA---XetrORs999.... at 83.76%
+72	318aa, >GAMMA---XetrORs999.... at 83.65%
+73	318aa, >GAMMA---XetrORs1012... at 80.82%
+74	314aa, >GAMMA---XetrORs1012... at 81.85%
+75	314aa, >GAMMA---XetrORs1012... at 83.12%
+76	328aa, >GAMMA---XetrORs1012... at 82.01%
+77	313aa, >GAMMA---XetrORs1012... at 84.35%
+78	313aa, >GAMMA---XetrORs1012... at 84.03%
+79	313aa, >GAMMA---XetrORs1012... at 84.03%
+80	313aa, >GAMMA---XetrORs1012... at 84.03%
+81	313aa, >GAMMA---XetrORs1012... at 82.75%
+82	315aa, >GAMMA---XetrORs1012... at 86.03%
+83	316aa, >GAMMA---XetrORs1012... at 85.44%
+84	316aa, >GAMMA---XetrORs1012... at 84.18%
+85	316aa, >GAMMA---XetrORs1012... at 84.18%
+86	319aa, >GAMMA---XetrORs1225... at 80.88%
+87	307aa, >GAMMA---XetrORs1225... at 83.06%
+88	318aa, >GAMMA---XetrORs1225... at 82.39%
+89	318aa, >GAMMA---XetrORs1225... at 82.08%
+90	312aa, >GAMMA---XetrORs1225... at 83.97%
+91	308aa, >GAMMA---XetrORs1225... at 85.06%
+92	311aa, >GAMMA---XetrORs1225... at 83.60%
+93	307aa, >GAMMA---XetrORs1225... at 82.74%
+94	312aa, >GAMMA---XetrORs1293... at 85.90%
+95	315aa, >GAMMA---XetrORs1293... at 82.54%
+96	307aa, >GAMMA---XetrORs1293... at 85.34%
+97	313aa, >GAMMA---XetrORs1293... at 82.75%
+98	311aa, >GAMMA---XetrORs1293... at 85.21%
+99	315aa, >GAMMA---XetrORs1293... at 83.17%
+100	311aa, >GAMMA---XetrORs1293... at 85.85%
+101	314aa, >GAMMA---XetrORs1499... at 83.12%
+102	314aa, >GAMMA---XetrORs1499... at 83.12%
+103	314aa, >GAMMA---XetrORs1499... at 84.71%
+104	321aa, >GAMMA---XetrORs1703... at 85.05%
+105	321aa, >GAMMA---XetrORs1703... at 85.05%
+106	317aa, >GAMMA---XetrORs1703... at 85.80%
+107	319aa, >GAMMA---XetrORs1765... at 81.82%
+108	336aa, >GAMMA---XetrORs1930... at 81.25%
+109	315aa, >GAMMA---XetrORs2706... at 82.22%
+110	307aa, >GAMMA---XetrORs3644... at 85.67%
+111	311aa, >GAMMA---XetrORs9462... at 81.67%
+112	313aa, >GAMMA---XetrORs1027... at 84.66%
+113	310aa, >GAMMA---XetrORs1604... at 85.16%
+>Cluster 60
+0	341aa, >Danio_rerio---DELTA... *
+>Cluster 61
+0	307aa, >GAMMA---XetrORs828.... at 85.02%
+1	307aa, >GAMMA---XetrORs828.... at 84.69%
+2	307aa, >GAMMA---XetrORs828.... at 88.27%
+3	307aa, >GAMMA---XetrORs828.... at 83.71%
+4	307aa, >GAMMA---XetrORs828.... at 83.39%
+5	307aa, >GAMMA---XetrORs828.... at 84.36%
+6	307aa, >GAMMA---XetrORs828.... at 84.36%
+7	307aa, >GAMMA---XetrORs1189... at 84.36%
+8	307aa, >GAMMA---XetrORs1189... at 86.97%
+9	307aa, >GAMMA---XetrORs1189... at 83.39%
+10	307aa, >GAMMA---XetrORs1343... at 87.30%
+11	307aa, >GAMMA---XetrORs1343... at 85.34%
+12	307aa, >GAMMA---XetrORs1343... at 86.32%
+13	312aa, >GAMMA---XetrORs1343... at 83.97%
+14	341aa, >GAMMA---XetrORs1343... *
+15	307aa, >GAMMA---XetrORs1343... at 85.67%
+16	306aa, >GAMMA---XetrORs1343... at 80.72%
+17	307aa, >GAMMA---XetrORs1343... at 86.97%
+18	307aa, >GAMMA---XetrORs2023... at 85.02%
+19	306aa, >GAMMA---XetrORs2023... at 85.62%
+20	317aa, >GAMMA---XetrORs2023... at 84.23%
+21	307aa, >GAMMA---XetrORs2051... at 83.71%
+22	307aa, >GAMMA---XetrORs2051... at 84.04%
+23	318aa, >GAMMA---XetrORs2051... at 83.65%
+24	307aa, >GAMMA---XetrORs1268... at 85.02%
+>Cluster 62
+0	340aa, >Danio_rerio---EPSIL... *
+1	314aa, >Danio_rerio---EPSIL... at 93.31%
+>Cluster 63
+0	340aa, >Lepisosteus_oculatu... *
+1	322aa, >Lepisosteus_oculatu... at 92.86%
+2	322aa, >Lepisosteus_oculatu... at 92.24%
+>Cluster 64
+0	340aa, >Lepisosteus_oculatu... *
+>Cluster 65
+0	324aa, >GAMMA---XetrORs877.... at 85.19%
+1	325aa, >GAMMA---XetrORs877.... at 85.23%
+2	316aa, >GAMMA---XetrORs877.... at 86.71%
+3	334aa, >GAMMA---XetrORs877.... at 85.33%
+4	339aa, >GAMMA---XetrORs877.... *
+5	334aa, >GAMMA---XetrORs1566... at 96.41%
+>Cluster 66
+0	318aa, >GAMMA---GagaORE22C1... at 85.22%
+1	320aa, >GAMMA---GagaORE22C1... at 80.00%
+2	318aa, >GAMMA---GagaORE22C1... at 85.22%
+3	319aa, >GAMMA---GagaORE22C1... at 82.45%
+4	313aa, >GAMMA---GagaORE22C1... at 82.43%
+5	311aa, >GAMMA---GagaORUn.2... at 81.67%
+6	311aa, >GAMMA---GagaORUn.3... at 81.99%
+7	320aa, >GAMMA---GagaORUn.5... at 80.62%
+8	319aa, >GAMMA---GagaORUn.6... at 80.25%
+9	320aa, >GAMMA---GagaORUn.10... at 80.94%
+10	311aa, >GAMMA---GagaORUn.11... at 81.67%
+11	311aa, >GAMMA---GagaORUn.14... at 82.32%
+12	317aa, >GAMMA---GagaORUn.22... at 85.17%
+13	311aa, >GAMMA---GagaORUn.29... at 84.89%
+14	320aa, >GAMMA---GagaORUn.49... at 81.56%
+15	313aa, >GAMMA---GagaORUn.50... at 81.47%
+16	319aa, >GAMMA---GagaORUn.51... at 81.82%
+17	319aa, >GAMMA---GagaORUn.52... at 83.39%
+18	319aa, >GAMMA---GagaORUn.55... at 82.76%
+19	319aa, >GAMMA---GagaORUn.56... at 81.50%
+20	311aa, >GAMMA---GagaORUn.57... at 84.57%
+21	322aa, >GAMMA---GagaORUn.58... at 80.12%
+22	320aa, >GAMMA---GagaORUn.61... at 81.25%
+23	318aa, >GAMMA---GagaORUn.63... at 84.59%
+24	311aa, >GAMMA---GagaORUn.68... at 82.64%
+25	320aa, >GAMMA---GagaORUn.70... at 80.94%
+26	319aa, >GAMMA---GagaORUn.73... at 81.82%
+27	311aa, >GAMMA---GagaORUn.78... at 82.32%
+28	311aa, >GAMMA---GagaORUn.80... at 83.28%
+29	335aa, >GAMMA---GagaORUn.82... at 85.67%
+30	327aa, >GAMMA---GagaORUn.83... at 80.73%
+31	320aa, >GAMMA---GagaORUn.84... at 81.25%
+32	311aa, >GAMMA---GagaORUn.87... at 82.96%
+33	314aa, >GAMMA---GagaORUn.88... at 82.17%
+34	317aa, >GAMMA---GagaORUn.89... at 85.49%
+35	311aa, >GAMMA---GagaORUn.95... at 80.71%
+36	320aa, >GAMMA---GagaORUn.11... at 80.94%
+37	322aa, >GAMMA---GagaORUn.11... at 85.09%
+38	322aa, >GAMMA---GagaORUn.11... at 91.30%
+39	325aa, >GAMMA---GagaORUn.11... at 80.62%
+40	304aa, >GAMMA---GagaORUn.12... at 84.54%
+41	321aa, >GAMMA---GagaORUn.12... at 85.36%
+42	339aa, >GAMMA---GagaORUn.12... *
+43	311aa, >GAMMA---GagaORUn.13... at 84.24%
+44	311aa, >GAMMA---GagaORUn.13... at 84.24%
+45	321aa, >GAMMA---GagaORUn.13... at 86.29%
+46	308aa, >GAMMA---GagaORUn.14... at 88.96%
+47	311aa, >GAMMA---GagaORUn.14... at 82.96%
+48	321aa, >GAMMA---GagaORUn.14... at 87.85%
+49	304aa, >GAMMA---GagaORUn.14... at 83.22%
+50	316aa, >GAMMA---GagaORUn.15... at 89.56%
+51	304aa, >GAMMA---GagaORUn.15... at 80.59%
+52	322aa, >GAMMA---GagaORUn.16... at 91.30%
+53	318aa, >GAMMA---GagaORUn.16... at 85.53%
+54	318aa, >GAMMA---GagaORUn.16... at 85.22%
+55	317aa, >GAMMA---GagaORUn.17... at 81.70%
+56	314aa, >GAMMA---GagaORUn.17... at 83.44%
+57	327aa, >GAMMA---GagaORUn.17... at 81.96%
+58	316aa, >GAMMA---GagaORUn.17... at 86.08%
+59	323aa, >GAMMA---GagaORUn.18... at 80.80%
+60	321aa, >GAMMA---GagaORUn.18... at 85.98%
+61	311aa, >GAMMA---GagaORUn.18... at 83.28%
+62	304aa, >GAMMA---GagaORUn.18... at 82.89%
+63	321aa, >GAMMA---GagaORUn.18... at 87.23%
+64	311aa, >GAMMA---GagaORUn.19... at 81.99%
+65	311aa, >GAMMA---GagaORUn.20... at 84.24%
+66	310aa, >GAMMA---GagaORUn.20... at 82.90%
+67	313aa, >GAMMA---GagaORUn.20... at 82.11%
+68	321aa, >GAMMA---GagaORUn.20... at 86.29%
+69	318aa, >GAMMA---GagaORUn.20... at 84.91%
+70	311aa, >GAMMA---GagaORUn.21... at 82.64%
+71	316aa, >GAMMA---GagaORUn.21... at 86.08%
+72	311aa, >GAMMA---GagaORUn.21... at 81.35%
+73	319aa, >GAMMA---GagaORUn.21... at 80.56%
+74	323aa, >GAMMA---GagaORUn.21... at 80.80%
+75	321aa, >GAMMA---GagaORUn.22... at 85.67%
+76	327aa, >GAMMA---GagaORUn.22... at 82.57%
+77	319aa, >GAMMA---GagaORUn.22... at 83.07%
+78	311aa, >GAMMA---GagaORUn.23... at 82.32%
+79	313aa, >GAMMA---GagaORUn.23... at 81.47%
+80	318aa, >GAMMA---GagaORUn.24... at 84.91%
+81	311aa, >GAMMA---GagaORUn.25... at 80.71%
+82	317aa, >GAMMA---GagaORUn.25... at 80.13%
+83	311aa, >GAMMA---GagaORUn.25... at 83.28%
+84	319aa, >GAMMA---GagaORUn.25... at 80.25%
+85	311aa, >GAMMA---GagaORUn.26... at 83.60%
+86	321aa, >GAMMA---GagaORUn.26... at 85.36%
+87	310aa, >GAMMA---GagaORUn.26... at 82.58%
+88	308aa, >GAMMA---GagaORUn.26... at 87.66%
+89	319aa, >GAMMA---GagaORUn.27... at 80.56%
+90	311aa, >GAMMA---GagaORUn.27... at 80.71%
+91	311aa, >GAMMA---GagaORUn.28... at 84.24%
+92	311aa, >GAMMA---GagaORUn.28... at 82.96%
+93	321aa, >GAMMA---GagaORUn.29... at 84.74%
+94	312aa, >GAMMA---GagaORUn.29... at 82.37%
+95	322aa, >GAMMA---GagaORUn.30... at 81.06%
+96	317aa, >GAMMA---GagaORUn.30... at 84.54%
+97	327aa, >GAMMA---GagaORUn.30... at 82.57%
+98	324aa, >GAMMA---GagaORUn.31... at 83.64%
+99	322aa, >GAMMA---GagaORUn.31... at 99.38%
+100	311aa, >GAMMA---GagaORUn.31... at 80.06%
+101	318aa, >GAMMA---GagaORUn.31... at 85.53%
+102	327aa, >GAMMA---GagaORUn.32... at 80.12%
+103	322aa, >GAMMA---GagaORUn.32... at 85.71%
+104	308aa, >GAMMA---GagaORUn.32... at 89.61%
+105	311aa, >GAMMA---GagaORUn.32... at 84.57%
+106	319aa, >GAMMA---GagaORUn.33... at 82.13%
+107	320aa, >GAMMA---GagaORUn.33... at 85.62%
+108	318aa, >GAMMA---GagaORUn.33... at 84.91%
+109	311aa, >GAMMA---GagaORUn.33... at 83.28%
+110	319aa, >GAMMA---GagaORUn.33... at 81.50%
+111	311aa, >GAMMA---GagaORUn.34... at 84.57%
+112	311aa, >GAMMA---GagaORUn.34... at 82.96%
+113	312aa, >GAMMA---GagaORUn.34... at 82.69%
+114	322aa, >GAMMA---GagaORUn.35... at 85.09%
+115	311aa, >GAMMA---GagaORUn.35... at 82.64%
+116	320aa, >GAMMA---GagaORUn.36... at 81.88%
+117	319aa, >GAMMA---GagaORUn.36... at 81.50%
+>Cluster 67
+0	339aa, >Orla-kappa.1... *
+>Cluster 68
+0	338aa, >Danio_rerio---ZETA-... *
+1	334aa, >Danio_rerio---ZETA-... at 81.74%
+2	336aa, >Danio_rerio---ZETA-... at 81.55%
+3	336aa, >Danio_rerio---ZETA-... at 81.85%
+>Cluster 69
+0	321aa, >GAMMA---GagaORUn.4... at 97.20%
+1	323aa, >GAMMA---GagaORUn.10... at 97.52%
+2	323aa, >GAMMA---GagaORUn.10... at 97.52%
+3	321aa, >GAMMA---GagaORUn.10... at 97.82%
+4	338aa, >GAMMA---GagaORUn.19... *
+5	321aa, >GAMMA---GagaORUn.23... at 97.20%
+6	321aa, >GAMMA---GagaORUn.25... at 97.82%
+7	321aa, >GAMMA---GagaORUn.34... at 98.13%
+8	323aa, >GAMMA---GagaORUn.35... at 97.52%
+>Cluster 70
+0	337aa, >Lepisosteus_oculatu... *
+>Cluster 71
+0	326aa, >EPSILON---XetrORs79... at 85.28%
+1	327aa, >EPSILON---XetrORs79... at 81.65%
+2	335aa, >EPSILON---XetrORs79... at 81.79%
+3	337aa, >EPSILON---XetrORs79... *
+4	326aa, >EPSILON---XetrORs79... at 82.52%
+>Cluster 72
+0	337aa, >GAMMA---GagaOR5.4... *
+>Cluster 73
+0	336aa, >Lepisosteus_oculatu... *
+>Cluster 74
+0	336aa, >Lepisosteus_oculatu... *
+>Cluster 75
+0	336aa, >Lepisosteus_oculatu... *
+1	328aa, >Lepisosteus_oculatu... at 96.65%
+>Cluster 76
+0	336aa, >ALPHA---XetrORs900.... *
+1	325aa, >ALPHA---XetrORs1078... at 82.77%
+2	316aa, >ALPHA---XetrORs1078... at 86.39%
+3	316aa, >ALPHA---XetrORs1078... at 85.13%
+>Cluster 77
+0	336aa, >GAMMA---XetrORs34.3... *
+1	336aa, >GAMMA---XetrORs34.3... at 98.51%
+2	327aa, >GAMMA---XetrORs34.3... at 87.16%
+>Cluster 78
+0	336aa, >GAMMA---XetrORs290.... *
+>Cluster 79
+0	336aa, >GAMMA---GagaORE22C1... *
+1	319aa, >GAMMA---GagaORUn.10... at 80.88%
+2	319aa, >GAMMA---GagaORUn.12... at 83.70%
+3	322aa, >GAMMA---GagaORUn.13... at 81.68%
+4	319aa, >GAMMA---GagaORUn.17... at 80.56%
+5	319aa, >GAMMA---GagaORUn.23... at 81.82%
+6	320aa, >GAMMA---GagaORUn.24... at 81.25%
+7	320aa, >GAMMA---GagaORUn.25... at 80.31%
+8	319aa, >GAMMA---GagaORUn.27... at 82.45%
+9	322aa, >GAMMA---GagaORUn.28... at 81.68%
+10	319aa, >GAMMA---GagaORUn.31... at 80.25%
+11	317aa, >GAMMA---GagaORUn.33... at 81.70%
+12	319aa, >GAMMA---GagaORUn.33... at 83.39%
+13	322aa, >GAMMA---GagaORUn.35... at 81.68%
+>Cluster 80
+0	335aa, >Lepisosteus_oculatu... *
+>Cluster 81
+0	335aa, >Lepisosteus_oculatu... *
+>Cluster 82
+0	334aa, >Oryzias_latipes---Z... at 80.54%
+1	335aa, >Oryzias_latipes---Z... *
+>Cluster 83
+0	335aa, >BETA---XetrORs976.2... *
+>Cluster 84
+0	335aa, >GAMMA---XetrORs91.2... *
+>Cluster 85
+0	335aa, >GAMMA---AncaORs236.... *
+>Cluster 86
+0	335aa, >GAMMA---AncaORs444.... *
+>Cluster 87
+0	315aa, >Danio_rerio---ZETA-... at 80.00%
+1	313aa, >Danio_rerio---ZETA-... at 82.75%
+2	313aa, >Danio_rerio---ZETA-... at 81.47%
+3	314aa, >Danio_rerio---ZETA-... at 80.89%
+4	325aa, >Danio_rerio---ZETA-... at 81.23%
+5	334aa, >Danio_rerio---ZETA-... *
+6	316aa, >Danio_rerio---ZETA-... at 87.34%
+7	313aa, >Danio_rerio---ZETA-... at 82.75%
+8	314aa, >Danio_rerio---ZETA-... at 80.89%
+9	334aa, >Danio_rerio---ZETA-... at 99.70%
+10	316aa, >Danio_rerio---ZETA-... at 87.66%
+>Cluster 88
+0	306aa, >Danio_rerio---DELTA... at 82.68%
+1	334aa, >Danio_rerio---DELTA... *
+>Cluster 89
+0	334aa, >Lepisosteus_oculatu... *
+>Cluster 90
+0	324aa, >Oryzias_latipes---Z... at 90.43%
+1	334aa, >Oryzias_latipes---Z... *
+>Cluster 91
+0	334aa, >GAMMA---XetrORs150.... *
+>Cluster 92
+0	334aa, >GAMMA---GagaOR10.10... *
+>Cluster 93
+0	333aa, >Danio_rerio---ETA-1... *
+>Cluster 94
+0	333aa, >Lepisosteus_oculatu... *
+>Cluster 95
+0	333aa, >Lepisosteus_oculatu... *
+>Cluster 96
+0	333aa, >GAMMA---XetrORs24.9... *
+>Cluster 97
+0	333aa, >GAMMA---XetrORs24.1... *
+1	311aa, >GAMMA---XetrORs24.1... at 82.32%
+>Cluster 98
+0	322aa, >GAMMA---XetrORs34.3... at 91.30%
+1	333aa, >GAMMA---XetrORs34.4... *
+>Cluster 99
+0	333aa, >GAMMA---XetrORs34.5... *
+>Cluster 100
+0	333aa, >GAMMA---XetrORs360.... *
+>Cluster 101
+0	333aa, >GAMMA---XetrORs877.... *
+>Cluster 102
+0	326aa, >GAMMA---XetrORs657.... at 84.97%
+1	325aa, >GAMMA---XetrORs657.... at 87.08%
+2	325aa, >GAMMA---XetrORs657.... at 86.77%
+3	312aa, >GAMMA---XetrORs882.... at 88.46%
+4	325aa, >GAMMA---XetrORs882.... at 88.31%
+5	326aa, >GAMMA---XetrORs882.... at 86.81%
+6	323aa, >GAMMA---XetrORs882.... at 89.16%
+7	333aa, >GAMMA---XetrORs882.... *
+>Cluster 103
+0	333aa, >GAMMA---AncaORs236.... *
+>Cluster 104
+0	333aa, >GAMMA---GagaOR1.2... *
+>Cluster 105
+0	325aa, >Danio_rerio---ZETA-... at 82.77%
+1	332aa, >Danio_rerio---ZETA-... *
+2	325aa, >Danio_rerio---ZETA-... at 82.77%
+>Cluster 106
+0	332aa, >Lepisosteus_oculatu... *
+>Cluster 107
+0	332aa, >Lepisosteus_oculatu... *
+>Cluster 108
+0	332aa, >Oryzias_latipes---Z... *
+>Cluster 109
+0	311aa, >GAMMA---XetrORs24.4... at 82.64%
+1	307aa, >GAMMA---XetrORs24.5... at 88.27%
+2	307aa, >GAMMA---XetrORs24.5... at 87.95%
+3	318aa, >GAMMA---XetrORs24.6... at 84.59%
+4	321aa, >GAMMA---XetrORs24.6... at 84.11%
+5	305aa, >GAMMA---XetrORs24.7... at 87.87%
+6	305aa, >GAMMA---XetrORs24.7... at 89.18%
+7	316aa, >GAMMA---XetrORs24.7... at 86.39%
+8	305aa, >GAMMA---XetrORs24.7... at 88.85%
+9	305aa, >GAMMA---XetrORs24.7... at 81.97%
+10	316aa, >GAMMA---XetrORs24.8... at 83.54%
+11	316aa, >GAMMA---XetrORs24.8... at 85.76%
+12	305aa, >GAMMA---XetrORs24.8... at 90.16%
+13	305aa, >GAMMA---XetrORs24.8... at 92.46%
+14	305aa, >GAMMA---XetrORs24.8... at 88.52%
+15	305aa, >GAMMA---XetrORs24.8... at 83.61%
+16	311aa, >GAMMA---XetrORs24.9... at 88.42%
+17	311aa, >GAMMA---XetrORs24.9... at 89.07%
+18	311aa, >GAMMA---XetrORs24.9... at 82.32%
+19	311aa, >GAMMA---XetrORs24.9... at 82.32%
+20	305aa, >GAMMA---XetrORs24.1... at 84.92%
+21	305aa, >GAMMA---XetrORs24.1... at 84.92%
+22	322aa, >GAMMA---XetrORs24.1... at 81.06%
+23	305aa, >GAMMA---XetrORs24.1... at 83.93%
+24	321aa, >GAMMA---XetrORs24.1... at 82.87%
+25	318aa, >GAMMA---XetrORs24.1... at 83.96%
+26	307aa, >GAMMA---XetrORs24.1... at 84.36%
+27	308aa, >GAMMA---XetrORs24.1... at 87.01%
+28	326aa, >GAMMA---XetrORs24.1... at 83.74%
+29	308aa, >GAMMA---XetrORs24.1... at 84.74%
+30	308aa, >GAMMA---XetrORs24.1... at 85.06%
+31	308aa, >GAMMA---XetrORs24.1... at 85.71%
+32	308aa, >GAMMA---XetrORs24.1... at 86.69%
+33	308aa, >GAMMA---XetrORs24.1... at 86.69%
+34	307aa, >GAMMA---XetrORs24.1... at 83.06%
+35	321aa, >GAMMA---XetrORs24.1... at 87.85%
+36	307aa, >GAMMA---XetrORs24.1... at 88.93%
+37	320aa, >GAMMA---XetrORs24.1... at 85.31%
+38	309aa, >GAMMA---XetrORs24.1... at 89.00%
+39	305aa, >GAMMA---XetrORs24.1... at 88.20%
+40	307aa, >GAMMA---XetrORs24.1... at 88.93%
+41	307aa, >GAMMA---XetrORs24.1... at 87.30%
+42	307aa, >GAMMA---XetrORs24.1... at 88.60%
+43	307aa, >GAMMA---XetrORs24.1... at 87.62%
+44	312aa, >GAMMA---XetrORs24.1... at 86.22%
+45	307aa, >GAMMA---XetrORs24.1... at 87.62%
+46	311aa, >GAMMA---XetrORs24.1... at 89.07%
+47	315aa, >GAMMA---XetrORs24.1... at 86.67%
+48	311aa, >GAMMA---XetrORs24.1... at 90.03%
+49	322aa, >GAMMA---XetrORs24.1... at 86.65%
+50	315aa, >GAMMA---XetrORs24.1... at 86.98%
+51	325aa, >GAMMA---XetrORs24.1... at 84.62%
+52	330aa, >GAMMA---XetrORs24.1... at 87.27%
+53	305aa, >GAMMA---XetrORs24.1... at 89.51%
+54	315aa, >GAMMA---XetrORs24.1... at 89.84%
+55	307aa, >GAMMA---XetrORs24.1... at 86.32%
+56	326aa, >GAMMA---XetrORs24.1... at 87.42%
+57	326aa, >GAMMA---XetrORs24.1... at 84.97%
+58	326aa, >GAMMA---XetrORs24.1... at 86.20%
+59	332aa, >GAMMA---XetrORs24.1... *
+60	319aa, >GAMMA---XetrORs24.1... at 89.34%
+61	326aa, >GAMMA---XetrORs42.1... at 86.20%
+62	305aa, >GAMMA---XetrORs2749... at 86.56%
+63	305aa, >GAMMA---XetrORs2749... at 85.25%
+64	318aa, >GAMMA---XetrORs7949... at 90.25%
+65	322aa, >GAMMA---XetrORs1192... at 86.65%
+66	320aa, >GAMMA---XetrORs1686... at 85.00%
+>Cluster 110
+0	332aa, >GAMMA---XetrORs34.4... *
+>Cluster 111
+0	332aa, >GAMMA---XetrORs91.1... *
+1	332aa, >GAMMA---XetrORs91.1... at 99.40%
+>Cluster 112
+0	332aa, >GAMMA---XetrORs190.... *
+>Cluster 113
+0	316aa, >GAMMA---XetrORs532.... at 85.76%
+1	332aa, >GAMMA---XetrORs532.... *
+2	305aa, >GAMMA---XetrORs532.... at 82.30%
+>Cluster 114
+0	332aa, >GAMMA---XetrORs657.... *
+1	310aa, >GAMMA---XetrORs657.... at 83.55%
+2	310aa, >GAMMA---XetrORs657.... at 83.55%
+3	314aa, >GAMMA---XetrORs657.... at 84.08%
+>Cluster 115
+0	332aa, >GAMMA---AncaORs444.... *
+>Cluster 116
+0	332aa, >GAMMA---AncaORs444.... *
+>Cluster 117
+0	331aa, >Lepisosteus_oculatu... *
+>Cluster 118
+0	312aa, >Lepisosteus_oculatu... at 83.01%
+1	331aa, >Lepisosteus_oculatu... *
+>Cluster 119
+0	331aa, >Oryzias_latipes---Z... *
+1	329aa, >Oryzias_latipes---Z... at 82.07%
+2	331aa, >Oryzias_latipes---Z... at 81.57%
+>Cluster 120
+0	331aa, >Oryzias_latipes---E... *
+>Cluster 121
+0	331aa, >GAMMA---XetrORs24.1... *
+1	306aa, >GAMMA---XetrORs24.6... at 81.05%
+2	304aa, >GAMMA---XetrORs657.... at 81.91%
+>Cluster 122
+0	331aa, >GAMMA---XetrORs657.... *
+>Cluster 123
+0	331aa, >GAMMA---AncaORs584.... *
+>Cluster 124
+0	330aa, >Danio_rerio---ETA-2... *
+1	315aa, >Danio_rerio---ETA-2... at 93.33%
+>Cluster 125
+0	315aa, >ALPHA---GagaOR1.8... at 86.98%
+1	315aa, >ALPHA---GagaOR1.9... at 86.98%
+2	330aa, >ALPHA---GagaOR1.10... *
+>Cluster 126
+0	330aa, >GAMMA---XetrORs34.3... *
+>Cluster 127
+0	306aa, >GAMMA---XetrORs181.... at 80.07%
+1	307aa, >GAMMA---XetrORs442.... at 89.58%
+2	330aa, >GAMMA---XetrORs442.... *
+3	309aa, >GAMMA---XetrORs442.... at 88.35%
+4	306aa, >GAMMA---XetrORs442.... at 81.70%
+5	306aa, >GAMMA---XetrORs442.... at 82.35%
+6	306aa, >GAMMA---XetrORs442.... at 80.39%
+7	306aa, >GAMMA---XetrORs442.... at 80.39%
+8	306aa, >GAMMA---XetrORs442.... at 83.33%
+9	330aa, >GAMMA---XetrORs8039... at 99.39%
+10	306aa, >GAMMA---XetrORs8612... at 80.39%
+>Cluster 128
+0	330aa, >GAMMA---AncaORs558.... *
+>Cluster 129
+0	330aa, >GAMMA---AncaORs684.... *
+>Cluster 130
+0	329aa, >Danio_rerio---ZETA-... *
+>Cluster 131
+0	329aa, >Danio_rerio---DELTA... *
+>Cluster 132
+0	329aa, >Lepisosteus_oculatu... *
+>Cluster 133
+0	329aa, >Lepisosteus_oculatu... *
+>Cluster 134
+0	329aa, >Lepisosteus_oculatu... *
+>Cluster 135
+0	329aa, >Lepisosteus_oculatu... *
+>Cluster 136
+0	329aa, >Lepisosteus_oculatu... *
+>Cluster 137
+0	329aa, >Lepisosteus_oculatu... *
+>Cluster 138
+0	329aa, >Lepisosteus_oculatu... *
+>Cluster 139
+0	329aa, >EPSILON---XetrORs66... *
+>Cluster 140
+0	329aa, >GAMMA---XetrORs24.4... *
+>Cluster 141
+0	329aa, >GAMMA---XetrORs91.3... *
+>Cluster 142
+0	304aa, >GAMMA---XetrORs532.... at 85.20%
+1	329aa, >GAMMA---XetrORs532.... *
+>Cluster 143
+0	319aa, >GAMMA---XetrORs657.... at 84.01%
+1	329aa, >GAMMA---XetrORs657.... *
+>Cluster 144
+0	329aa, >GAMMA---XetrORs942.... *
+1	321aa, >GAMMA---XetrORs942.... at 92.21%
+>Cluster 145
+0	316aa, >GAMMA---XetrORs150.... at 80.06%
+1	310aa, >GAMMA---XetrORs926.... at 80.65%
+2	315aa, >GAMMA---XetrORs1012... at 81.90%
+3	313aa, >GAMMA---XetrORs1293... at 82.11%
+4	313aa, >GAMMA---XetrORs1293... at 82.11%
+5	329aa, >GAMMA---XetrORs1499... *
+>Cluster 146
+0	329aa, >GAMMA---AncaORs245.... *
+>Cluster 147
+0	329aa, >GAMMA---AncaORs444.... *
+>Cluster 148
+0	319aa, >GAMMA---GagaORUn.15... at 80.25%
+1	329aa, >GAMMA---GagaORUn.21... *
+2	322aa, >GAMMA---GagaORUn.34... at 91.93%
+3	329aa, >GAMMA---GagaORUn.15... at 96.35%
+4	323aa, >GAMMA---GagaORUn.20... at 80.50%
+>Cluster 149
+0	328aa, >Danio_rerio---ZETA-... *
+1	328aa, >Danio_rerio---ZETA-... at 98.48%
+2	328aa, >Danio_rerio---ZETA-... at 97.56%
+>Cluster 150
+0	328aa, >Danio_rerio---EPSIL... *
+>Cluster 151
+0	328aa, >Danio_rerio---EPSIL... *
+1	326aa, >Danio_rerio---EPSIL... at 83.44%
+>Cluster 152
+0	309aa, >Danio_rerio---DELTA... at 80.58%
+1	328aa, >Danio_rerio---DELTA... *
+>Cluster 153
+0	328aa, >Lepisosteus_oculatu... *
+>Cluster 154
+0	328aa, >Oryzias_latipes---D... *
+>Cluster 155
+0	328aa, >GAMMA---XetrORs657.... *
+1	311aa, >GAMMA---XetrORs657.... at 91.00%
+>Cluster 156
+0	328aa, >GAMMA---XetrORs942.... *
+1	313aa, >GAMMA---XetrORs942.... at 82.11%
+>Cluster 157
+0	328aa, >GAMMA---AncaORs236.... *
+>Cluster 158
+0	328aa, >GAMMA---GagaORUn.24... *
+1	328aa, >GAMMA---GagaORUn.31... at 97.26%
+2	328aa, >GAMMA---GagaORUn.36... at 97.26%
+>Cluster 159
+0	328aa, >GAMMA---GagaORUn.26... *
+>Cluster 160
+0	319aa, >Danio_rerio---EPSIL... at 83.70%
+1	327aa, >Danio_rerio---EPSIL... *
+2	319aa, >Danio_rerio---EPSIL... at 84.01%
+3	327aa, >Danio_rerio---EPSIL... at 99.08%
+>Cluster 161
+0	327aa, >Danio_rerio---EPSIL... *
+>Cluster 162
+0	327aa, >Danio_rerio---BETA-... *
+>Cluster 163
+0	327aa, >Lepisosteus_oculatu... *
+>Cluster 164
+0	327aa, >Lepisosteus_oculatu... *
+>Cluster 165
+0	327aa, >Lepisosteus_oculatu... *
+>Cluster 166
+0	327aa, >Oryzias_latipes---D... *
+>Cluster 167
+0	327aa, >GAMMA---XetrORs24.1... *
+>Cluster 168
+0	327aa, >GAMMA---XetrORs34.2... *
+>Cluster 169
+0	327aa, >GAMMA---XetrORs34.4... *
+>Cluster 170
+0	327aa, >GAMMA---XetrORs91.2... *
+>Cluster 171
+0	327aa, >GAMMA---XetrORs657.... *
+1	327aa, >GAMMA---XetrORs1177... at 100.00%
+>Cluster 172
+0	327aa, >GAMMA---XetrORs877.... *
+>Cluster 173
+0	310aa, >GAMMA---XetrORs150.... at 85.16%
+1	325aa, >GAMMA---XetrORs150.... at 81.23%
+2	313aa, >GAMMA---XetrORs899.... at 84.98%
+3	327aa, >GAMMA---XetrORs913.... *
+4	311aa, >GAMMA---XetrORs926.... at 81.35%
+5	313aa, >GAMMA---XetrORs999.... at 82.11%
+6	313aa, >GAMMA---XetrORs1012... at 80.51%
+7	319aa, >GAMMA---XetrORs1012... at 82.13%
+8	325aa, >GAMMA---XetrORs1012... at 83.38%
+9	314aa, >GAMMA---XetrORs1012... at 84.71%
+10	317aa, >GAMMA---XetrORs1225... at 83.91%
+11	322aa, >GAMMA---XetrORs1930... at 81.99%
+>Cluster 174
+0	311aa, >GAMMA---XetrORs378.... at 92.28%
+1	327aa, >GAMMA---XetrORs8610... *
+>Cluster 175
+0	327aa, >GAMMA---AncaORs444.... *
+>Cluster 176
+0	327aa, >GAMMA---GagaOR1.1... *
+>Cluster 177
+0	327aa, >GAMMA---GagaOR10.6... *
+>Cluster 178
+0	327aa, >GAMMA---GagaORE22C1... *
+1	320aa, >GAMMA---GagaORUn.33... at 80.00%
+2	320aa, >GAMMA---GagaORUn.11... at 80.00%
+3	320aa, >GAMMA---GagaORUn.18... at 80.00%
+4	327aa, >GAMMA---GagaORUn.26... at 85.93%
+>Cluster 179
+0	326aa, >Danio_rerio---ZETA-... *
+1	296aa, >Danio_rerio---ZETA-... at 96.62%
+>Cluster 180
+0	326aa, >Danio_rerio---ETA-2... *
+1	325aa, >Danio_rerio---ETA-2... at 89.85%
+>Cluster 181
+0	326aa, >Danio_rerio---DELTA... *
+>Cluster 182
+0	326aa, >Danio_rerio---ZETA-... *
+1	326aa, >Danio_rerio---ZETA-... at 84.66%
+>Cluster 183
+0	326aa, >Danio_rerio---ZETA-... *
+>Cluster 184
+0	326aa, >Danio_rerio---DELTA... *
+>Cluster 185
+0	326aa, >Lepisosteus_oculatu... *
+1	260aa, >Lepisosteus_oculatu... at 89.62%
+>Cluster 186
+0	326aa, >Oryzias_latipes---E... *
+>Cluster 187
+0	326aa, >Oryzias_latipes---E... *
+>Cluster 188
+0	326aa, >DELTA---XetrORs964.... *
+>Cluster 189
+0	326aa, >GAMMA---XetrORs91.2... *
+>Cluster 190
+0	326aa, >GAMMA---XetrORs378.... *
+>Cluster 191
+0	326aa, >GAMMA---XetrORs1310... *
+>Cluster 192
+0	326aa, >GAMMA---GagaORUn.15... *
+>Cluster 193
+0	326aa, >GAMMA---GagaORUn.27... *
+>Cluster 194
+0	325aa, >Danio_rerio---EPSIL... *
+1	325aa, >Danio_rerio---EPSIL... at 99.69%
+>Cluster 195
+0	325aa, >Danio_rerio---ZETA-... *
+>Cluster 196
+0	325aa, >Danio_rerio---ZETA-... *
+>Cluster 197
+0	325aa, >Danio_rerio---ZETA-... *
+>Cluster 198
+0	325aa, >Lepisosteus_oculatu... *
+1	325aa, >Lepisosteus_oculatu... at 89.23%
+>Cluster 199
+0	309aa, >Lepisosteus_oculatu... at 82.52%
+1	325aa, >Lepisosteus_oculatu... *
+>Cluster 200
+0	325aa, >Lepisosteus_oculatu... *
+>Cluster 201
+0	325aa, >Lepisosteus_oculatu... *
+>Cluster 202
+0	325aa, >Lepisosteus_oculatu... *
+>Cluster 203
+0	325aa, >Oryzias_latipes---D... *
+>Cluster 204
+0	325aa, >ALPHA---AncaORs2132... *
+>Cluster 205
+0	325aa, >GAMMA---XetrORs91.6... *
+>Cluster 206
+0	325aa, >GAMMA---XetrORs181.... *
+>Cluster 207
+0	325aa, >GAMMA---XetrORs411.... *
+>Cluster 208
+0	325aa, >GAMMA---XetrORs532.... *
+1	325aa, >GAMMA---XetrORs532.... at 82.15%
+2	311aa, >GAMMA---XetrORs532.... at 81.99%
+3	310aa, >GAMMA---XetrORs532.... at 81.61%
+>Cluster 209
+0	309aa, >GAMMA---XetrORs532.... at 80.26%
+1	305aa, >GAMMA---XetrORs1115... at 80.66%
+2	325aa, >GAMMA---XetrORs1115... *
+3	316aa, >GAMMA---XetrORs1115... at 87.66%
+4	304aa, >GAMMA---XetrORs1355... at 81.25%
+>Cluster 210
+0	325aa, >GAMMA---XetrORs1589... *
+1	325aa, >GAMMA---XetrORs1684... at 97.54%
+>Cluster 211
+0	325aa, >GAMMA---AncaORs584.... *
+>Cluster 212
+0	325aa, >Taru-theta1.1... *
+1	320aa, >Teni-theta1.1... at 92.19%
+>Cluster 213
+0	324aa, >Lepisosteus_oculatu... *
+1	324aa, >Lepisosteus_oculatu... at 83.33%
+>Cluster 214
+0	324aa, >Lepisosteus_oculatu... *
+1	308aa, >Lepisosteus_oculatu... at 81.17%
+>Cluster 215
+0	324aa, >Lepisosteus_oculatu... *
+>Cluster 216
+0	324aa, >Oryzias_latipes---B... *
+>Cluster 217
+0	324aa, >ALPHA---GagaOR1.3... *
+>Cluster 218
+0	324aa, >ALPHA---GagaOR1.12... *
+>Cluster 219
+0	324aa, >GAMMA---XetrORs91.1... *
+>Cluster 220
+0	324aa, >GAMMA---XetrORs159.... *
+>Cluster 221
+0	324aa, >GAMMA---XetrORs406.... *
+1	320aa, >GAMMA---XetrORs406.... at 84.06%
+>Cluster 222
+0	324aa, >GAMMA---XetrORs411.... *
+>Cluster 223
+0	324aa, >GAMMA---XetrORs672.... *
+>Cluster 224
+0	324aa, >GAMMA---XetrORs877.... *
+1	317aa, >GAMMA---XetrORs877.... at 86.75%
+>Cluster 225
+0	311aa, >GAMMA---XetrORs1085... at 91.00%
+1	324aa, >GAMMA---XetrORs1085... *
+>Cluster 226
+0	324aa, >GAMMA---XetrORs1623... *
+>Cluster 227
+0	324aa, >GAMMA---AncaORs124.... *
+>Cluster 228
+0	324aa, >GAMMA---AncaORs124.... *
+>Cluster 229
+0	324aa, >GAMMA---GagaOR10.9... *
+>Cluster 230
+0	320aa, >GAMMA---GagaORE22C1... at 87.19%
+1	324aa, >GAMMA---GagaORUn.91... *
+>Cluster 231
+0	323aa, >Danio_rerio---ETA-3... *
+1	322aa, >Danio_rerio---ETA-3... at 81.37%
+2	322aa, >Danio_rerio---ETA-3... at 80.43%
+3	322aa, >Danio_rerio---ETA-4... at 81.37%
+4	322aa, >Danio_rerio---ETA-4... at 82.92%
+>Cluster 232
+0	319aa, >Lepisosteus_oculatu... at 96.87%
+1	323aa, >Lepisosteus_oculatu... *
+>Cluster 233
+0	323aa, >Lepisosteus_oculatu... *
+>Cluster 234
+0	323aa, >Lepisosteus_oculatu... *
+1	317aa, >Lepisosteus_oculatu... at 84.23%
+>Cluster 235
+0	323aa, >Oryzias_latipes---E... *
+>Cluster 236
+0	311aa, >Oryzias_latipes---D... at 97.43%
+1	323aa, >Oryzias_latipes---D... *
+>Cluster 237
+0	323aa, >ALPHA---XetrORs2098... *
+>Cluster 238
+0	323aa, >DELTA---XetrORs799.... *
+>Cluster 239
+0	323aa, >EPSILON---XetrORs79... *
+>Cluster 240
+0	323aa, >GAMMA---XetrORs31.2... *
+>Cluster 241
+0	323aa, >GAMMA---XetrORs91.1... *
+>Cluster 242
+0	311aa, >GAMMA---XetrORs290.... at 87.46%
+1	323aa, >GAMMA---XetrORs290.... *
+2	311aa, >GAMMA---XetrORs290.... at 90.68%
+3	307aa, >GAMMA---XetrORs290.... at 87.95%
+>Cluster 243
+0	323aa, >GAMMA---XetrORs315.... *
+1	321aa, >GAMMA---XetrORs315.... at 82.24%
+>Cluster 244
+0	313aa, >GAMMA---XetrORs315.... at 83.07%
+1	313aa, >GAMMA---XetrORs315.... at 81.79%
+2	323aa, >GAMMA---XetrORs315.... *
+3	311aa, >GAMMA---XetrORs315.... at 83.92%
+4	311aa, >GAMMA---XetrORs315.... at 82.64%
+5	313aa, >GAMMA---XetrORs315.... at 82.75%
+>Cluster 245
+0	310aa, >GAMMA---XetrORs442.... at 81.61%
+1	311aa, >GAMMA---XetrORs442.... at 80.06%
+2	314aa, >GAMMA---XetrORs442.... at 80.25%
+3	323aa, >GAMMA---XetrORs442.... *
+>Cluster 246
+0	323aa, >GAMMA---XetrORs532.... *
+>Cluster 247
+0	323aa, >GAMMA---XetrORs942.... *
+>Cluster 248
+0	323aa, >GAMMA---AncaORs124.... *
+>Cluster 249
+0	323aa, >GAMMA---AncaORs236.... *
+>Cluster 250
+0	323aa, >GAMMA---AncaORs236.... *
+>Cluster 251
+0	323aa, >GAMMA---AncaORs444.... *
+>Cluster 252
+0	323aa, >GAMMA---AncaORs584.... *
+>Cluster 253
+0	323aa, >GAMMA---GagaOR10.1... *
+1	323aa, >GAMMA---GagaOR10.4... at 96.28%
+2	322aa, >GAMMA---GagaOR10.7... at 95.34%
+>Cluster 254
+0	322aa, >Danio_rerio---ETA-3... *
+>Cluster 255
+0	318aa, >Lepisosteus_oculatu... at 92.14%
+1	322aa, >Lepisosteus_oculatu... *
+>Cluster 256
+0	322aa, >Lepisosteus_oculatu... *
+>Cluster 257
+0	322aa, >Lepisosteus_oculatu... *
+>Cluster 258
+0	322aa, >Oryzias_latipes---Z... *
+>Cluster 259
+0	320aa, >BETA---XetrORs976.1... at 81.88%
+1	322aa, >BETA---XetrORs976.1... *
+2	322aa, >BETA---XetrORs976.1... at 83.23%
+3	319aa, >BETA---XetrORs10316... at 82.45%
+>Cluster 260
+0	322aa, >EPSILON---XetrORs79... *
+>Cluster 261
+0	322aa, >ETA---XetrORs982.7... *
+>Cluster 262
+0	322aa, >GAMMA---XetrORs67.1... *
+>Cluster 263
+0	322aa, >GAMMA---XetrORs442.... *
+>Cluster 264
+0	322aa, >GAMMA---XetrORs453.... *
+>Cluster 265
+0	316aa, >GAMMA---XetrORs657.... at 81.65%
+1	322aa, >GAMMA---XetrORs657.... *
+2	322aa, >GAMMA---XetrORs657.... at 93.79%
+>Cluster 266
+0	322aa, >GAMMA---XetrORs942.... *
+>Cluster 267
+0	322aa, >GAMMA---XetrORs1554... *
+>Cluster 268
+0	322aa, >GAMMA---AncaORs444.... *
+1	322aa, >GAMMA---AncaORs584.... at 99.07%
+>Cluster 269
+0	322aa, >GAMMA---AncaORs584.... *
+>Cluster 270
+0	320aa, >GAMMA---AncaORs1963... at 86.25%
+1	322aa, >GAMMA---AncaORs3531... *
+>Cluster 271
+0	322aa, >GAMMA---GagaORUn.27... *
+>Cluster 272
+0	321aa, >Danio_rerio---ETA-2... *
+>Cluster 273
+0	321aa, >Danio_rerio---ETA-3... *
+1	261aa, >Danio_rerio---ETA-3... at 91.95%
+>Cluster 274
+0	321aa, >Lepisosteus_oculatu... *
+>Cluster 275
+0	321aa, >Oryzias_latipes---Z... *
+>Cluster 276
+0	321aa, >BETA---XetrORs976.1... *
+1	321aa, >BETA---XetrORs976.1... at 80.06%
+>Cluster 277
+0	321aa, >DELTA---XetrORs964.... *
+>Cluster 278
+0	321aa, >GAMMA---XetrORs181.... *
+>Cluster 279
+0	321aa, >GAMMA---XetrORs257.... *
+>Cluster 280
+0	321aa, >GAMMA---XetrORs327.... *
+>Cluster 281
+0	321aa, >GAMMA---XetrORs406.... *
+1	309aa, >GAMMA---XetrORs406.... at 80.58%
+>Cluster 282
+0	317aa, >GAMMA---XetrORs406.... at 87.38%
+1	321aa, >GAMMA---XetrORs406.... *
+2	316aa, >GAMMA---XetrORs406.... at 82.28%
+>Cluster 283
+0	321aa, >GAMMA---XetrORs657.... *
+>Cluster 284
+0	321aa, >GAMMA---XetrORs657.... *
+>Cluster 285
+0	321aa, >GAMMA---XetrORs657.... *
+1	321aa, >GAMMA---XetrORs657.... at 95.95%
+2	316aa, >GAMMA---XetrORs657.... at 87.97%
+3	316aa, >GAMMA---XetrORs1479... at 86.71%
+>Cluster 286
+0	307aa, >GAMMA---XetrORs657.... at 84.04%
+1	321aa, >GAMMA---XetrORs657.... *
+2	320aa, >GAMMA---XetrORs882.... at 85.62%
+>Cluster 287
+0	321aa, >GAMMA---XetrORs672.... *
+1	306aa, >GAMMA---XetrORs672.... at 82.68%
+2	309aa, >GAMMA---XetrORs672.... at 80.58%
+3	318aa, >GAMMA---XetrORs1412... at 90.88%
+4	309aa, >GAMMA---XetrORs5024... at 80.58%
+>Cluster 288
+0	321aa, >GAMMA---XetrORs828.... *
+>Cluster 289
+0	321aa, >GAMMA---XetrORs942.... *
+>Cluster 290
+0	321aa, >GAMMA---XetrORs1274... *
+>Cluster 291
+0	321aa, >GAMMA---AncaORs584.... *
+>Cluster 292
+0	321aa, >Pema-kappa.1... *
+1	321aa, >Pema-kappa.2... at 99.69%
+>Cluster 293
+0	320aa, >Danio_rerio---ZETA-... *
+1	320aa, >Danio_rerio---ZETA-... at 87.81%
+2	319aa, >Danio_rerio---ZETA-... at 84.33%
+3	320aa, >Danio_rerio---ZETA-... at 99.69%
+4	320aa, >Danio_rerio---ZETA-... at 88.75%
+5	319aa, >Danio_rerio---ZETA-... at 84.01%
+>Cluster 294
+0	320aa, >Danio_rerio---EPSIL... *
+1	318aa, >Danio_rerio---EPSIL... at 87.42%
+>Cluster 295
+0	320aa, >Danio_rerio---ETA-3... *
+>Cluster 296
+0	320aa, >Lepisosteus_oculatu... *
+1	320aa, >Lepisosteus_oculatu... at 80.62%
+>Cluster 297
+0	320aa, >Lepisosteus_oculatu... *
+>Cluster 298
+0	320aa, >Lepisosteus_oculatu... *
+>Cluster 299
+0	320aa, >Lepisosteus_oculatu... *
+>Cluster 300
+0	320aa, >Lepisosteus_oculatu... *
+>Cluster 301
+0	320aa, >ALPHA---GagaOR1.14... *
+>Cluster 302
+0	320aa, >BETA---XetrORs976.1... *
+>Cluster 303
+0	320aa, >DELTA---XetrORs799.... *
+>Cluster 304
+0	320aa, >GAMMA---XetrORs17.8... *
+>Cluster 305
+0	308aa, >GAMMA---XetrORs34.1... at 83.12%
+1	320aa, >GAMMA---XetrORs34.1... *
+>Cluster 306
+0	320aa, >GAMMA---XetrORs34.3... *
+>Cluster 307
+0	312aa, >GAMMA---XetrORs181.... at 83.01%
+1	320aa, >GAMMA---XetrORs181.... *
+2	312aa, >GAMMA---XetrORs442.... at 91.03%
+>Cluster 308
+0	317aa, >GAMMA---XetrORs290.... at 90.54%
+1	320aa, >GAMMA---XetrORs290.... *
+2	315aa, >GAMMA---XetrORs290.... at 86.67%
+3	315aa, >GAMMA---XetrORs290.... at 87.62%
+>Cluster 309
+0	319aa, >GAMMA---XetrORs290.... at 86.21%
+1	319aa, >GAMMA---XetrORs290.... at 84.01%
+2	308aa, >GAMMA---XetrORs290.... at 88.64%
+3	320aa, >GAMMA---XetrORs290.... *
+4	309aa, >GAMMA---XetrORs290.... at 89.32%
+5	317aa, >GAMMA---XetrORs290.... at 91.17%
+6	312aa, >GAMMA---XetrORs2344... at 84.94%
+>Cluster 310
+0	320aa, >GAMMA---XetrORs396.... *
+>Cluster 311
+0	320aa, >GAMMA---XetrORs406.... *
+>Cluster 312
+0	320aa, >GAMMA---XetrORs410.... *
+>Cluster 313
+0	320aa, >GAMMA---XetrORs539.... *
+>Cluster 314
+0	320aa, >GAMMA---XetrORs657.... *
+>Cluster 315
+0	320aa, >GAMMA---XetrORs657.... *
+1	320aa, >GAMMA---XetrORs657.... at 90.62%
+>Cluster 316
+0	320aa, >GAMMA---XetrORs882.... *
+>Cluster 317
+0	320aa, >GAMMA---XetrORs882.... *
+>Cluster 318
+0	320aa, >GAMMA---XetrORs942.... *
+>Cluster 319
+0	320aa, >GAMMA---AncaORs444.... *
+>Cluster 320
+0	320aa, >GAMMA---AncaORs444.... *
+>Cluster 321
+0	288aa, >GAMMA---AncaORs444.... at 81.94%
+1	320aa, >GAMMA---AncaORs444.... *
+2	320aa, >GAMMA---AncaORs444.... at 90.31%
+>Cluster 322
+0	320aa, >GAMMA---AncaORs553.... *
+>Cluster 323
+0	320aa, >GAMMA---GagaORUn.62... *
+1	311aa, >GAMMA---GagaORUn.13... at 81.99%
+2	319aa, >GAMMA---GagaORUn.18... at 80.25%
+3	320aa, >GAMMA---GagaORUn.24... at 88.75%
+>Cluster 324
+0	311aa, >GAMMA---GagaORE22C1... at 87.46%
+1	319aa, >GAMMA---GagaORUn.16... at 80.56%
+2	320aa, >GAMMA---GagaORUn.19... *
+3	320aa, >GAMMA---GagaORUn.22... at 93.75%
+4	319aa, >GAMMA---GagaORUn.22... at 80.56%
+5	319aa, >GAMMA---GagaORUn.28... at 81.19%
+>Cluster 325
+0	320aa, >GAMMA---GagaORUn.23... *
+>Cluster 326
+0	298aa, >Danio_rerio---ZETA-... at 95.64%
+1	319aa, >Danio_rerio---ZETA-... *
+>Cluster 327
+0	319aa, >Lepisosteus_oculatu... *
+>Cluster 328
+0	319aa, >Lepisosteus_oculatu... *
+>Cluster 329
+0	319aa, >Lepisosteus_oculatu... *
+>Cluster 330
+0	319aa, >Lepisosteus_oculatu... *
+>Cluster 331
+0	319aa, >Oryzias_latipes---E... *
+>Cluster 332
+0	319aa, >ALPHA---XetrORs6102... *
+>Cluster 333
+0	319aa, >ALPHA---GagaOR1.4... *
+>Cluster 334
+0	319aa, >ALPHA---GagaOR1.7... *
+>Cluster 335
+0	319aa, >DELTA---XetrORs799.... *
+>Cluster 336
+0	314aa, >DELTA---XetrORs964.... at 92.04%
+1	311aa, >DELTA---XetrORs2655... at 81.99%
+2	319aa, >DELTA---XetrORs2655... *
+>Cluster 337
+0	319aa, >ETA---XetrORs982.8... *
+>Cluster 338
+0	319aa, >GAMMA---XetrORs24.1... *
+>Cluster 339
+0	319aa, >GAMMA---XetrORs34.4... *
+>Cluster 340
+0	319aa, >GAMMA---XetrORs67.2... *
+1	316aa, >GAMMA---XetrORs67.3... at 90.19%
+2	316aa, >GAMMA---XetrORs67.4... at 90.19%
+>Cluster 341
+0	319aa, >GAMMA---XetrORs91.3... *
+>Cluster 342
+0	319aa, >GAMMA---XetrORs190.... *
+>Cluster 343
+0	319aa, >GAMMA---XetrORs273.... *
+1	317aa, >GAMMA---XetrORs1286... at 95.90%
+>Cluster 344
+0	319aa, >GAMMA---XetrORs376.... *
+>Cluster 345
+0	319aa, >GAMMA---XetrORs882.... *
+>Cluster 346
+0	319aa, >GAMMA---XetrORs1085... *
+>Cluster 347
+0	319aa, >GAMMA---XetrORs1310... *
+>Cluster 348
+0	319aa, >GAMMA---AncaORs124.... *
+>Cluster 349
+0	319aa, >GAMMA---AncaORs124.... *
+>Cluster 350
+0	319aa, >GAMMA---AncaORs206.... *
+>Cluster 351
+0	319aa, >GAMMA---AncaORs236.... *
+>Cluster 352
+0	319aa, >GAMMA---AncaORs444.... *
+>Cluster 353
+0	319aa, >GAMMA---AncaORs444.... *
+>Cluster 354
+0	319aa, >GAMMA---GagaOR5.1... *
+>Cluster 355
+0	319aa, >GAMMA---GagaOR10.2... *
+>Cluster 356
+0	319aa, >GAMMA---GagaORUn.26... *
+1	319aa, >GAMMA---GagaORUn.19... at 94.04%
+2	319aa, >GAMMA---GagaORUn.26... at 97.49%
+3	319aa, >GAMMA---GagaORUn.33... at 94.36%
+>Cluster 357
+0	319aa, >Gaac-theta1.1... *
+>Cluster 358
+0	318aa, >Danio_rerio---ZETA-... *
+>Cluster 359
+0	312aa, >Danio_rerio---DELTA... at 89.74%
+1	318aa, >Danio_rerio---DELTA... *
+>Cluster 360
+0	318aa, >Danio_rerio---ETA-2... *
+1	316aa, >Danio_rerio---ETA-2... at 84.49%
+>Cluster 361
+0	318aa, >Lepisosteus_oculatu... *
+1	314aa, >Lepisosteus_oculatu... at 81.53%
+2	314aa, >Lepisosteus_oculatu... at 80.89%
+>Cluster 362
+0	318aa, >Lepisosteus_oculatu... *
+>Cluster 363
+0	318aa, >Lepisosteus_oculatu... *
+>Cluster 364
+0	312aa, >Lepisosteus_oculatu... at 83.01%
+1	318aa, >Lepisosteus_oculatu... *
+2	307aa, >Lepisosteus_oculatu... at 83.39%
+3	307aa, >Lepisosteus_oculatu... at 86.97%
+>Cluster 365
+0	318aa, >Lepisosteus_oculatu... *
+>Cluster 366
+0	318aa, >Lepisosteus_oculatu... *
+>Cluster 367
+0	317aa, >Lepisosteus_oculatu... at 80.13%
+1	318aa, >Lepisosteus_oculatu... *
+>Cluster 368
+0	318aa, >Lepisosteus_oculatu... *
+1	318aa, >Lepisosteus_oculatu... at 84.59%
+>Cluster 369
+0	318aa, >ALPHA---GagaOR1.11... *
+>Cluster 370
+0	318aa, >GAMMA---XetrORs17.4... *
+>Cluster 371
+0	318aa, >GAMMA---XetrORs24.4... *
+>Cluster 372
+0	318aa, >GAMMA---XetrORs91.1... *
+>Cluster 373
+0	318aa, >GAMMA---XetrORs150.... *
+1	318aa, >GAMMA---XetrORs150.... at 81.13%
+>Cluster 374
+0	308aa, >GAMMA---XetrORs273.... at 81.82%
+1	318aa, >GAMMA---XetrORs273.... *
+>Cluster 375
+0	318aa, >GAMMA---XetrORs411.... *
+>Cluster 376
+0	318aa, >GAMMA---XetrORs532.... *
+>Cluster 377
+0	318aa, >GAMMA---XetrORs532.... *
+>Cluster 378
+0	318aa, >GAMMA---XetrORs687.... *
+>Cluster 379
+0	318aa, >GAMMA---XetrORs1412... *
+1	316aa, >GAMMA---XetrORs1412... at 91.14%
+>Cluster 380
+0	318aa, >GAMMA---AncaORs124.... *
+>Cluster 381
+0	318aa, >GAMMA---AncaORs124.... *
+>Cluster 382
+0	318aa, >GAMMA---AncaORs584.... *
+>Cluster 383
+0	312aa, >GAMMA---GagaOR5.12... at 92.31%
+1	312aa, >GAMMA---GagaOR5.15... at 92.31%
+2	318aa, >GAMMA---GagaOR5.16... *
+3	312aa, >GAMMA---GagaOR5.20... at 87.82%
+>Cluster 384
+0	317aa, >Danio_rerio---DELTA... *
+>Cluster 385
+0	317aa, >Danio_rerio---EPSIL... *
+>Cluster 386
+0	317aa, >Danio_rerio---BETA-... *
+1	317aa, >Danio_rerio---BETA-... at 80.13%
+>Cluster 387
+0	317aa, >Danio_rerio---BETA-... *
+>Cluster 388
+0	311aa, >Danio_rerio---DELTA... at 91.96%
+1	317aa, >Danio_rerio---DELTA... *
+2	308aa, >Danio_rerio---DELTA... at 93.51%
+>Cluster 389
+0	317aa, >Danio_rerio---DELTA... *
+1	308aa, >Danio_rerio---DELTA... at 82.14%
+2	312aa, >Danio_rerio---DELTA... at 85.58%
+>Cluster 390
+0	317aa, >Lepisosteus_oculatu... *
+1	317aa, >Lepisosteus_oculatu... at 82.65%
+>Cluster 391
+0	317aa, >Lepisosteus_oculatu... *
+1	317aa, >Lepisosteus_oculatu... at 80.44%
+>Cluster 392
+0	317aa, >ALPHA---XetrORs572.... *
+>Cluster 393
+0	311aa, >DELTA---XetrORs799.... at 89.39%
+1	311aa, >DELTA---XetrORs799.... at 89.39%
+2	317aa, >DELTA---XetrORs799.... *
+>Cluster 394
+0	317aa, >DELTA---XetrORs799.... *
+>Cluster 395
+0	317aa, >DELTA---XetrORs1551... *
+>Cluster 396
+0	317aa, >DELTA---XetrORs1551... *
+1	317aa, >DELTA---XetrORs1551... at 94.01%
+>Cluster 397
+0	317aa, >EPSILON---XetrORs66... *
+>Cluster 398
+0	305aa, >GAMMA---XetrORs24.8... at 81.64%
+1	317aa, >GAMMA---XetrORs24.1... *
+>Cluster 399
+0	317aa, >GAMMA---XetrORs67.6... *
+>Cluster 400
+0	317aa, >GAMMA---XetrORs290.... *
+>Cluster 401
+0	317aa, >GAMMA---XetrORs290.... *
+>Cluster 402
+0	317aa, >GAMMA---XetrORs406.... *
+>Cluster 403
+0	317aa, >GAMMA---XetrORs406.... *
+>Cluster 404
+0	317aa, >GAMMA---XetrORs442.... *
+>Cluster 405
+0	316aa, >GAMMA---XetrORs657.... at 83.54%
+1	317aa, >GAMMA---XetrORs657.... *
+>Cluster 406
+0	317aa, >GAMMA---XetrORs672.... *
+1	303aa, >GAMMA---XetrORs672.... at 80.86%
+2	311aa, >GAMMA---XetrORs1412... at 80.39%
+>Cluster 407
+0	315aa, >GAMMA---XetrORs882.... at 93.33%
+1	317aa, >GAMMA---XetrORs882.... *
+2	317aa, >GAMMA---XetrORs4324... at 100.00%
+>Cluster 408
+0	317aa, >GAMMA---AncaORs124.... *
+>Cluster 409
+0	317aa, >GAMMA---AncaORs444.... *
+>Cluster 410
+0	317aa, >GAMMA---AncaORs444.... *
+>Cluster 411
+0	317aa, >GAMMA---AncaORs444.... *
+>Cluster 412
+0	317aa, >GAMMA---AncaORs444.... *
+>Cluster 413
+0	317aa, >GAMMA---GagaOR5.9... *
+>Cluster 414
+0	317aa, >GAMMA---GagaOR5.18... *
+>Cluster 415
+0	317aa, >Dare-theta1.1... *
+>Cluster 416
+0	317aa, >Taru-kappa.1... *
+>Cluster 417
+0	316aa, >Danio_rerio---ETA-1... *
+>Cluster 418
+0	316aa, >Danio_rerio---DELTA... *
+>Cluster 419
+0	316aa, >Danio_rerio---GAMMA... *
+>Cluster 420
+0	316aa, >Lepisosteus_oculatu... *
+1	316aa, >Lepisosteus_oculatu... at 87.03%
+2	316aa, >Lepisosteus_oculatu... at 82.59%
+>Cluster 421
+0	316aa, >Lepisosteus_oculatu... *
+>Cluster 422
+0	316aa, >Lepisosteus_oculatu... *
+>Cluster 423
+0	316aa, >Lepisosteus_oculatu... *
+>Cluster 424
+0	316aa, >Oryzias_latipes---D... *
+>Cluster 425
+0	314aa, >Oryzias_latipes---D... at 96.18%
+1	316aa, >Oryzias_latipes---D... *
+>Cluster 426
+0	304aa, >GAMMA---XetrORs24.1... at 80.59%
+1	313aa, >GAMMA---XetrORs24.4... at 83.07%
+2	316aa, >GAMMA---XetrORs24.6... *
+3	309aa, >GAMMA---XetrORs24.7... at 80.91%
+4	299aa, >GAMMA---XetrORs24.1... at 84.62%
+5	304aa, >GAMMA---XetrORs24.1... at 82.24%
+6	311aa, >GAMMA---XetrORs24.1... at 81.35%
+7	314aa, >GAMMA---XetrORs24.2... at 80.89%
+8	312aa, >GAMMA---XetrORs24.2... at 80.77%
+9	304aa, >GAMMA---XetrORs24.2... at 83.55%
+10	304aa, >GAMMA---XetrORs24.2... at 81.25%
+11	312aa, >GAMMA---XetrORs24.5... at 80.45%
+12	306aa, >GAMMA---XetrORs24.6... at 81.37%
+13	306aa, >GAMMA---XetrORs24.1... at 85.62%
+14	306aa, >GAMMA---XetrORs657.... at 81.05%
+15	306aa, >GAMMA---XetrORs657.... at 83.33%
+16	306aa, >GAMMA---XetrORs1245... at 84.31%
+17	304aa, >GAMMA---XetrORs1637... at 85.20%
+18	304aa, >GAMMA---XetrORs1637... at 82.24%
+19	306aa, >GAMMA---XetrORs1637... at 83.66%
+20	306aa, >GAMMA---XetrORs1945... at 85.62%
+21	312aa, >GAMMA---XetrORs5814... at 80.45%
+>Cluster 427
+0	316aa, >GAMMA---XetrORs24.7... *
+>Cluster 428
+0	316aa, >GAMMA---XetrORs24.1... *
+>Cluster 429
+0	316aa, >GAMMA---XetrORs34.5... *
+1	313aa, >GAMMA---XetrORs34.5... at 80.19%
+2	316aa, >GAMMA---XetrORs34.5... at 85.13%
+>Cluster 430
+0	316aa, >GAMMA---XetrORs91.4... *
+>Cluster 431
+0	316aa, >GAMMA---XetrORs150.... *
+>Cluster 432
+0	316aa, >GAMMA---XetrORs150.... *
+>Cluster 433
+0	316aa, >GAMMA---XetrORs290.... *
+>Cluster 434
+0	316aa, >GAMMA---XetrORs315.... *
+>Cluster 435
+0	316aa, >GAMMA---XetrORs453.... *
+1	308aa, >GAMMA---XetrORs453.... at 86.36%
+>Cluster 436
+0	316aa, >GAMMA---XetrORs532.... *
+1	309aa, >GAMMA---XetrORs1355... at 86.41%
+>Cluster 437
+0	316aa, >GAMMA---XetrORs657.... *
+>Cluster 438
+0	310aa, >GAMMA---XetrORs745.... at 96.13%
+1	316aa, >GAMMA---XetrORs745.... *
+>Cluster 439
+0	316aa, >GAMMA---XetrORs882.... *
+>Cluster 440
+0	316aa, >GAMMA---XetrORs942.... *
+>Cluster 441
+0	307aa, >GAMMA---XetrORs942.... at 81.43%
+1	316aa, >GAMMA---XetrORs942.... *
+>Cluster 442
+0	316aa, >GAMMA---XetrORs942.... *
+>Cluster 443
+0	316aa, >GAMMA---XetrORs1115... *
+>Cluster 444
+0	316aa, >GAMMA---AncaORs236.... *
+>Cluster 445
+0	316aa, >Orla-theta1.1... *
+>Cluster 446
+0	315aa, >Danio_rerio---ETA-2... *
+>Cluster 447
+0	315aa, >Danio_rerio---ETA-2... *
+>Cluster 448
+0	315aa, >Danio_rerio---DELTA... *
+>Cluster 449
+0	315aa, >Danio_rerio---DELTA... *
+>Cluster 450
+0	315aa, >Lepisosteus_oculatu... *
+>Cluster 451
+0	315aa, >Lepisosteus_oculatu... *
+>Cluster 452
+0	315aa, >Lepisosteus_oculatu... *
+>Cluster 453
+0	315aa, >Lepisosteus_oculatu... *
+>Cluster 454
+0	315aa, >Lepisosteus_oculatu... *
+>Cluster 455
+0	315aa, >Lepisosteus_oculatu... *
+>Cluster 456
+0	315aa, >Oryzias_latipes---D... *
+>Cluster 457
+0	315aa, >Oryzias_latipes---E... *
+>Cluster 458
+0	315aa, >Oryzias_latipes---D... *
+>Cluster 459
+0	315aa, >DELTA---XetrORs799.... *
+>Cluster 460
+0	315aa, >DELTA---XetrORs799.... *
+>Cluster 461
+0	315aa, >DELTA---XetrORs964.... *
+1	312aa, >DELTA---XetrORs3394... at 80.45%
+>Cluster 462
+0	315aa, >DELTA---XetrORs964.... *
+1	315aa, >DELTA---XetrORs964.... at 81.90%
+2	315aa, >DELTA---XetrORs964.... at 84.13%
+>Cluster 463
+0	315aa, >DELTA---XetrORs1551... *
+>Cluster 464
+0	315aa, >GAMMA---XetrORs17.7... *
+>Cluster 465
+0	315aa, >GAMMA---XetrORs24.2... *
+>Cluster 466
+0	315aa, >GAMMA---XetrORs34.1... *
+>Cluster 467
+0	315aa, >GAMMA---XetrORs34.1... *
+>Cluster 468
+0	315aa, >GAMMA---XetrORs34.2... *
+>Cluster 469
+0	315aa, >GAMMA---XetrORs91.1... *
+>Cluster 470
+0	315aa, >GAMMA---XetrORs91.1... *
+>Cluster 471
+0	315aa, >GAMMA---XetrORs91.3... *
+>Cluster 472
+0	315aa, >GAMMA---XetrORs315.... *
+1	315aa, >GAMMA---XetrORs315.... at 81.59%
+>Cluster 473
+0	315aa, >GAMMA---XetrORs315.... *
+>Cluster 474
+0	315aa, >GAMMA---XetrORs315.... *
+>Cluster 475
+0	315aa, >GAMMA---XetrORs378.... *
+>Cluster 476
+0	315aa, >GAMMA---XetrORs406.... *
+>Cluster 477
+0	315aa, >GAMMA---XetrORs442.... *
+>Cluster 478
+0	315aa, >GAMMA---XetrORs532.... *
+>Cluster 479
+0	315aa, >GAMMA---XetrORs539.... *
+>Cluster 480
+0	315aa, >GAMMA---XetrORs657.... *
+>Cluster 481
+0	315aa, >GAMMA---XetrORs687.... *
+>Cluster 482
+0	315aa, >GAMMA---XetrORs942.... *
+>Cluster 483
+0	315aa, >GAMMA---XetrORs942.... *
+>Cluster 484
+0	311aa, >GAMMA---XetrORs315.... at 91.32%
+1	315aa, >GAMMA---XetrORs1140... *
+>Cluster 485
+0	315aa, >GAMMA---AncaORs236.... *
+>Cluster 486
+0	315aa, >GAMMA---AncaORs245.... *
+1	315aa, >GAMMA---AncaORs245.... at 94.29%
+>Cluster 487
+0	315aa, >GAMMA---AncaORs444.... *
+>Cluster 488
+0	315aa, >GAMMA---AncaORs444.... *
+1	315aa, >GAMMA---AncaORs444.... at 89.52%
+2	307aa, >GAMMA---AncaORs444.... at 87.95%
+3	298aa, >GAMMA---AncaORs4371... at 88.26%
+4	307aa, >GAMMA---AncaORs4371... at 86.64%
+>Cluster 489
+0	315aa, >GAMMA---AncaORs444.... *
+>Cluster 490
+0	315aa, >GAMMA---AncaORs584.... *
+>Cluster 491
+0	315aa, >GAMMA---AncaORs584.... *
+>Cluster 492
+0	315aa, >GAMMA---AncaORs1963... *
+>Cluster 493
+0	315aa, >GAMMA---GagaOR5.10... *
+1	312aa, >GAMMA---GagaOR5.14... at 99.68%
+>Cluster 494
+0	315aa, >GAMMA---GagaOR5.21... *
+>Cluster 495
+0	314aa, >Danio_rerio---ETA-1... *
+>Cluster 496
+0	314aa, >Danio_rerio---DELTA... *
+1	314aa, >Danio_rerio---DELTA... at 95.86%
+>Cluster 497
+0	314aa, >Danio_rerio---ZETA-... *
+>Cluster 498
+0	314aa, >Danio_rerio---DELTA... *
+>Cluster 499
+0	314aa, >Danio_rerio---DELTA... *
+>Cluster 500
+0	314aa, >Danio_rerio---BETA-... *
+>Cluster 501
+0	314aa, >Danio_rerio---DELTA... *
+1	313aa, >Danio_rerio---DELTA... at 83.07%
+>Cluster 502
+0	314aa, >Danio_rerio---DELTA... *
+>Cluster 503
+0	314aa, >Lepisosteus_oculatu... *
+>Cluster 504
+0	314aa, >Lepisosteus_oculatu... *
+>Cluster 505
+0	314aa, >Lepisosteus_oculatu... *
+>Cluster 506
+0	314aa, >Lepisosteus_oculatu... *
+>Cluster 507
+0	314aa, >Oryzias_latipes---E... *
+>Cluster 508
+0	314aa, >BETA---XetrORs976.6... *
+1	314aa, >BETA---XetrORs976.8... at 81.53%
+2	310aa, >BETA---XetrORs976.9... at 81.61%
+>Cluster 509
+0	314aa, >EPSILON---XetrORs79... *
+>Cluster 510
+0	314aa, >EPSILON---XetrORs79... *
+1	314aa, >EPSILON---XetrORs79... at 95.86%
+>Cluster 511
+0	314aa, >GAMMA---XetrORs17.2... *
+>Cluster 512
+0	314aa, >GAMMA---XetrORs24.2... *
+>Cluster 513
+0	314aa, >GAMMA---XetrORs24.2... *
+>Cluster 514
+0	314aa, >GAMMA---XetrORs24.9... *
+>Cluster 515
+0	314aa, >GAMMA---XetrORs24.1... *
+>Cluster 516
+0	314aa, >GAMMA---XetrORs34.2... *
+>Cluster 517
+0	314aa, >GAMMA---XetrORs258.... *
+>Cluster 518
+0	314aa, >GAMMA---XetrORs290.... *
+>Cluster 519
+0	314aa, >GAMMA---XetrORs410.... *
+>Cluster 520
+0	306aa, >GAMMA---XetrORs442.... at 81.05%
+1	309aa, >GAMMA---XetrORs442.... at 80.91%
+2	306aa, >GAMMA---XetrORs442.... at 80.72%
+3	309aa, >GAMMA---XetrORs442.... at 80.91%
+4	314aa, >GAMMA---XetrORs442.... *
+5	314aa, >GAMMA---XetrORs2641... at 98.09%
+>Cluster 521
+0	314aa, >GAMMA---XetrORs787.... *
+1	312aa, >GAMMA---XetrORs787.... at 85.58%
+>Cluster 522
+0	312aa, >GAMMA---XetrORs942.... at 83.33%
+1	314aa, >GAMMA---XetrORs942.... *
+2	308aa, >GAMMA---XetrORs942.... at 80.19%
+>Cluster 523
+0	314aa, >GAMMA---XetrORs1085... *
+1	299aa, >GAMMA---XetrORs1085... at 97.99%
+>Cluster 524
+0	314aa, >GAMMA---AncaORs124.... *
+>Cluster 525
+0	314aa, >GAMMA---GagaOR5.5... *
+>Cluster 526
+0	314aa, >Cami-kappa.1... *
+>Cluster 527
+0	313aa, >Danio_rerio---DELTA... *
+>Cluster 528
+0	313aa, >Danio_rerio---DELTA... *
+>Cluster 529
+0	313aa, >Danio_rerio---DELTA... *
+>Cluster 530
+0	313aa, >Danio_rerio---DELTA... *
+>Cluster 531
+0	313aa, >Danio_rerio---DELTA... *
+>Cluster 532
+0	313aa, >Lepisosteus_oculatu... *
+>Cluster 533
+0	310aa, >Lepisosteus_oculatu... at 80.65%
+1	313aa, >Lepisosteus_oculatu... *
+2	310aa, >Lepisosteus_oculatu... at 80.32%
+3	310aa, >Lepisosteus_oculatu... at 80.32%
+>Cluster 534
+0	313aa, >Oryzias_latipes---D... *
+>Cluster 535
+0	313aa, >DELTA---XetrORs799.... *
+>Cluster 536
+0	313aa, >EPSILON---XetrORs79... *
+>Cluster 537
+0	313aa, >GAMMA---XetrORs17.1... *
+>Cluster 538
+0	313aa, >GAMMA---XetrORs24.1... *
+1	304aa, >GAMMA---XetrORs24.2... at 81.91%
+>Cluster 539
+0	304aa, >GAMMA---XetrORs24.8... at 83.22%
+1	304aa, >GAMMA---XetrORs24.1... at 82.57%
+2	313aa, >GAMMA---XetrORs24.1... *
+>Cluster 540
+0	313aa, >GAMMA---XetrORs24.1... *
+1	313aa, >GAMMA---XetrORs24.1... at 92.33%
+>Cluster 541
+0	313aa, >GAMMA---XetrORs34.5... *
+>Cluster 542
+0	313aa, >GAMMA---XetrORs91.2... *
+>Cluster 543
+0	309aa, >GAMMA---XetrORs91.3... at 88.35%
+1	313aa, >GAMMA---XetrORs91.3... *
+2	313aa, >GAMMA---XetrORs91.3... at 94.57%
+3	313aa, >GAMMA---XetrORs91.4... at 82.43%
+>Cluster 544
+0	312aa, >GAMMA---XetrORs257.... at 80.13%
+1	313aa, >GAMMA---XetrORs257.... *
+>Cluster 545
+0	313aa, >GAMMA---XetrORs290.... *
+>Cluster 546
+0	313aa, >GAMMA---XetrORs315.... *
+>Cluster 547
+0	313aa, >GAMMA---XetrORs315.... *
+>Cluster 548
+0	308aa, >GAMMA---XetrORs315.... at 89.94%
+1	313aa, >GAMMA---XetrORs315.... *
+2	313aa, >GAMMA---XetrORs315.... at 85.62%
+>Cluster 549
+0	313aa, >GAMMA---XetrORs532.... *
+>Cluster 550
+0	313aa, >GAMMA---XetrORs539.... *
+>Cluster 551
+0	313aa, >GAMMA---XetrORs657.... *
+>Cluster 552
+0	313aa, >GAMMA---XetrORs882.... *
+>Cluster 553
+0	313aa, >GAMMA---XetrORs926.... *
+>Cluster 554
+0	313aa, >GAMMA---XetrORs1012... *
+>Cluster 555
+0	313aa, >GAMMA---XetrORs1115... *
+>Cluster 556
+0	312aa, >GAMMA---XetrORs1115... at 87.82%
+1	313aa, >GAMMA---XetrORs1115... *
+2	313aa, >GAMMA---XetrORs1115... at 83.39%
+>Cluster 557
+0	313aa, >GAMMA---AncaORs236.... *
+>Cluster 558
+0	313aa, >GAMMA---AncaORs236.... *
+>Cluster 559
+0	313aa, >GAMMA---AncaORs444.... *
+>Cluster 560
+0	313aa, >GAMMA---AncaORs444.... *
+>Cluster 561
+0	313aa, >GAMMA---AncaORs444.... *
+>Cluster 562
+0	313aa, >GAMMA---AncaORs444.... *
+>Cluster 563
+0	313aa, >GAMMA---AncaORs444.... *
+>Cluster 564
+0	313aa, >GAMMA---AncaORs444.... *
+>Cluster 565
+0	313aa, >GAMMA---AncaORs584.... *
+>Cluster 566
+0	313aa, >GAMMA---AncaORs605.... *
+>Cluster 567
+0	313aa, >GAMMA---AncaORs731.... *
+>Cluster 568
+0	311aa, >Danio_rerio---DELTA... at 81.03%
+1	312aa, >Danio_rerio---DELTA... *
+>Cluster 569
+0	312aa, >Danio_rerio---DELTA... *
+>Cluster 570
+0	312aa, >Danio_rerio---DELTA... *
+1	312aa, >Danio_rerio---DELTA... at 83.97%
+2	312aa, >Danio_rerio---DELTA... at 83.65%
+>Cluster 571
+0	312aa, >Danio_rerio---DELTA... *
+1	312aa, >Danio_rerio---DELTA... at 89.10%
+2	312aa, >Danio_rerio---DELTA... at 87.82%
+>Cluster 572
+0	312aa, >Danio_rerio---DELTA... *
+>Cluster 573
+0	312aa, >Lepisosteus_oculatu... *
+1	254aa, >Lepisosteus_oculatu... at 94.88%
+2	312aa, >Lepisosteus_oculatu... at 86.54%
+3	312aa, >Lepisosteus_oculatu... at 83.01%
+>Cluster 574
+0	312aa, >Lepisosteus_oculatu... *
+1	312aa, >Lepisosteus_oculatu... at 85.58%
+>Cluster 575
+0	312aa, >Lepisosteus_oculatu... *
+>Cluster 576
+0	312aa, >Lepisosteus_oculatu... *
+>Cluster 577
+0	312aa, >Lepisosteus_oculatu... *
+>Cluster 578
+0	312aa, >Lepisosteus_oculatu... *
+>Cluster 579
+0	312aa, >Oryzias_latipes---B... *
+>Cluster 580
+0	312aa, >Oryzias_latipes---D... *
+>Cluster 581
+0	312aa, >Oryzias_latipes---D... *
+>Cluster 582
+0	312aa, >Oryzias_latipes---D... *
+>Cluster 583
+0	312aa, >Oryzias_latipes---D... *
+>Cluster 584
+0	312aa, >Oryzias_latipes---E... *
+>Cluster 585
+0	312aa, >Oryzias_latipes---D... *
+>Cluster 586
+0	312aa, >BETA---XetrORs976.4... *
+1	312aa, >BETA---XetrORs976.5... at 93.59%
+2	310aa, >BETA---XetrORs976.7... at 89.03%
+>Cluster 587
+0	312aa, >DELTA---XetrORs964.... *
+>Cluster 588
+0	312aa, >GAMMA---XetrORs17.6... *
+>Cluster 589
+0	312aa, >GAMMA---XetrORs24.4... *
+>Cluster 590
+0	312aa, >GAMMA---XetrORs91.9... *
+>Cluster 591
+0	312aa, >GAMMA---XetrORs91.2... *
+1	312aa, >GAMMA---XetrORs3787... at 100.00%
+>Cluster 592
+0	312aa, >GAMMA---XetrORs190.... *
+>Cluster 593
+0	312aa, >GAMMA---XetrORs190.... *
+>Cluster 594
+0	312aa, >GAMMA---XetrORs244.... *
+>Cluster 595
+0	312aa, >GAMMA---XetrORs257.... *
+>Cluster 596
+0	312aa, >GAMMA---XetrORs257.... *
+1	312aa, >GAMMA---XetrORs257.... at 100.00%
+>Cluster 597
+0	312aa, >GAMMA---XetrORs290.... *
+>Cluster 598
+0	312aa, >GAMMA---XetrORs290.... *
+1	309aa, >GAMMA---XetrORs290.... at 83.17%
+>Cluster 599
+0	312aa, >GAMMA---XetrORs315.... *
+>Cluster 600
+0	308aa, >GAMMA---XetrORs376.... at 84.74%
+1	312aa, >GAMMA---XetrORs376.... *
+2	309aa, >GAMMA---XetrORs406.... at 82.52%
+3	308aa, >GAMMA---XetrORs406.... at 85.06%
+>Cluster 601
+0	312aa, >GAMMA---XetrORs376.... *
+>Cluster 602
+0	312aa, >GAMMA---XetrORs406.... *
+1	312aa, >GAMMA---XetrORs406.... at 88.14%
+2	309aa, >GAMMA---XetrORs406.... at 81.88%
+3	310aa, >GAMMA---XetrORs406.... at 81.94%
+4	310aa, >GAMMA---XetrORs406.... at 82.58%
+5	310aa, >GAMMA---XetrORs406.... at 83.87%
+>Cluster 603
+0	312aa, >GAMMA---XetrORs442.... *
+>Cluster 604
+0	312aa, >GAMMA---XetrORs442.... *
+>Cluster 605
+0	312aa, >GAMMA---XetrORs532.... *
+>Cluster 606
+0	312aa, >GAMMA---XetrORs539.... *
+1	312aa, >GAMMA---XetrORs1274... at 83.65%
+2	309aa, >GAMMA---XetrORs1274... at 83.82%
+>Cluster 607
+0	312aa, >GAMMA---XetrORs657.... *
+>Cluster 608
+0	312aa, >GAMMA---XetrORs882.... *
+>Cluster 609
+0	312aa, >GAMMA---XetrORs942.... *
+>Cluster 610
+0	312aa, >GAMMA---XetrORs2010... *
+>Cluster 611
+0	312aa, >GAMMA---AncaORs236.... *
+>Cluster 612
+0	312aa, >GAMMA---AncaORs245.... *
+>Cluster 613
+0	312aa, >GAMMA---AncaORs270.... *
+>Cluster 614
+0	312aa, >GAMMA---AncaORs444.... *
+1	312aa, >GAMMA---AncaORs584.... at 100.00%
+>Cluster 615
+0	312aa, >GAMMA---AncaORs444.... *
+>Cluster 616
+0	312aa, >GAMMA---AncaORs444.... *
+>Cluster 617
+0	312aa, >GAMMA---AncaORs444.... *
+>Cluster 618
+0	312aa, >GAMMA---AncaORs444.... *
+1	306aa, >GAMMA---AncaORs444.... at 89.87%
+>Cluster 619
+0	312aa, >GAMMA---AncaORs531.... *
+>Cluster 620
+0	312aa, >GAMMA---AncaORs584.... *
+>Cluster 621
+0	312aa, >GAMMA---AncaORs584.... *
+>Cluster 622
+0	312aa, >GAMMA---AncaORs584.... *
+>Cluster 623
+0	312aa, >GAMMA---AncaORs584.... *
+>Cluster 624
+0	312aa, >GAMMA---AncaORs584.... *
+>Cluster 625
+0	312aa, >GAMMA---GagaOR5.8... *
+>Cluster 626
+0	312aa, >GAMMA---GagaOR5.19... *
+>Cluster 627
+0	312aa, >GAMMA---GagaORUn.27... *
+>Cluster 628
+0	311aa, >Danio_rerio---DELTA... *
+>Cluster 629
+0	311aa, >Danio_rerio---DELTA... *
+>Cluster 630
+0	311aa, >Lepisosteus_oculatu... *
+>Cluster 631
+0	311aa, >Lepisosteus_oculatu... *
+1	285aa, >Lepisosteus_oculatu... at 82.81%
+2	311aa, >Lepisosteus_oculatu... at 82.32%
+3	311aa, >Lepisosteus_oculatu... at 81.35%
+>Cluster 632
+0	311aa, >Oryzias_latipes---D... *
+>Cluster 633
+0	311aa, >Oryzias_latipes---E... *
+1	311aa, >Oryzias_latipes---E... at 96.78%
+2	311aa, >Oryzias_latipes---E... at 90.35%
+>Cluster 634
+0	311aa, >ALPHA---XetrORs2098... *
+>Cluster 635
+0	311aa, >GAMMA---XetrORs24.3... *
+>Cluster 636
+0	311aa, >GAMMA---XetrORs24.1... *
+>Cluster 637
+0	311aa, >GAMMA---XetrORs31.1... *
+>Cluster 638
+0	311aa, >GAMMA---XetrORs34.6... *
+>Cluster 639
+0	311aa, >GAMMA---XetrORs34.2... *
+1	310aa, >GAMMA---XetrORs34.2... at 86.45%
+>Cluster 640
+0	311aa, >GAMMA---XetrORs34.4... *
+1	311aa, >GAMMA---XetrORs34.4... at 82.96%
+2	311aa, >GAMMA---XetrORs34.4... at 82.32%
+>Cluster 641
+0	311aa, >GAMMA---XetrORs91.1... *
+>Cluster 642
+0	311aa, >GAMMA---XetrORs315.... *
+>Cluster 643
+0	311aa, >GAMMA---XetrORs315.... *
+>Cluster 644
+0	311aa, >GAMMA---XetrORs315.... *
+1	311aa, >GAMMA---XetrORs1544... at 100.00%
+>Cluster 645
+0	311aa, >GAMMA---XetrORs347.... *
+>Cluster 646
+0	311aa, >GAMMA---XetrORs360.... *
+1	309aa, >GAMMA---XetrORs881.... at 81.88%
+2	309aa, >GAMMA---XetrORs881.... at 82.20%
+>Cluster 647
+0	311aa, >GAMMA---XetrORs453.... *
+>Cluster 648
+0	311aa, >GAMMA---XetrORs504.... *
+>Cluster 649
+0	311aa, >GAMMA---XetrORs942.... *
+>Cluster 650
+0	311aa, >GAMMA---XetrORs1085... *
+>Cluster 651
+0	311aa, >GAMMA---XetrORs1085... *
+>Cluster 652
+0	311aa, >GAMMA---XetrORs1355... *
+>Cluster 653
+0	311aa, >GAMMA---AncaORs124.... *
+>Cluster 654
+0	311aa, >GAMMA---AncaORs124.... *
+>Cluster 655
+0	311aa, >GAMMA---AncaORs444.... *
+>Cluster 656
+0	311aa, >GAMMA---AncaORs584.... *
+>Cluster 657
+0	311aa, >GAMMA---AncaORs584.... *
+>Cluster 658
+0	311aa, >GAMMA---AncaORs584.... *
+>Cluster 659
+0	311aa, >GAMMA---GagaOR27.3... *
+>Cluster 660
+0	310aa, >Danio_rerio---ETA-3... *
+>Cluster 661
+0	310aa, >Danio_rerio---ETA-5... *
+1	310aa, >Danio_rerio---ETA-6... at 89.03%
+2	310aa, >Danio_rerio---ETA-7... at 88.39%
+3	310aa, >Danio_rerio---ETA-8... at 88.39%
+>Cluster 662
+0	310aa, >Danio_rerio---ETA-1... *
+>Cluster 663
+0	305aa, >Danio_rerio---DELTA... at 89.51%
+1	310aa, >Danio_rerio---DELTA... *
+2	305aa, >Danio_rerio---DELTA... at 89.18%
+3	305aa, >Danio_rerio---DELTA... at 84.26%
+>Cluster 664
+0	308aa, >Danio_rerio---DELTA... at 82.14%
+1	304aa, >Danio_rerio---DELTA... at 81.58%
+2	310aa, >Danio_rerio---DELTA... *
+>Cluster 665
+0	310aa, >Lepisosteus_oculatu... *
+>Cluster 666
+0	310aa, >Lepisosteus_oculatu... *
+>Cluster 667
+0	310aa, >Lepisosteus_oculatu... *
+>Cluster 668
+0	310aa, >Lepisosteus_oculatu... *
+>Cluster 669
+0	310aa, >ETA---XetrORs982.1... *
+>Cluster 670
+0	310aa, >GAMMA---XetrORs24.6... *
+>Cluster 671
+0	310aa, >GAMMA---XetrORs24.1... *
+>Cluster 672
+0	310aa, >GAMMA---XetrORs34.1... *
+>Cluster 673
+0	310aa, >GAMMA---XetrORs34.1... *
+>Cluster 674
+0	310aa, >GAMMA---XetrORs34.1... *
+>Cluster 675
+0	310aa, >GAMMA---XetrORs34.3... *
+>Cluster 676
+0	310aa, >GAMMA---XetrORs91.1... *
+>Cluster 677
+0	310aa, >GAMMA---XetrORs273.... *
+>Cluster 678
+0	310aa, >GAMMA---XetrORs290.... *
+1	310aa, >GAMMA---XetrORs290.... at 96.13%
+2	310aa, >GAMMA---XetrORs290.... at 96.45%
+>Cluster 679
+0	310aa, >GAMMA---XetrORs290.... *
+>Cluster 680
+0	310aa, >GAMMA---XetrORs315.... *
+>Cluster 681
+0	310aa, >GAMMA---XetrORs315.... *
+>Cluster 682
+0	310aa, >GAMMA---XetrORs442.... *
+>Cluster 683
+0	310aa, >GAMMA---XetrORs532.... *
+1	306aa, >GAMMA---XetrORs1115... at 80.07%
+>Cluster 684
+0	310aa, >GAMMA---XetrORs657.... *
+>Cluster 685
+0	310aa, >GAMMA---XetrORs1412... *
+>Cluster 686
+0	310aa, >GAMMA---XetrORs1412... *
+>Cluster 687
+0	310aa, >GAMMA---AncaORs124.... *
+1	310aa, >GAMMA---AncaORs124.... at 94.84%
+>Cluster 688
+0	310aa, >GAMMA---AncaORs444.... *
+>Cluster 689
+0	310aa, >GAMMA---AncaORs584.... *
+>Cluster 690
+0	310aa, >GAMMA---AncaORs2226... *
+>Cluster 691
+0	310aa, >GAMMA---GagaOR27.1... *
+>Cluster 692
+0	309aa, >Danio_rerio---ETA-9... *
+1	307aa, >Danio_rerio---ETA-1... at 90.55%
+2	308aa, >Danio_rerio---ETA-1... at 93.18%
+>Cluster 693
+0	309aa, >Danio_rerio---ETA-1... *
+>Cluster 694
+0	309aa, >Danio_rerio---DELTA... *
+>Cluster 695
+0	309aa, >Danio_rerio---ETA-3... *
+>Cluster 696
+0	309aa, >Danio_rerio---DELTA... *
+>Cluster 697
+0	309aa, >Lepisosteus_oculatu... *
+>Cluster 698
+0	309aa, >Lepisosteus_oculatu... *
+>Cluster 699
+0	309aa, >Lepisosteus_oculatu... *
+>Cluster 700
+0	309aa, >Lepisosteus_oculatu... *
+>Cluster 701
+0	309aa, >Oryzias_latipes---D... *
+>Cluster 702
+0	309aa, >Oryzias_latipes---D... *
+1	307aa, >Oryzias_latipes---D... at 94.79%
+2	307aa, >Oryzias_latipes---D... at 91.86%
+3	305aa, >Oryzias_latipes---D... at 84.59%
+4	305aa, >Oryzias_latipes---D... at 84.59%
+5	305aa, >Oryzias_latipes---D... at 85.90%
+6	305aa, >Oryzias_latipes---D... at 85.90%
+7	305aa, >Oryzias_latipes---D... at 86.56%
+>Cluster 703
+0	309aa, >DELTA---XetrORs964.... *
+>Cluster 704
+0	309aa, >GAMMA---XetrORs17.5... *
+>Cluster 705
+0	309aa, >GAMMA---XetrORs91.7... *
+>Cluster 706
+0	309aa, >GAMMA---XetrORs149.... *
+>Cluster 707
+0	309aa, >GAMMA---XetrORs290.... *
+1	309aa, >GAMMA---XetrORs290.... at 86.73%
+>Cluster 708
+0	309aa, >GAMMA---XetrORs290.... *
+>Cluster 709
+0	309aa, >GAMMA---XetrORs376.... *
+>Cluster 710
+0	309aa, >GAMMA---XetrORs657.... *
+>Cluster 711
+0	309aa, >GAMMA---XetrORs787.... *
+>Cluster 712
+0	309aa, >GAMMA---XetrORs882.... *
+>Cluster 713
+0	309aa, >GAMMA---XetrORs1101... *
+1	309aa, >GAMMA---XetrORs1562... at 99.03%
+>Cluster 714
+0	309aa, >GAMMA---AncaORs236.... *
+>Cluster 715
+0	308aa, >Lepisosteus_oculatu... *
+>Cluster 716
+0	308aa, >Lepisosteus_oculatu... *
+>Cluster 717
+0	308aa, >Lepisosteus_oculatu... *
+>Cluster 718
+0	308aa, >Oryzias_latipes---D... *
+>Cluster 719
+0	308aa, >DELTA---XetrORs964.... *
+>Cluster 720
+0	308aa, >ETA---XetrORs982.2... *
+>Cluster 721
+0	308aa, >ETA---XetrORs982.3... *
+1	308aa, >ETA---XetrORs982.5... at 93.83%
+>Cluster 722
+0	308aa, >GAMMA---XetrORs24.4... *
+>Cluster 723
+0	308aa, >GAMMA---XetrORs24.4... *
+1	308aa, >GAMMA---XetrORs24.4... at 90.91%
+>Cluster 724
+0	308aa, >GAMMA---XetrORs34.2... *
+1	301aa, >GAMMA---XetrORs442.... at 80.07%
+2	308aa, >GAMMA---XetrORs4470... at 96.43%
+>Cluster 725
+0	308aa, >GAMMA---XetrORs91.8... *
+>Cluster 726
+0	308aa, >GAMMA---XetrORs190.... *
+1	305aa, >GAMMA---XetrORs190.... at 92.13%
+2	306aa, >GAMMA---XetrORs190.... at 82.35%
+3	306aa, >GAMMA---XetrORs190.... at 82.35%
+>Cluster 727
+0	308aa, >GAMMA---XetrORs257.... *
+>Cluster 728
+0	308aa, >GAMMA---XetrORs396.... *
+>Cluster 729
+0	308aa, >GAMMA---XetrORs453.... *
+>Cluster 730
+0	308aa, >GAMMA---XetrORs539.... *
+>Cluster 731
+0	306aa, >GAMMA---XetrORs882.... at 87.91%
+1	308aa, >GAMMA---XetrORs882.... *
+>Cluster 732
+0	308aa, >GAMMA---XetrORs942.... *
+>Cluster 733
+0	308aa, >GAMMA---XetrORs1085... *
+1	308aa, >GAMMA---XetrORs2344... at 93.18%
+>Cluster 734
+0	308aa, >GAMMA---XetrORs1085... *
+>Cluster 735
+0	308aa, >GAMMA---AncaORs236.... *
+>Cluster 736
+0	308aa, >GAMMA---AncaORs444.... *
+>Cluster 737
+0	308aa, >GAMMA---AncaORs444.... *
+>Cluster 738
+0	307aa, >Danio_rerio---ETA-1... *
+>Cluster 739
+0	307aa, >Danio_rerio---DELTA... *
+>Cluster 740
+0	307aa, >Lepisosteus_oculatu... *
+>Cluster 741
+0	307aa, >Oryzias_latipes---E... *
+>Cluster 742
+0	307aa, >Oryzias_latipes---D... *
+1	307aa, >Oryzias_latipes---D... at 94.46%
+>Cluster 743
+0	307aa, >Oryzias_latipes---D... *
+1	307aa, >Oryzias_latipes---D... at 92.18%
+>Cluster 744
+0	307aa, >GAMMA---XetrORs24.3... *
+>Cluster 745
+0	307aa, >GAMMA---XetrORs24.3... *
+1	307aa, >GAMMA---XetrORs24.3... at 93.49%
+>Cluster 746
+0	307aa, >GAMMA---XetrORs24.1... *
+>Cluster 747
+0	307aa, >GAMMA---XetrORs34.7... *
+>Cluster 748
+0	307aa, >GAMMA---XetrORs34.9... *
+>Cluster 749
+0	307aa, >GAMMA---XetrORs290.... *
+>Cluster 750
+0	307aa, >GAMMA---XetrORs315.... *
+>Cluster 751
+0	302aa, >GAMMA---XetrORs442.... at 81.13%
+1	301aa, >GAMMA---XetrORs442.... at 85.05%
+2	307aa, >GAMMA---XetrORs442.... *
+3	301aa, >GAMMA---XetrORs1638... at 82.39%
+>Cluster 752
+0	307aa, >GAMMA---XetrORs453.... *
+>Cluster 753
+0	307aa, >GAMMA---XetrORs532.... *
+>Cluster 754
+0	307aa, >GAMMA---XetrORs657.... *
+>Cluster 755
+0	307aa, >GAMMA---XetrORs787.... *
+>Cluster 756
+0	307aa, >GAMMA---XetrORs942.... *
+>Cluster 757
+0	307aa, >GAMMA---XetrORs942.... *
+>Cluster 758
+0	307aa, >GAMMA---AncaORs124.... *
+>Cluster 759
+0	307aa, >GAMMA---AncaORs444.... *
+>Cluster 760
+0	307aa, >GAMMA---AncaORs584.... *
+>Cluster 761
+0	306aa, >Danio_rerio---ETA-1... *
+>Cluster 762
+0	306aa, >Danio_rerio---DELTA... *
+1	305aa, >Danio_rerio---DELTA... at 85.90%
+2	303aa, >Danio_rerio---DELTA... at 88.78%
+3	305aa, >Danio_rerio---DELTA... at 88.52%
+4	305aa, >Danio_rerio---DELTA... at 87.87%
+>Cluster 763
+0	306aa, >Danio_rerio---BETA-... *
+>Cluster 764
+0	306aa, >Danio_rerio---BETA-... *
+>Cluster 765
+0	306aa, >Lepisosteus_oculatu... *
+>Cluster 766
+0	306aa, >Oryzias_latipes---E... *
+>Cluster 767
+0	306aa, >Oryzias_latipes---E... *
+>Cluster 768
+0	306aa, >Oryzias_latipes---D... *
+1	306aa, >Oryzias_latipes---D... at 86.27%
+>Cluster 769
+0	306aa, >GAMMA---XetrORs24.6... *
+>Cluster 770
+0	305aa, >GAMMA---XetrORs24.1... at 88.20%
+1	306aa, >GAMMA---XetrORs24.1... *
+>Cluster 771
+0	306aa, >GAMMA---XetrORs34.3... *
+>Cluster 772
+0	306aa, >GAMMA---XetrORs34.4... *
+>Cluster 773
+0	306aa, >GAMMA---XetrORs34.5... *
+>Cluster 774
+0	306aa, >GAMMA---XetrORs91.1... *
+>Cluster 775
+0	306aa, >GAMMA---XetrORs91.2... *
+>Cluster 776
+0	306aa, >GAMMA---XetrORs150.... *
+>Cluster 777
+0	306aa, >GAMMA---XetrORs290.... *
+>Cluster 778
+0	306aa, >GAMMA---XetrORs442.... *
+>Cluster 779
+0	306aa, >GAMMA---XetrORs532.... *
+>Cluster 780
+0	306aa, >GAMMA---XetrORs532.... *
+1	306aa, >GAMMA---XetrORs532.... at 88.89%
+>Cluster 781
+0	306aa, >GAMMA---XetrORs532.... *
+>Cluster 782
+0	306aa, >GAMMA---XetrORs532.... *
+>Cluster 783
+0	306aa, >GAMMA---XetrORs532.... *
+>Cluster 784
+0	306aa, >GAMMA---XetrORs882.... *
+>Cluster 785
+0	306aa, >GAMMA---XetrORs942.... *
+>Cluster 786
+0	306aa, >GAMMA---XetrORs942.... *
+>Cluster 787
+0	306aa, >GAMMA---XetrORs1115... *
+1	306aa, >GAMMA---XetrORs1115... at 82.68%
+>Cluster 788
+0	306aa, >GAMMA---AncaORs444.... *
+>Cluster 789
+0	306aa, >GAMMA---AncaORs584.... *
+>Cluster 790
+0	306aa, >GAMMA---AncaORs584.... *
+>Cluster 791
+0	305aa, >Danio_rerio---DELTA... *
+>Cluster 792
+0	305aa, >Danio_rerio---DELTA... *
+>Cluster 793
+0	305aa, >Lepisosteus_oculatu... *
+>Cluster 794
+0	305aa, >Oryzias_latipes---E... *
+>Cluster 795
+0	305aa, >Oryzias_latipes---E... *
+>Cluster 796
+0	305aa, >Oryzias_latipes---E... *
+1	305aa, >Oryzias_latipes---E... at 90.82%
+2	305aa, >Oryzias_latipes---E... at 90.82%
+>Cluster 797
+0	305aa, >Oryzias_latipes---E... *
+>Cluster 798
+0	305aa, >GAMMA---XetrORs442.... *
+>Cluster 799
+0	305aa, >GAMMA---XetrORs1310... *
+>Cluster 800
+0	304aa, >ETA---XetrORs982.6... *
+>Cluster 801
+0	304aa, >GAMMA---XetrORs257.... *
+>Cluster 802
+0	304aa, >Dare-kappa.2... *
+>Cluster 803
+0	303aa, >Lepisosteus_oculatu... *
+>Cluster 804
+0	303aa, >Oryzias_latipes---D... *
+1	303aa, >Oryzias_latipes---D... at 92.41%
+>Cluster 805
+0	303aa, >GAMMA---XetrORs24.9... *
+>Cluster 806
+0	303aa, >GAMMA---XetrORs34.5... *
+1	303aa, >GAMMA---XetrORs34.5... at 95.38%
+>Cluster 807
+0	303aa, >GAMMA---AncaORs124.... *
+>Cluster 808
+0	299aa, >Oryzias_latipes---E... *
+1	298aa, >Oryzias_latipes---E... at 82.55%
+>Cluster 809
+0	299aa, >Oryzias_latipes---E... *
+>Cluster 810
+0	299aa, >GAMMA---XetrORs34.1... *
+>Cluster 811
+0	298aa, >GAMMA---XetrORs290.... *
+>Cluster 812
+0	297aa, >Oryzias_latipes---E... *
+>Cluster 813
+0	296aa, >GAMMA---XetrORs31.3... *
+>Cluster 814
+0	295aa, >ETA---XetrORs982.9... *
+1	295aa, >ETA---XetrORs1014.2... at 96.61%
+>Cluster 815
+0	295aa, >GAMMA---XetrORs91.2... *
+>Cluster 816
+0	295aa, >Xetr-kappa.1... *
+>Cluster 817
+0	294aa, >ETA---XetrORs1014.3... *
+>Cluster 818
+0	293aa, >GAMMA---XetrORs290.... *
+>Cluster 819
+0	291aa, >Danio_rerio---DELTA... *
+>Cluster 820
+0	290aa, >GAMMA---XetrORs504.... *
+>Cluster 821
+0	289aa, >GAMMA---XetrORs882.... *
+>Cluster 822
+0	279aa, >Danio_rerio---ZETA-... *
+1	279aa, >Danio_rerio---ZETA-... at 99.64%
+2	279aa, >Danio_rerio---ZETA-... at 99.28%
+>Cluster 823
+0	270aa, >Oryzias_latipes---E... *
+>Cluster 824
+0	267aa, >Oryzias_latipes---E... *
+>Cluster 825
+0	264aa, >Oryzias_latipes---E... *
+>Cluster 826
+0	259aa, >Lepisosteus_oculatu... *
+>Cluster 827
+0	259aa, >Lepisosteus_oculatu... *
+>Cluster 828
+0	250aa, >Oryzias_latipes---E... *

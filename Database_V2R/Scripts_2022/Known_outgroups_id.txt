@@ -1,0 +1,14 @@
+Dr_CaSR 
+Dr_T1Ra1
+Dr_T1Rb1
+Dr_T1Rb2
+Dr_T1Rc1 
+Mm_T1R1
+Mm_T1R2
+Mm_T1R3
+CASR_HUMAN-Extracellular-calcium-sensing-receptor
+CASR_MOUSE-Extracellular-calcium-sensing-receptor
+CASR_BOVIN-Extracellular-calcium-sensing-receptor
+CASR_RAT-Extracellular-calcium-sensing-receptor
+CASR_PIG-Extracellular-calcium-sensing-receptor
+TS1R2_HUMAN-Taste-receptor-type-1-member-2

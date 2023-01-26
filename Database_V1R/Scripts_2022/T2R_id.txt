@@ -1,0 +1,12 @@
+TA2R4_MOUSE-Taste-receptor-type-2-member-4-OS
+TA2R4_PANTR-Taste-receptor-type-2-member-4-OS
+TA2R8_HUMAN-Taste-receptor-type-2-member-8-OS
+Danio_rerio_tas2r200.2-201_1
+Danio_rerio_tas2r200.1-201_1
+Lepisosteus_oculatus_tas2r200.1-201_1
+Acanthochromis_polyacanthus_tas2r200.1-201_1
+Seriola_dumerili_tas2r200.1-201_1
+Carassius_auratus_ENSCART00000057193.1_1
+Carassius_auratus_ENSCART00000022222.1_1
+Carassius_auratus_ENSCART00000000992.1_1
+Scleropages_formosus_tas2r200.1-201_1

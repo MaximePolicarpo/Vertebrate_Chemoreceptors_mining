@@ -1,0 +1,180 @@
+IQ-TREE multicore version 2.0-rc1 for Linux 64-bit built Jan 17 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    sei16.cluster.bc2.ch (AVX2, FMA3, 503 GB RAM)
+Command: /scicore/soft/apps/IQ-TREE/2.0-rc1-foss-2018b/bin/iqtree -s T2R_plus_outgroup.aln -st AA -nt 20 -bb 1000
+Seed:    144109 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Aug 30 07:35:32 2022
+Kernel:  AVX+FMA - 20 threads (20 CPU cores detected)
+
+Reading alignment file T2R_plus_outgroup.aln ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 139 sequences with 490 columns, 479 distinct patterns
+389 parsimony-informative, 57 singleton sites, 44 constant sites
+                                                        Gap/Ambiguity  Composition  p-value
+   1  Chimpanzee_Tas2r30                                       34.90%    passed     99.08%
+   2  Chimpanzee_Tas2r1                                        38.98%    passed     44.88%
+   3  Chimpanzee_Tas2r2                                        40.82%    passed     51.37%
+   4  Chimpanzee_Tas2r3                                        35.71%    passed     45.22%
+   5  Chimpanzee_Tas2r4                                        38.98%    passed     98.97%
+   6  Chimpanzee_Tas2r5                                        38.98%    passed     16.09%
+   7  Chimpanzee_Tas2r7                                        33.67%    passed     88.83%
+   8  Chimpanzee_Tas2r8                                        36.94%    passed     67.90%
+   9  Chimpanzee_Tas2r9                                        36.33%    passed     48.23%
+  10  Chimpanzee_Tas2r10                                       37.35%    passed     26.47%
+  11  Chimpanzee_Tas2r13                                       38.16%    passed     80.19%
+  12  Chimpanzee_Tas2r14                                       35.31%    passed     44.99%
+  13  Chimpanzee_Tas2r16                                       40.61%    passed     61.90%
+  14  Chimpanzee_Tas2r19                                       38.98%    passed     85.68%
+  15  Chimpanzee_Tas2r20                                       37.14%    passed     28.08%
+  16  Chimpanzee_Tas2r39                                       31.02%    passed     51.49%
+  17  Chimpanzee_Tas2r40                                       34.08%    passed     95.95%
+  18  Chimpanzee_Tas2r41                                       37.35%    passed     13.20%
+  19  Chimpanzee_Tas2r43                                       36.94%    passed     61.41%
+  20  Chimpanzee_Tas2r45                                       44.49%    passed     99.04%
+  21  Chimpanzee_Tas2r451                                      36.94%    passed     69.34%
+  22  Chimpanzee_Tas2r49                                       36.94%    passed     82.62%
+  23  Chimpanzee_Tas2r50                                       38.98%    passed     96.10%
+  24  Chimpanzee_Tas2r60                                       35.10%    passed     64.01%
+  25  Chimpanzee_Tas2r62                                       36.33%    passed     18.58%
+  26  Chimpanzee_Tas2r66                                       36.94%    passed     76.72%
+  27  Mouse_Tas2r1                                             38.16%    passed     83.19%
+  28  Mouse_Tas2r1A                                            31.84%    passed     16.73%
+  29  Mouse_Tas2r2                                             38.98%    passed     10.75%
+  30  Mouse_Tas2r3                                             35.51%    passed     83.77%
+  31  Mouse_Tas2r6                                             34.90%    passed     51.66%
+  32  Mouse_Tas2r7                                             34.90%    passed     50.08%
+  33  Mouse_Tas2r8                                             40.20%    passed     61.60%
+  34  Mouse_Tas2r9                                             36.33%    passed     72.65%
+  35  Mouse_Tas2r10                                            37.14%    passed     12.03%
+  36  Mouse_Tas2r11                                            36.33%    passed     95.48%
+  37  Mouse_Tas2r12                                            37.14%    passed     35.68%
+  38  Mouse_Tas2r13                                            37.14%    passed      6.62%
+  39  Mouse_Tas2r15                                            38.78%    passed     90.89%
+  40  Mouse_Tas2r16                                            36.94%    passed     36.15%
+  41  Mouse_Tas2r17                                            39.80%    passed     82.82%
+  42  Mouse_Tas2r18                                            37.76%    passed     38.36%
+  43  Mouse_Tas2r19                                            36.94%    passed     27.76%
+  44  Mouse_Tas2r20                                            36.73%    passed     75.42%
+  45  Mouse_Tas2r21                                            36.94%    passed     20.23%
+  46  Mouse_Tas2r22                                            33.27%    passed     45.03%
+  47  Mouse_Tas2r23                                            37.76%    passed     93.95%
+  48  Mouse_Tas2r26                                            32.04%    passed     85.80%
+  49  Mouse_Tas2r27                                            37.76%    passed     97.90%
+  50  Mouse_Tas2r28                                            32.04%    passed     71.89%
+  51  Mouse_Tas2r29                                            36.94%    passed     55.58%
+  52  Mouse_Tas2r31                                            36.53%    passed     26.33%
+  53  Mouse_Tas2r33                                            34.69%    passed     80.34%
+  54  Mouse_Tas2r34                                            36.73%    passed     69.24%
+  55  Mouse_Tas2r35                                            35.51%    passed     91.29%
+  56  Mouse_Tas2r38                                            36.33%    passed     75.72%
+  57  Mouse_Tas2r39                                            36.33%    passed     46.55%
+  58  Mouse_Tas2r108                                           39.39%    passed     93.99%
+  59  Mouse_Tas2r117                                           32.65%    passed     67.40%
+  60  Mouse_Tas2r134                                           39.18%    passed     23.33%
+  61  Mouse_Tas2r138                                           32.45%    passed     25.85%
+  62  Mouselemur_Tas2r62                                       35.10%    passed     15.87%
+  63  Mouselemur_Tas2r67                                       37.55%    passed     69.90%
+  64  Mouselemur_Tas2r67a                                      38.57%    passed     50.95%
+  65  Mouselemur_Tas2r1                                        38.98%    passed     54.19%
+  66  Mouselemur_Tas2r3                                        35.51%    passed     29.74%
+  67  Mouselemur_Tas2r8                                        36.94%    passed     94.87%
+  68  Mouselemur_Tas2r38                                       32.04%    passed     59.76%
+  69  Mouselemur_Tas2r40                                       34.08%    passed     94.15%
+  70  Mouselemur_Tas2r41                                       37.14%    failed      0.05%
+  71  Turtle_Tas2r4                                            35.71%    passed     66.86%
+  72  Turtle_Tas2r7                                            35.51%    passed     56.95%
+  73  Turtle_Tas2r8                                            36.73%    passed     73.44%
+  74  Turtle_Tas2r12                                           39.39%    passed     93.97%
+  75  Turtle_Tas2r18                                           39.39%    passed     99.41%
+  76  Turtle_Tas2r30                                           36.94%    passed     98.47%
+  77  Turtle_Tas2r42                                           37.35%    passed     97.50%
+  78  Turtle_Tas2r46                                           36.94%    passed     95.04%
+  79  Turtle_Tas2r62                                           36.94%    passed     92.68%
+  80  Turtle_Tas2r135                                          38.98%    passed     93.05%
+  81  Turtle_Tas2r136                                          36.53%    passed     68.59%
+  82  Zebra_Finch_Tas2r1                                       36.53%    passed     30.05%
+  83  Zebra_Finch_Tas2r3                                       36.73%    passed     51.86%
+  84  Zebra_Finch_Tas2r4                                       38.98%    passed     13.60%
+  85  Zebra_Finch_Tas2r5                                       38.78%    passed     11.19%
+  86  Zebra_Finch_Tas2r6                                       36.12%    passed     71.73%
+  87  Zebra_Finch_Tas2r7                                       35.31%    passed     37.89%
+  88  Zebra_Finch_Tas2r8                                       36.73%    passed      7.12%
+  89  Gm_T2R1                                                  35.31%    failed      0.00%
+  90  Gm_T2R2                                                  34.49%    failed      0.00%
+  91  Gm_T2R3                                                  28.78%    passed     24.96%
+  92  Gm_T2R4                                                  28.78%    passed     14.43%
+  93  Gm_T2R5                                                  23.27%    passed     71.97%
+  94  Gm_T2R6                                                  33.27%    passed     69.92%
+  95  Tn_T2R1                                                  34.08%    failed      0.04%
+  96  Tn_T2R2                                                  35.31%    passed     61.31%
+  97  Tn_T2R3                                                  35.71%    passed     56.09%
+  98  Tn_T2R4                                                  36.12%    passed     70.81%
+  99  Tn_T2R5                                                  35.31%    passed     89.45%
+ 100  Tn_T2R6                                                  38.37%    passed     93.39%
+ 101  Dr_T2R1                                                  33.88%    failed      0.95%
+ 102  Dr_T2R2                                                  32.45%    passed     34.72%
+ 103  Dr_T2R3a                                                 36.12%    passed     61.05%
+ 104  Dr_T2R3b                                                 36.12%    passed     63.33%
+ 105  Dr_T2R4                                                  37.76%    passed     65.24%
+ 106  Dr_T2R5                                                  27.55%    passed     43.11%
+ 107  Dr_T2R6                                                  30.20%    passed     74.19%
+ 108  Danio_rerio_Complete_CM002894.2_1590605_1591501-ORA5     44.90%    passed     70.17%
+ 109  Danio_rerio_Complete_CM002904.2_54658812_54659813-ORA6   37.96%    failed      0.00%
+ 110  Danio_rerio_Complete_CM002906.2_208695_209643-ORA1       39.59%    failed      0.00%
+ 111  Danio_rerio_Complete_CM002906.2_213651_214559-ORA2       41.22%    failed      0.00%
+ 112  Danio_rerio_Complete_CM002906.2_374479_378234-ORA4       38.57%    failed      0.00%
+ 113  Danio_rerio_Complete_CM002906.2_381146_382956-ORA3       39.59%    passed     51.25%
+ 114  Danio_rerio_Complete_CM002906.2_387076_392225-ORA3       38.57%    failed      0.61%
+ 115  rat_V1R103                                               41.22%    passed     96.00%
+ 116  rat_V1R104                                               41.02%    passed     25.45%
+ 117  rat_V1R105                                               44.90%    passed     17.28%
+ 118  rat_V1r106                                               40.00%    passed     19.14%
+ 119  frog_V1R1                                                37.76%    passed     31.08%
+ 120  frog_V1R10                                               34.90%    passed     11.94%
+ 121  frog_V1R11                                               34.90%    passed     12.94%
+ 122  frog_V1R12                                               37.96%    passed     13.93%
+ 123  frog_V1R13                                               37.14%    passed     11.97%
+ 124  frog_V1R14                                               37.76%    passed     83.64%
+ 125  frog_V1R15                                               36.33%    passed     59.33%
+ 126  frog_V1R16                                               38.78%    passed     64.99%
+ 127  frog_V1R17                                               39.18%    passed     28.17%
+ 128  frog_V1R18                                               37.55%    passed     83.62%
+ 129  frog_V1R19                                               40.82%    passed     92.23%
+ 130  frog_V1R2                                                38.37%    passed     95.06%
+ 131  frog_V1R20                                               40.82%    passed     83.90%
+ 132  frog_V1R23                                               37.96%    passed     10.44%
+ 133  frog_V1R3                                                38.37%    passed     95.06%
+ 134  frog_V1R4                                                38.37%    passed     79.99%
+ 135  frog_V1R5                                                38.57%    passed     27.16%
+ 136  frog_V1R6                                                38.37%    passed     16.35%
+ 137  frog_V1R7                                                38.37%    passed     16.35%
+ 138  frog_V1R8                                                37.76%    passed     48.83%
+ 139  frog_V1R9                                                37.76%    passed     48.83%
+****  TOTAL                                                    36.79%  10 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: frog_V1R3 is identical to frog_V1R2 but kept for subsequent analysis
+NOTE: frog_V1R7 is identical to frog_V1R6 but kept for subsequent analysis
+NOTE: frog_V1R9 is identical to frog_V1R8 but kept for subsequent analysis
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.101 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -66692.182
+Optimal log-likelihood: -66692.072
+Proportion of invariable sites: 0.000
+Gamma shape alpha: 1.943
+Parameters optimization took 1 rounds (0.076 sec)
+Time for fast ML tree search: 12.212 seconds
+
+NOTE: ModelFinder requires 109 MB RAM!
+ModelFinder will test up to 546 protein models (sample size: 490) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            68328.152    275 137206.304   137915.650   138359.765
+  2  LG+I          68328.146    276 137208.293   137926.152   138365.948
+  3  LG+G4         66692.131    276 133936.262   134654.121   135093.917
+  4  LG+I+G4       66692.112    277 133938.224   134664.696   135100.074
+  5  LG+R2         66981.755    277 134517.509   135243.981   135679.359

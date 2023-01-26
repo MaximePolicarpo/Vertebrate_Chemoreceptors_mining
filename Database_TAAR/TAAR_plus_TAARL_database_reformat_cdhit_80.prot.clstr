@@ -1,0 +1,442 @@
+>Cluster 0
+0	503aa, >chr21-MedTARs.002... *
+>Cluster 1
+0	437aa, >Pm-tarl1a... at 89.70%
+1	440aa, >Lec-tarl1a... at 90.23%
+2	442aa, >Lec-tarl1c... *
+>Cluster 2
+0	405aa, >Ss-tarl2... *
+>Cluster 3
+0	367aa, >chr24-MedTAR.022... at 85.01%
+1	399aa, >chr24-MedTAR.023... *
+2	332aa, >chr24-MedTAR.024... at 93.98%
+>Cluster 4
+0	170aa, >Laf-tarl6c... at 80.59%
+1	335aa, >Lec-tarl6g... at 82.69%
+2	399aa, >Lec-tarl6c... *
+3	335aa, >Lec-tarl6d... at 85.37%
+4	273aa, >Lec-tarl6e... at 82.05%
+>Cluster 5
+0	345aa, >Tr-tarl1... at 84.64%
+1	352aa, >Xc-tarl1... at 82.39%
+2	352aa, >Xm-tarl1... at 82.39%
+3	358aa, >Stp-tarl1... at 86.03%
+4	352aa, >Tn-tarl1... at 85.51%
+5	358aa, >To-tarl1... at 85.47%
+6	356aa, >Sn-tarl1... at 85.11%
+7	356aa, >Sem-tarl1... at 85.11%
+8	356aa, >Ser-tarl1... at 85.11%
+9	356aa, >Ses-tarl1... at 85.11%
+10	358aa, >Pun-tarl1... at 83.80%
+11	358aa, >Py-tarl1... at 83.24%
+12	358aa, >Po-tarl1... at 84.92%
+13	352aa, >Pom-tarl1... at 82.95%
+14	352aa, >Pr-tarl1... at 82.67%
+15	358aa, >Moa-tarl1... at 83.52%
+16	395aa, >Mom-tarl1... *
+17	360aa, >Ms-tarl1... at 88.06%
+18	358aa, >Mz-tarl1... at 83.80%
+19	358aa, >Nb-tarl1... at 83.80%
+20	358aa, >Lb-tarl1... at 85.20%
+21	357aa, >Lc-tarl1... at 86.27%
+22	357aa, >Mim-tarl1... at 87.68%
+23	352aa, >Km-tarl1... at 82.95%
+24	358aa, >Lac-tarl1... at 85.75%
+>Cluster 6
+0	373aa, >To-tarl2... *
+>Cluster 7
+0	372aa, >Lec-tarl7c... *
+>Cluster 8
+0	366aa, >Rt-tarl2... *
+>Cluster 9
+0	366aa, >Lec-tarl7b... *
+>Cluster 10
+0	365aa, >Cm-tarl2... *
+>Cluster 11
+0	365aa, >Lec-tarl7g... *
+>Cluster 12
+0	363aa, >Lec-tarl7a... *
+>Cluster 13
+0	359aa, >Sf-tarl1... *
+>Cluster 14
+0	359aa, >Xl-tarl1... *
+1	352aa, >Xt-tarl1... at 81.25%
+>Cluster 15
+0	358aa, >Mm_TAAR7f... *
+1	358aa, >Mm_TAAR7e... at 93.02%
+2	358aa, >Mm_TAAR7b... at 89.94%
+3	358aa, >Mm_TAAR7a... at 88.27%
+4	358aa, >Mm_TAAR7d... at 91.34%
+>Cluster 16
+0	354aa, >Sg-tarl1... at 87.01%
+1	354aa, >Sr-tarl1a... at 87.01%
+2	354aa, >Sr-tarl1b... at 86.44%
+3	357aa, >Pyn-tarl1... *
+4	354aa, >Sa-tarl1a... at 86.72%
+5	293aa, >Sa-tarl1b... at 86.01%
+6	354aa, >Pp-tarl1... at 85.88%
+7	357aa, >Ip-tarl1... at 86.55%
+>Cluster 17
+0	357aa, >Lo-tarl1... *
+>Cluster 18
+0	357aa, >Lec-tarl7i... *
+>Cluster 19
+0	357aa, >Lec-tarl4a... *
+>Cluster 20
+0	355aa, >Hc-tarl1... *
+>Cluster 21
+0	256aa, >Laf-tarl6b... at 90.62%
+1	355aa, >Lec-tarl6h... *
+2	355aa, >Lec-tarl6i... at 91.83%
+3	354aa, >Lec-tarl6j... at 84.75%
+>Cluster 22
+0	258aa, >Laf-tarl4a... at 85.27%
+1	355aa, >Lec-tarl4d... *
+2	355aa, >Lec-tarl4b... at 85.63%
+>Cluster 23
+0	353aa, >Laf-tarl6a... at 98.58%
+1	352aa, >Lec-tarl6a... at 93.47%
+2	354aa, >Lec-tarl6b... *
+>Cluster 24
+0	353aa, >Sh-tarl1... *
+>Cluster 25
+0	324aa, >StkTARs-5... at 83.95%
+1	294aa, >StkTARs-12... at 82.65%
+2	323aa, >stkTARs_004... at 88.24%
+3	323aa, >stkTARs_005... at 87.31%
+4	325aa, >stkTARs_006... at 88.62%
+5	325aa, >stkTARs_009... at 89.23%
+6	352aa, >stkTARs_010... *
+7	324aa, >stkTARs_011... at 85.80%
+8	325aa, >stkTARs_012... at 89.54%
+9	325aa, >stkTARs_013... at 90.77%
+10	325aa, >stkTARs_014... at 90.77%
+11	325aa, >stkTARs_015... at 85.23%
+12	325aa, >stkTARs_016... at 90.15%
+13	325aa, >stkTARs_017... at 88.00%
+14	325aa, >stkTARs_020... at 86.15%
+15	325aa, >StkTARs_027... at 84.92%
+16	325aa, >StkTARs_029... at 86.15%
+17	324aa, >StkTARs_030... at 86.11%
+18	325aa, >StkTARs_031... at 84.62%
+19	325aa, >StkTARs_038... at 87.38%
+20	325aa, >StkTARs_039... at 86.77%
+21	325aa, >StkTARs_040... at 88.31%
+22	325aa, >StkTARs_045... at 85.23%
+23	325aa, >StkTARs_046... at 85.23%
+24	325aa, >StkTARs_047... at 85.54%
+25	324aa, >StkTARs_048... at 86.73%
+26	324aa, >StkTARs_049... at 86.73%
+>Cluster 26
+0	352aa, >Lec-tarl7h... *
+>Cluster 27
+0	352aa, >Lec-tarl6s... *
+>Cluster 28
+0	181aa, >Laf-tarl6d... at 97.79%
+1	352aa, >Lec-tarl6l... *
+>Cluster 29
+0	352aa, >Lec-tarl6p... *
+>Cluster 30
+0	351aa, >Lec-tarl7e... *
+>Cluster 31
+0	351aa, >Lec-tarl6w... *
+1	345aa, >Lec-tarl6x... at 88.99%
+>Cluster 32
+0	351aa, >Lec-tarl6n... *
+>Cluster 33
+0	350aa, >Lec-tarl7j... *
+>Cluster 34
+0	349aa, >Lec-tarl6u... *
+1	349aa, >Lec-tarl6v... at 86.82%
+>Cluster 35
+0	349aa, >Lec-tarl6k... *
+>Cluster 36
+0	347aa, >Lec-tarl5b... at 83.29%
+1	349aa, >Lec-tarl5c... *
+>Cluster 37
+0	348aa, >Mm_TAAR9... *
+1	348aa, >Hs_TAAR9... at 86.78%
+>Cluster 38
+0	348aa, >Lec-tarl7f... *
+>Cluster 39
+0	340aa, >Laf-tarl6e... at 98.24%
+1	348aa, >Lec-tarl6r... *
+>Cluster 40
+0	347aa, >Mm_TAAR4... *
+>Cluster 41
+0	347aa, >Rt-tarl1... *
+>Cluster 42
+0	346aa, >Scaf4535-MedTARs.01... *
+>Cluster 43
+0	329aa, >stkTARs_008... at 89.36%
+1	329aa, >stkTARs_018... at 89.36%
+2	329aa, >stkTARs_019... at 88.15%
+3	327aa, >stkTARs_021... at 88.69%
+4	328aa, >stkTARs_022... at 89.33%
+5	345aa, >stkTARs_024... *
+6	344aa, >StkTARs_025... at 88.66%
+7	329aa, >StkTARs_026... at 89.97%
+8	329aa, >StkTARs_037... at 82.98%
+9	329aa, >StkTARs_041... at 82.98%
+10	329aa, >StkTARs_042... at 83.28%
+11	329aa, >StkTARs_043... at 82.67%
+12	328aa, >StkTARs_044... at 81.10%
+>Cluster 44
+0	331aa, >DanTAR_19l-001... at 81.27%
+1	343aa, >DanTAR_19t-001... at 83.09%
+2	344aa, >DanTAR_19q-001... at 88.37%
+3	345aa, >DanTAR_19p-001... *
+4	341aa, >DanTAR_19u-001... at 80.94%
+5	341aa, >DanTAR_19n-001... at 84.16%
+6	333aa, >DanTAR_19n-201... at 83.18%
+7	344aa, >DanTAR_19j-001... at 80.23%
+8	344aa, >DanTAR_19s-001... at 80.23%
+9	344aa, >DanTAR_19c-001... at 83.14%
+10	344aa, >DanTAR_19h-001... at 81.69%
+11	339aa, >DanTAR_19g-001... at 82.01%
+12	344aa, >DanTAR_19i-001... at 80.81%
+13	341aa, >DanTAR_19m-001... at 82.99%
+14	343aa, >DanTAR_32-001... at 83.38%
+15	344aa, >DanTAR_19o-001... at 87.50%
+>Cluster 45
+0	345aa, >DanTAR_18a-001... *
+>Cluster 46
+0	345aa, >Mm_TAAR6... *
+>Cluster 47
+0	345aa, >Xt_TAAR4-like_LOC10... *
+>Cluster 48
+0	345aa, >Lec-tarl6m... *
+>Cluster 49
+0	344aa, >Sc-Taar1a_sf32353... *
+>Cluster 50
+0	344aa, >Sc-Taar2_sf155079... *
+>Cluster 51
+0	342aa, >DanTAR_18j-001... at 84.50%
+1	344aa, >DanTAR_18i-001... *
+>Cluster 52
+0	343aa, >DanTAR_19b-001... at 83.67%
+1	342aa, >DanTAR_19a-001... at 80.70%
+2	344aa, >DanTAR_19e-001... *
+3	341aa, >DanTAR_20u-001... at 80.35%
+4	344aa, >DanTAR_19d-001... at 84.88%
+5	342aa, >DanTAR_20q-001... at 80.99%
+6	344aa, >DanTAR_19r-001... at 81.69%
+7	336aa, >DanTAR_19f-001... at 84.52%
+>Cluster 53
+0	344aa, >DanTAR_19k-001... *
+>Cluster 54
+0	340aa, >DanTAR_12j-001... at 81.76%
+1	344aa, >DanTAR_12h-001... *
+>Cluster 55
+0	344aa, >Mm_TAAR8b... *
+1	344aa, >Mm_TAAR8a... at 95.64%
+2	344aa, >Mm_TAAR8c... at 96.80%
+>Cluster 56
+0	343aa, >StkTARs_028... *
+>Cluster 57
+0	343aa, >DanTAR_18d-001... *
+>Cluster 58
+0	341aa, >DanTAR_20r-001... at 81.23%
+1	342aa, >DanTAR_20g-001... at 82.46%
+2	342aa, >DanTAR_20b1-001... at 81.29%
+3	342aa, >DanTAR_20i-001... at 83.92%
+4	342aa, >DanTAR_20c1-001... at 83.04%
+5	343aa, >DanTAR_20a-001... *
+6	342aa, >DanTAR_20h-001... at 82.46%
+7	342aa, >DanTAR_20o-001... at 81.87%
+8	341aa, >DanTAR_20f-001... at 82.70%
+9	340aa, >DanTAR_20j-001... at 81.47%
+10	342aa, >DanTAR_20p-001... at 80.99%
+11	342aa, >DanTAR_20n-001... at 80.70%
+12	330aa, >DanTAR_20x-001... at 82.12%
+13	341aa, >DanTAR_20c-001... at 81.82%
+14	342aa, >DanTAR_20c-201... at 81.58%
+15	340aa, >DanTAR_20t-001... at 81.18%
+16	332aa, >DanTAR_20t-201... at 81.02%
+17	343aa, >DanTAR_20b-001... at 87.46%
+18	338aa, >DanTAR_20l-001... at 80.18%
+>Cluster 59
+0	343aa, >DanTAR_20m-001... *
+>Cluster 60
+0	337aa, >DanTAR_12b-001... at 88.43%
+1	343aa, >DanTAR_12a-001... *
+2	336aa, >DanTAR_12g-001... at 81.55%
+3	337aa, >DanTAR_12g-201... at 80.42%
+4	331aa, >DanTAR_2-02... at 80.66%
+>Cluster 61
+0	343aa, >Mm_TAAR3... *
+>Cluster 62
+0	342aa, >Cm-Taar2a_AAVX01045... *
+>Cluster 63
+0	342aa, >chr21-MedTARs.011... *
+>Cluster 64
+0	342aa, >DanTAR_20a1-001... *
+1	340aa, >DanTAR_20z-001... at 80.29%
+2	328aa, >DanTAR_20d1-001... at 84.76%
+>Cluster 65
+0	342aa, >DanTAR_18h-001... *
+>Cluster 66
+0	342aa, >DanTAR_10-001... *
+1	342aa, >DanTAR_10-201... at 100.00%
+>Cluster 67
+0	342aa, >Gg_TAAR5... *
+>Cluster 68
+0	342aa, >Gg_TAAR2... *
+>Cluster 69
+0	341aa, >DanTAR_2... *
+>Cluster 70
+0	341aa, >DanTAR_2b... *
+1	341aa, >DanTAR_13a-001... at 86.22%
+2	341aa, >DanTAR_13b-001... at 85.34%
+3	341aa, >DanTAR_13d-001... at 88.56%
+4	341aa, >DanTAR_13e-001... at 85.92%
+>Cluster 71
+0	340aa, >DanTAR_12i-001... *
+1	338aa, >DanTAR_12c-001... at 82.25%
+>Cluster 72
+0	340aa, >Lec-tarl6o... *
+>Cluster 73
+0	339aa, >DanTAR_18g-001... *
+1	338aa, >DanTAR_18e-001... at 80.18%
+>Cluster 74
+0	339aa, >Xt_TAAR1... *
+>Cluster 75
+0	339aa, >Mm_TAAR2... *
+>Cluster 76
+0	338aa, >DanTAR_18f-001... *
+>Cluster 77
+0	338aa, >Lec-tarl6t... *
+>Cluster 78
+0	338aa, >Lec-tarl5a... *
+>Cluster 79
+0	337aa, >DanTAR_17a-001... *
+>Cluster 80
+0	337aa, >DanTAR_12e-001... *
+1	336aa, >DanTAR_12e-201... at 99.40%
+2	337aa, >DanTAR_2-01... at 96.74%
+3	335aa, >DanTAR_2-03... at 97.01%
+>Cluster 81
+0	337aa, >Mm_TAAR5... *
+>Cluster 82
+0	336aa, >DanTAR_18b-001... *
+1	336aa, >DanTAR_18c-001... at 96.13%
+>Cluster 83
+0	336aa, >DanTAR_10a-001... *
+1	336aa, >DanTAR_10c-001... at 88.39%
+2	336aa, >DanTAR_10b-001... at 89.29%
+3	330aa, >DanTAR_10b-201... at 88.79%
+4	325aa, >DanTAR_10b-202... at 90.15%
+5	336aa, >DanTAR_10d-001... at 89.88%
+>Cluster 84
+0	335aa, >Xt_TAAR4-like_LOC10... *
+1	335aa, >Xt_TAAR4-like_LOC10... at 100.00%
+>Cluster 85
+0	334aa, >stkTAR_002... *
+>Cluster 86
+0	334aa, >DanTAR_20w-001... *
+1	313aa, >DanTAR_20w-201... at 92.97%
+>Cluster 87
+0	333aa, >StkTAR_033... *
+1	333aa, >StkTAR_034... at 93.39%
+2	333aa, >StkTAR_035... at 98.20%
+>Cluster 88
+0	327aa, >DanTAR_11-001... at 98.47%
+1	333aa, >DanTAR_11-201... *
+>Cluster 89
+0	333aa, >Xt_TAAR4-like_LOC10... *
+>Cluster 90
+0	333aa, >Xt_TAAR4-like_LOC10... *
+>Cluster 91
+0	332aa, >Cm-Taar1b_XM_007899... *
+>Cluster 92
+0	329aa, >chr21-MedTARs.003... at 86.02%
+1	327aa, >chr21-MedTARs.004... at 84.40%
+2	332aa, >chr21-MedTARs.006... *
+3	332aa, >chr21-MedTARs.009... at 90.06%
+4	332aa, >Scaf2246-MedTARs.01... at 94.88%
+>Cluster 93
+0	332aa, >DanTAR_1b-001... *
+>Cluster 94
+0	332aa, >Mm_TAAR1... *
+>Cluster 95
+0	332aa, >Gg_TAAR1... *
+>Cluster 96
+0	331aa, >Cm-Taar3_XM_0078993... *
+>Cluster 97
+0	331aa, >TARs-MED-2... *
+1	330aa, >TARs-MED-3... at 97.88%
+2	328aa, >TARs-MED-4... at 98.48%
+3	323aa, >chr21-MedTARs.007... at 99.69%
+>Cluster 98
+0	331aa, >StkTAR_036... *
+>Cluster 99
+0	319aa, >DanTAR_14i-201... at 86.21%
+1	320aa, >DanTAR_14j-201... at 85.00%
+2	320aa, >DanTAR_14a-001... at 83.12%
+3	328aa, >DanTAR_14f-001... at 91.77%
+4	331aa, >DanTAR_14g-001... *
+5	318aa, >DanTAR_14l-001... at 86.48%
+6	321aa, >DanTAR_14l-203... at 85.36%
+7	321aa, >DanTAR_14l-204... at 85.36%
+8	328aa, >DanTAR_14e-001... at 87.20%
+9	328aa, >DanTAR_14d-001... at 88.11%
+10	320aa, >DanTAR_14h-001... at 86.56%
+11	320aa, >DanTAR_14h-201... at 86.56%
+12	328aa, >DanTAR_14b-001... at 88.72%
+>Cluster 100
+0	329aa, >chr21-MedTARs.008... *
+1	324aa, >Scaf691-MedTARs.013... at 86.11%
+2	329aa, >Scaf691-MedTARs.014... at 87.23%
+>Cluster 101
+0	329aa, >chr21-MedTARs.010... *
+>Cluster 102
+0	329aa, >chr21-MedTARs.012... *
+>Cluster 103
+0	329aa, >stkTARs_023... *
+>Cluster 104
+0	328aa, >Scaf3620-MedTARs.01... *
+>Cluster 105
+0	328aa, >chr24-MedTAR.019... *
+>Cluster 106
+0	328aa, >DanTAR_15-001... *
+>Cluster 107
+0	326aa, >stkTAR_001... *
+>Cluster 108
+0	324aa, >chr21-MedTARs.005... *
+>Cluster 109
+0	323aa, >chr2-MedTAR.025... *
+>Cluster 110
+0	322aa, >chr24-MedTAR.021... *
+>Cluster 111
+0	322aa, >DanTAR_16a-001... *
+>Cluster 112
+0	322aa, >DanTAR_16f-001... *
+1	274aa, >DanTAR_16g-201... at 90.51%
+>Cluster 113
+0	321aa, >StkTARs-15... *
+>Cluster 114
+0	317aa, >StkTAR-2... *
+>Cluster 115
+0	317aa, >Sf-tarl2... *
+>Cluster 116
+0	313aa, >chr21-MedTARs.001... *
+>Cluster 117
+0	312aa, >Pm-tarl2a... at 95.19%
+1	313aa, >Lec-tarl2a... *
+>Cluster 118
+0	299aa, >chr24-MedTAR.020... *
+>Cluster 119
+0	295aa, >DanTAR_20z-201... *
+>Cluster 120
+0	290aa, >Lec-tarl3b... *
+1	288aa, >Lec-tarl3c... at 86.81%
+>Cluster 121
+0	289aa, >Lec-tarl3a... *
+>Cluster 122
+0	259aa, >Lec-tarl7d... *
+>Cluster 123
+0	218aa, >Lec-tarl5d... *
+>Cluster 124
+0	195aa, >Lec-tarl4e... *
+>Cluster 125
+0	151aa, >Mc-tarl1... *

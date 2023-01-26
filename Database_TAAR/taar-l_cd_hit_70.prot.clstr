@@ -1,0 +1,141 @@
+>Cluster 0
+0	437aa, >Pm-tarl1a... at 89.70%
+1	440aa, >Lec-tarl1a... at 90.23%
+2	442aa, >Lec-tarl1c... *
+>Cluster 1
+0	405aa, >Ss-tarl2... *
+>Cluster 2
+0	170aa, >Laf-tarl6c... at 80.59%
+1	335aa, >Lec-tarl6g... at 82.69%
+2	399aa, >Lec-tarl6c... *
+3	335aa, >Lec-tarl6d... at 85.37%
+4	273aa, >Lec-tarl6e... at 82.05%
+>Cluster 3
+0	345aa, >Tr-tarl1... at 84.64%
+1	352aa, >Xc-tarl1... at 82.39%
+2	352aa, >Xm-tarl1... at 82.39%
+3	358aa, >Stp-tarl1... at 86.03%
+4	352aa, >Tn-tarl1... at 85.51%
+5	358aa, >To-tarl1... at 85.47%
+6	354aa, >Sg-tarl1... at 73.73%
+7	356aa, >Sn-tarl1... at 85.11%
+8	354aa, >Sr-tarl1a... at 74.01%
+9	354aa, >Sr-tarl1b... at 73.16%
+10	356aa, >Sem-tarl1... at 85.11%
+11	356aa, >Ser-tarl1... at 85.11%
+12	356aa, >Ses-tarl1... at 85.11%
+13	358aa, >Pun-tarl1... at 83.80%
+14	358aa, >Py-tarl1... at 83.24%
+15	357aa, >Pyn-tarl1... at 74.79%
+16	354aa, >Sa-tarl1a... at 74.29%
+17	293aa, >Sa-tarl1b... at 73.72%
+18	358aa, >Po-tarl1... at 84.92%
+19	352aa, >Pom-tarl1... at 82.95%
+20	354aa, >Pp-tarl1... at 74.29%
+21	352aa, >Pr-tarl1... at 82.67%
+22	358aa, >Moa-tarl1... at 83.52%
+23	395aa, >Mom-tarl1... *
+24	360aa, >Ms-tarl1... at 88.06%
+25	358aa, >Mz-tarl1... at 83.80%
+26	358aa, >Nb-tarl1... at 83.80%
+27	358aa, >Lb-tarl1... at 85.20%
+28	357aa, >Lc-tarl1... at 86.27%
+29	357aa, >Mim-tarl1... at 87.68%
+30	357aa, >Ip-tarl1... at 72.27%
+31	352aa, >Km-tarl1... at 82.95%
+32	358aa, >Lac-tarl1... at 85.75%
+>Cluster 4
+0	373aa, >To-tarl2... *
+>Cluster 5
+0	372aa, >Lec-tarl7c... *
+>Cluster 6
+0	366aa, >Rt-tarl2... *
+>Cluster 7
+0	366aa, >Lec-tarl7b... *
+>Cluster 8
+0	365aa, >Cm-tarl2... *
+>Cluster 9
+0	348aa, >Lec-tarl7f... at 74.14%
+1	365aa, >Lec-tarl7g... *
+>Cluster 10
+0	363aa, >Lec-tarl7a... *
+>Cluster 11
+0	359aa, >Sf-tarl1... *
+1	357aa, >Lo-tarl1... at 74.23%
+2	355aa, >Hc-tarl1... at 70.42%
+>Cluster 12
+0	359aa, >Xl-tarl1... *
+1	352aa, >Xt-tarl1... at 81.25%
+>Cluster 13
+0	350aa, >Lec-tarl7j... at 78.00%
+1	357aa, >Lec-tarl7i... *
+>Cluster 14
+0	357aa, >Lec-tarl4a... *
+>Cluster 15
+0	256aa, >Laf-tarl6b... at 90.62%
+1	355aa, >Lec-tarl6h... *
+2	355aa, >Lec-tarl6i... at 91.83%
+3	354aa, >Lec-tarl6j... at 84.75%
+>Cluster 16
+0	258aa, >Laf-tarl4a... at 85.27%
+1	355aa, >Lec-tarl4d... *
+2	355aa, >Lec-tarl4b... at 85.63%
+>Cluster 17
+0	353aa, >Laf-tarl6a... at 98.58%
+1	352aa, >Lec-tarl6a... at 93.47%
+2	354aa, >Lec-tarl6b... *
+>Cluster 18
+0	353aa, >Sh-tarl1... *
+>Cluster 19
+0	352aa, >Lec-tarl7h... *
+>Cluster 20
+0	352aa, >Lec-tarl6s... *
+>Cluster 21
+0	181aa, >Laf-tarl6d... at 97.79%
+1	352aa, >Lec-tarl6l... *
+>Cluster 22
+0	351aa, >Lec-tarl6n... at 72.36%
+1	340aa, >Lec-tarl6o... at 75.88%
+2	352aa, >Lec-tarl6p... *
+>Cluster 23
+0	351aa, >Lec-tarl7e... *
+>Cluster 24
+0	351aa, >Lec-tarl6w... *
+1	345aa, >Lec-tarl6x... at 88.99%
+>Cluster 25
+0	349aa, >Lec-tarl6u... *
+1	349aa, >Lec-tarl6v... at 86.82%
+>Cluster 26
+0	349aa, >Lec-tarl6k... *
+>Cluster 27
+0	347aa, >Lec-tarl5b... at 83.29%
+1	349aa, >Lec-tarl5c... *
+>Cluster 28
+0	340aa, >Laf-tarl6e... at 98.24%
+1	348aa, >Lec-tarl6r... *
+>Cluster 29
+0	347aa, >Rt-tarl1... *
+>Cluster 30
+0	345aa, >Lec-tarl6m... *
+>Cluster 31
+0	338aa, >Lec-tarl6t... *
+>Cluster 32
+0	338aa, >Lec-tarl5a... *
+>Cluster 33
+0	317aa, >Sf-tarl2... *
+>Cluster 34
+0	312aa, >Pm-tarl2a... at 95.19%
+1	313aa, >Lec-tarl2a... *
+>Cluster 35
+0	290aa, >Lec-tarl3b... *
+1	288aa, >Lec-tarl3c... at 86.81%
+>Cluster 36
+0	289aa, >Lec-tarl3a... *
+>Cluster 37
+0	259aa, >Lec-tarl7d... *
+>Cluster 38
+0	218aa, >Lec-tarl5d... *
+>Cluster 39
+0	195aa, >Lec-tarl4e... *
+>Cluster 40
+0	151aa, >Mc-tarl1... *

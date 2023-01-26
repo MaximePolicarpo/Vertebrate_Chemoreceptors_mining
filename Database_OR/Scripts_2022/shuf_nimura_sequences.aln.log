@@ -1,0 +1,274 @@
+IQ-TREE multicore version 2.0-rc1 for Linux 64-bit built Jan 17 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    sei37.cluster.bc2.ch (AVX2, FMA3, 503 GB RAM)
+Command: /scicore/soft/apps/IQ-TREE/2.0-rc1-foss-2018b/bin/iqtree -s shuf_nimura_sequences.aln -st AA -nt 10 -bb 1000
+Seed:    324309 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sun Nov 13 11:51:15 2022
+Kernel:  AVX+FMA - 10 threads (10 CPU cores detected)
+
+Reading alignment file shuf_nimura_sequences.aln ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 91 sequences with 729 columns, 607 distinct patterns
+375 parsimony-informative, 160 singleton sites, 194 constant sites
+                         Gap/Ambiguity  Composition  p-value
+   1  ALPHA---GagaOR1.10        54.73%    passed     56.07%
+   2  ALPHA---GagaOR1.11        56.38%    passed     27.40%
+   3  ALPHA---GagaOR1.12        55.56%    passed     29.47%
+   4  ALPHA---GagaOR1.3         55.56%    passed     21.05%
+   5  ALPHA---XetrORs1078.1     55.42%    passed     47.10%
+   6  ALPHA---XetrORs1078.2     56.65%    passed     85.35%
+   7  ALPHA---XetrORs2098.1     55.69%    failed      3.01%
+   8  ALPHA---XetrORs572.1      56.52%    passed     96.18%
+   9  ALPHA---XetrORs6102.1     56.24%    passed     47.42%
+  10  ALPHA---XetrORs900.1      53.91%    passed     24.43%
+  11  BETA---DareOR15.66        56.93%    passed     36.20%
+  12  BETA---GaacOR1.1          55.69%    failed      1.40%
+  13  BETA---OrlaORUn.2         57.20%    passed     29.11%
+  14  BETA---TaruORUn.88        55.56%    passed     68.56%
+  15  BETA---XetrORs976.1       56.10%    passed     90.52%
+  16  BETA---XetrORs976.15      55.97%    passed     98.72%
+  17  BETA---XetrORs976.20      54.05%    passed     40.39%
+  18  BETA---XetrORs976.4       57.20%    passed     71.25%
+  19  BETA---XetrORs976.6       56.93%    passed     95.74%
+  20  BETA---XetrORs976.7       57.48%    passed     82.13%
+  21  DELTA---DareOR15.18       57.34%    passed     81.87%
+  22  DELTA---DareOR15.23       58.16%    passed     60.49%
+  23  DELTA---DareOR15.35       57.06%    passed     57.02%
+  24  DELTA---DareOR21.7        54.18%    passed      9.25%
+  25  DELTA---GaacOR16.63       58.16%    passed     36.21%
+  26  DELTA---TaruORUn.114      55.56%    passed     87.51%
+  27  DELTA---TaruORUn.37       57.75%    passed     26.95%
+  28  DELTA---XetrORs799.13     55.69%    passed     94.26%
+  29  DELTA---XetrORs799.14     57.06%    passed     99.30%
+  30  DELTA---XetrORs964.3      56.79%    passed     73.86%
+  31  EPSILON---DareOR10.29     55.42%    passed     55.70%
+  32  EPSILON---DareOR15.54     56.93%    passed     81.79%
+  33  EPSILON---DareOR15.55     56.10%    passed     96.59%
+  34  EPSILON---DareOR15.59     55.01%    passed      9.41%
+  35  EPSILON---GaacOR1.22      55.56%    passed     92.42%
+  36  EPSILON---GaacOR1.23      55.42%    passed     67.40%
+  37  EPSILON---GaacOR1.25      55.69%    passed     42.12%
+  38  EPSILON---TaruORUn.9      56.24%    passed     93.88%
+  39  EPSILON---XetrORs799.23   55.69%    passed     79.34%
+  40  EPSILON---XetrORs799.24   56.93%    passed     83.78%
+  41  ETA---DareOR11.10         57.48%    passed     88.88%
+  42  ETA---DareOR11.18         54.32%    passed     28.69%
+  43  ETA---DareOR15.27         56.79%    passed     57.11%
+  44  ETA---DareOR21.26         56.38%    passed     66.11%
+  45  ETA---OrlaOR13.13         58.16%    passed     95.73%
+  46  ETA---OrlaOR13.14         58.16%    passed     80.55%
+  47  ETA---OrlaOR13.20         59.12%    passed     96.51%
+  48  ETA---TaruORUn.97         57.48%    passed     72.11%
+  49  ETA---XetrORs982.3        57.75%    passed     76.60%
+  50  ETA---XetrORs982.6        58.30%    passed     36.50%
+  51  GAMMA---GagaORUn.218      56.24%    passed      7.94%
+  52  GAMMA---GagaORUn.333      56.38%    passed     43.23%
+  53  GAMMA---GagaORUn.336      57.34%    passed      8.36%
+  54  GAMMA---XetrORs1343.13    58.02%    passed     69.96%
+  55  GAMMA---XetrORs1499.2     54.87%    passed     66.73%
+  56  GAMMA---XetrORs24.99      58.44%    passed     83.78%
+  57  GAMMA---XetrORs882.1      57.20%    passed     38.85%
+  58  GAMMA---XetrORs882.28     56.65%    passed     63.87%
+  59  GAMMA---XetrORs899.6      57.06%    passed     37.21%
+  60  GAMMA---XetrORs942.6      57.20%    passed     83.63%
+  61  ZETA---DareOR10.16        55.28%    passed     92.96%
+  62  ZETA---DareOR10.24        56.65%    passed     74.87%
+  63  ZETA---DareOR10.26        56.10%    passed     58.79%
+  64  ZETA---DareOR10.28        56.24%    passed     77.46%
+  65  ZETA---DareOR15.39        54.60%    passed     83.70%
+  66  ZETA---DareOR15.49        56.93%    passed     21.52%
+  67  ZETA---GaacOR7.15         55.28%    passed     74.45%
+  68  ZETA---GaacOR7.19         55.14%    passed     41.74%
+  69  ZETA---GaacOR7.21         55.14%    passed     19.93%
+  70  ZETA---OrlaORUn.28        55.97%    passed     10.43%
+  71  Cami-kappa.1              56.93%    passed     50.90%
+  72  Anca-kappa.1              52.95%    failed      0.37%
+  73  Xetr-kappa.1              59.53%    passed     86.94%
+  74  Bota-kappa.1              52.40%    passed     11.61%
+  75  Pema-kappa.1              55.97%    passed      6.82%
+  76  Pema-lambda.1             52.81%    passed     10.23%
+  77  Dare-lambda.1             50.62%    passed     49.30%
+  78  Gaac-lambda.1             45.95%    failed      0.01%
+  79  Orla-lambda.1             47.05%    passed      7.66%
+  80  Orla-theta1.1             56.65%    passed      5.62%
+  81  Taru-theta1.1             55.42%    failed      0.98%
+  82  Gaac-theta1.1             56.24%    failed      1.17%
+  83  Dare-theta2.1             49.25%    failed      0.59%
+  84  Modo-theta2.1             51.99%    passed     17.75%
+  85  Oran-theta2.2             52.13%    failed      3.17%
+  86  NP_000670.1               28.67%    failed      0.00%
+  87  NP_037477.1               47.87%    passed      9.44%
+  88  NP_005292.2               57.61%    failed      0.05%
+  89  NP_001287.2               47.33%    passed      5.30%
+  90  NP_001044.1               50.07%    failed      0.00%
+  91  NP_000729.2               36.90%    failed      0.00%
+WARNING: 84 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                     55.07%  12 sequences failed composition chi2 test (p-value<5%; df=19)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.061 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -53079.328
+Optimal log-likelihood: -53078.788
+Proportion of invariable sites: 0.008
+Gamma shape alpha: 1.646
+Parameters optimization took 1 rounds (0.077 sec)
+Time for fast ML tree search: 34.363 seconds
+
+NOTE: ModelFinder requires 90 MB RAM!
+ModelFinder will test up to 546 protein models (sample size: 729) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            54479.820    179 109317.639   109435.016   110139.549
+  2  LG+I          54347.087    180 109054.173   109173.078   109880.675
+  3  LG+G4         53105.235    180 106570.470   106689.375   107396.971
+  4  LG+I+G4       53078.703    181 106519.406   106639.852   107350.499
+  5  LG+R2         53394.424    181 107150.848   107271.294   107981.941
+  6  LG+R3         53120.459    183 106606.917   106730.484   107447.194
+  7  LG+R4         53033.430    185 106436.860   106563.600   107286.320
+  8  LG+R5         53018.452    187 106410.905   106540.872   107269.548
+  9  LG+R6         52996.319    189 106370.638   106503.884   107238.464
+ 10  LG+R7         52996.288    191 106374.575   106511.156   107251.585
+ 22  LG+F+R6       52717.992    208 105851.983   106019.183   106807.051
+ 35  WAG+R6        53215.367    189 106808.735   106941.981   107676.561
+ 48  WAG+F+R6      52712.895    208 105841.790   106008.990   106796.858
+ 61  JTT+R6        53001.007    189 106380.014   106513.260   107247.840
+ 74  JTT+F+R6      52580.180    208 105576.361   105743.561   106531.429
+ 87  JTTDCMut+R6   53029.421    189 106436.841   106570.088   107304.667
+100  JTTDCMut+F+R6 52603.180    208 105622.360   105789.560   106577.428
+113  DCMut+R6      53869.158    189 108116.316   108249.562   108984.142
+126  DCMut+F+R6    52977.165    208 106370.331   106537.531   107325.399
+139  VT+R6         53110.429    189 106598.858   106732.104   107466.684
+152  VT+F+R6       52671.154    208 105758.308   105925.508   106713.376
+165  PMB+R6        53164.570    189 106707.141   106840.387   107574.967
+178  PMB+F+R6      52989.092    208 106394.185   106561.385   107349.253
+191  Blosum62+R6   53314.449    189 107006.898   107140.145   107874.725
+204  Blosum62+F+R6 52990.528    208 106397.056   106564.256   107352.124
+217  Dayhoff+R6    53869.778    189 108117.556   108250.803   108985.382
+230  Dayhoff+F+R6  52976.651    208 106369.301   106536.501   107324.369
+243  mtREV+R6      54480.733    189 109339.466   109472.712   110207.292
+256  mtREV+F+R6    53344.088    208 107104.176   107271.376   108059.244
+269  mtART+R6      54513.528    189 109405.057   109538.304   110272.883
+282  mtART+F+R6    53782.653    208 107981.305   108148.505   108936.373
+295  mtZOA+R6      53536.764    189 107451.527   107584.774   108319.354
+308  mtZOA+F+R6    53145.068    208 106706.135   106873.335   107661.203
+321  mtMet+R6      53854.417    189 108086.835   108220.081   108954.661
+334  mtMet+F+R6    52871.820    208 106159.640   106326.840   107114.708
+347  mtVer+R6      54589.108    189 109556.216   109689.463   110424.043
+360  mtVer+F+R6    53382.181    208 107180.362   107347.562   108135.430
+373  mtInv+R6      54140.519    189 108659.038   108792.284   109526.864
+386  mtInv+F+R6    52680.142    208 105776.283   105943.483   106731.351
+399  mtMAM+R6      55181.933    189 110741.866   110875.113   111609.692
+412  mtMAM+F+R6    54081.352    208 108578.704   108745.904   109533.772
+425  HIVb+R6       53788.613    189 107955.226   108088.473   108823.052
+438  HIVb+F+R6     53320.441    208 107056.882   107224.082   108011.950
+451  HIVw+R6       55772.555    189 111923.110   112056.356   112790.936
+464  HIVw+F+R6     54136.149    208 108688.299   108855.499   109643.367
+477  FLU+R6        53903.762    189 108185.523   108318.770   109053.350
+490  FLU+F+R6      53318.459    208 107052.918   107220.118   108007.986
+503  rtREV+R6      53859.413    189 108096.827   108230.074   108964.653
+516  rtREV+F+R6    53144.818    208 106705.637   106872.837   107660.705
+529  cpREV+R6      53129.599    189 106637.199   106770.446   107505.025
+542  cpREV+F+R6    52835.882    208 106087.765   106254.965   107042.833
+Akaike Information Criterion:           JTT+F+R6
+Corrected Akaike Information Criterion: JTT+F+R6
+Bayesian Information Criterion:         JTT+F+R6
+Best-fit model: JTT+F+R6 chosen according to BIC
+
+All model information printed to shuf_nimura_sequences.aln.model.gz
+CPU time for ModelFinder: 1357.682 seconds (0h:22m:37s)
+Wall-clock time for ModelFinder: 142.256 seconds (0h:2m:22s)
+Generating 1000 samples for ultrafast bootstrap (seed: 324309)...
+
+NOTE: 55 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -52580.180
+Optimal log-likelihood: -52580.160
+Site proportion and rates:  (0.021,0.033) (0.066,0.173) (0.161,0.443) (0.365,0.837) (0.293,1.387) (0.094,2.180)
+Parameters optimization took 1 rounds (0.537 sec)
+Computing ML distances based on estimated model parameters... 1.797 sec
+Computing BIONJ tree...
+0.004 seconds
+Log-likelihood of BIONJ tree: -52625.587
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 3.301 second
+Computing log-likelihood of 98 initial trees ... 3.848 seconds
+Current best score: -52580.160
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -52577.432
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -52576.550
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -52573.538
+Iteration 10 / LogL: -52573.684 / Time: 0h:0m:18s
+Iteration 20 / LogL: -52574.122 / Time: 0h:0m:27s
+Finish initializing candidate tree set (9)
+Current best tree score: -52573.538 / CPU time: 26.051
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 29: -52573.391
+Iteration 30 / LogL: -52573.420 / Time: 0h:0m:36s (0h:2m:3s left)
+Iteration 40 / LogL: -52575.705 / Time: 0h:0m:44s (0h:1m:42s left)
+Iteration 50 / LogL: -52574.590 / Time: 0h:0m:53s (0h:1m:25s left)
+Log-likelihood cutoff on original alignment: -52612.630
+Iteration 60 / LogL: -52573.524 / Time: 0h:1m:1s (0h:1m:12s left)
+Iteration 70 / LogL: -52575.062 / Time: 0h:1m:9s (0h:0m:59s left)
+Iteration 80 / LogL: -52574.768 / Time: 0h:1m:17s (0h:0m:48s left)
+Iteration 90 / LogL: -52575.213 / Time: 0h:1m:26s (0h:0m:37s left)
+Iteration 100 / LogL: -52574.635 / Time: 0h:1m:34s (0h:0m:27s left)
+Log-likelihood cutoff on original alignment: -52608.854
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.999
+Iteration 110 / LogL: -52573.431 / Time: 0h:1m:42s (0h:1m:24s left)
+Iteration 120 / LogL: -52574.463 / Time: 0h:1m:50s (0h:1m:14s left)
+Iteration 130 / LogL: -52573.613 / Time: 0h:1m:58s (0h:1m:4s left)
+TREE SEARCH COMPLETED AFTER 130 ITERATIONS / Time: 0h:1m:58s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -52573.391
+Optimal log-likelihood: -52573.391
+Site proportion and rates:  (0.021,0.032) (0.065,0.169) (0.159,0.442) (0.359,0.830) (0.297,1.371) (0.099,2.151)
+Parameters optimization took 1 rounds (0.194 sec)
+BEST SCORE FOUND : -52573.391
+Creating bootstrap support values...
+Split supports printed to NEXUS file shuf_nimura_sequences.aln.splits.nex
+Total tree length: 77.322
+
+Total number of iterations: 130
+CPU time used for tree search: 1140.746 sec (0h:19m:0s)
+Wall-clock time used for tree search: 117.786 sec (0h:1m:57s)
+Total CPU time used: 1152.831 sec (0h:19m:12s)
+Total wall-clock time used: 119.186 sec (0h:1m:59s)
+
+Computing bootstrap consensus tree...
+Reading input file shuf_nimura_sequences.aln.splits.nex...
+91 taxa and 335 splits.
+Consensus tree written to shuf_nimura_sequences.aln.contree
+Reading input trees file shuf_nimura_sequences.aln.contree
+Log-likelihood of consensus tree: -52573.547
+
+Analysis results written to: 
+  IQ-TREE report:                shuf_nimura_sequences.aln.iqtree
+  Maximum-likelihood tree:       shuf_nimura_sequences.aln.treefile
+  Likelihood distances:          shuf_nimura_sequences.aln.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          shuf_nimura_sequences.aln.splits.nex
+  Consensus tree:                shuf_nimura_sequences.aln.contree
+  Screen log file:               shuf_nimura_sequences.aln.log
+
+Date and Time: Sun Nov 13 11:55:37 2022

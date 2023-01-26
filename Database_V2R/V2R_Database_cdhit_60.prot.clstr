@@ -1,0 +1,369 @@
+>Cluster 0
+0	911aa, >opossum_V2R15... *
+>Cluster 1
+0	904aa, >frog_V2R1... *
+>Cluster 2
+0	893aa, >Oryzias_latipes_Com... *
+>Cluster 3
+0	837aa, >frog_V2R221... at 77.18%
+1	887aa, >frog_V2R230... *
+>Cluster 4
+0	884aa, >Oryzias_latipes_Com... *
+>Cluster 5
+0	883aa, >Oryzias_latipes_Com... *
+>Cluster 6
+0	853aa, >frog_V2R107... at 78.08%
+1	879aa, >frog_V2R3... *
+>Cluster 7
+0	878aa, >frog_V2R175... *
+>Cluster 8
+0	878aa, >frog_V2R21... *
+>Cluster 9
+0	878aa, >frog_V2R285... *
+1	874aa, >frog_V2R91... at 75.86%
+2	868aa, >frog_V2R94... at 72.00%
+3	844aa, >frog_V2R95... at 75.95%
+>Cluster 10
+0	878aa, >Oryzias_latipes_Com... *
+>Cluster 11
+0	878aa, >Oryzias_latipes_Com... *
+>Cluster 12
+0	873aa, >frog_V2R157... at 73.77%
+1	867aa, >frog_V2R245... at 74.16%
+2	877aa, >frog_V2R384... *
+3	866aa, >frog_V2R57... at 73.09%
+>Cluster 13
+0	876aa, >Sc-V2R3_sf20408... *
+>Cluster 14
+0	875aa, >frog_V2R189... *
+>Cluster 15
+0	861aa, >Oryzias_latipes_Com... at 70.62%
+1	875aa, >Oryzias_latipes_Com... *
+>Cluster 16
+0	862aa, >frog_V2R197... at 71.46%
+1	872aa, >frog_V2R198... at 70.76%
+2	868aa, >frog_V2R200... at 72.58%
+3	870aa, >frog_V2R201... at 70.23%
+4	867aa, >frog_V2R202... at 74.51%
+5	861aa, >frog_V2R203... at 73.05%
+6	874aa, >frog_V2R206... *
+7	872aa, >frog_V2R207... at 72.94%
+8	863aa, >frog_V2R208... at 70.10%
+9	859aa, >frog_V2R209... at 70.78%
+10	863aa, >frog_V2R211... at 70.68%
+11	869aa, >frog_V2R212... at 71.00%
+12	865aa, >frog_V2R214... at 72.02%
+13	856aa, >frog_V2R232... at 70.91%
+14	866aa, >frog_V2R233... at 70.67%
+15	873aa, >frog_V2R234... at 70.10%
+16	870aa, >frog_V2R235... at 73.45%
+17	869aa, >frog_V2R236... at 71.23%
+18	859aa, >frog_V2R237... at 72.88%
+19	866aa, >frog_V2R238... at 71.25%
+20	857aa, >frog_V2R239... at 71.41%
+21	871aa, >frog_V2R240... at 73.25%
+22	861aa, >frog_V2R242... at 73.29%
+23	864aa, >frog_V2R364... at 78.24%
+>Cluster 17
+0	874aa, >frog_V2R291... *
+>Cluster 18
+0	874aa, >Sc-V2R4_sf5901... *
+>Cluster 19
+0	862aa, >frog_V2R216... at 70.77%
+1	873aa, >frog_V2R217... *
+2	869aa, >frog_V2R218... at 73.07%
+3	859aa, >frog_V2R344... at 73.92%
+4	870aa, >frog_V2R367... at 71.61%
+>Cluster 20
+0	873aa, >Cm-V2RL2_SINCAMP000... *
+>Cluster 21
+0	872aa, >opossum_V2R54... *
+>Cluster 22
+0	864aa, >frog_V2R178... at 74.19%
+1	863aa, >frog_V2R182... at 73.58%
+2	872aa, >frog_V2R184... *
+3	854aa, >frog_V2R311... at 71.19%
+4	864aa, >frog_V2R312... at 71.30%
+5	865aa, >frog_V2R385... at 70.98%
+>Cluster 23
+0	872aa, >frog_V2R302... *
+>Cluster 24
+0	871aa, >frog_V2R185... *
+1	853aa, >frog_V2R188... at 70.81%
+2	858aa, >frog_V2R272... at 71.21%
+>Cluster 25
+0	870aa, >frog_V2R231... *
+>Cluster 26
+0	870aa, >Tetraodon_nigroviri... *
+>Cluster 27
+0	863aa, >frog_V2R168... at 78.22%
+1	869aa, >frog_V2R169... *
+>Cluster 28
+0	867aa, >frog_V2R7... at 75.09%
+1	869aa, >frog_V2R8... *
+>Cluster 29
+0	869aa, >Sc-V2R23_sf28714... *
+>Cluster 30
+0	869aa, >Sc-V2R9_sf29147... *
+>Cluster 31
+0	869aa, >Cm-V2R20_SINCAMP000... *
+>Cluster 32
+0	868aa, >frog_V2R210... *
+>Cluster 33
+0	858aa, >Danio_rerio_Complet... at 76.46%
+1	860aa, >Danio_rerio_Complet... at 75.81%
+2	852aa, >Danio_rerio_Complet... at 78.17%
+3	858aa, >Danio_rerio_Complet... at 79.95%
+4	865aa, >Danio_rerio_Complet... at 76.76%
+5	859aa, >Danio_rerio_Complet... at 75.79%
+6	858aa, >Danio_rerio_Complet... at 76.92%
+7	857aa, >Danio_rerio_Complet... at 78.88%
+8	860aa, >Danio_rerio_Complet... at 79.07%
+9	868aa, >Danio_rerio_Complet... *
+>Cluster 34
+0	868aa, >Sc-V2R26_sf33886... *
+>Cluster 35
+0	867aa, >frog_V2R122... *
+1	861aa, >frog_V2R270... at 70.38%
+2	858aa, >frog_V2R30... at 72.61%
+>Cluster 36
+0	854aa, >Danio_rerio_Complet... at 73.42%
+1	867aa, >Oryzias_latipes_Com... *
+2	850aa, >Tetraodon_nigroviri... at 75.18%
+>Cluster 37
+0	863aa, >frog_V2R171... at 77.75%
+1	852aa, >frog_V2R172... at 75.82%
+2	866aa, >frog_V2R176... *
+3	852aa, >frog_V2R268... at 73.47%
+4	856aa, >frog_V2R273... at 76.87%
+>Cluster 38
+0	866aa, >frog_V2R215... *
+>Cluster 39
+0	866aa, >Danio_rerio_Complet... *
+>Cluster 40
+0	866aa, >Danio_rerio_Complet... *
+>Cluster 41
+0	866aa, >Danio_rerio_Complet... *
+>Cluster 42
+0	865aa, >frog_V2R109... *
+>Cluster 43
+0	865aa, >frog_V2R170... *
+>Cluster 44
+0	864aa, >frog_V2R347... *
+>Cluster 45
+0	863aa, >frog_V2R121... *
+1	834aa, >frog_V2R310... at 76.50%
+>Cluster 46
+0	863aa, >Tetraodon_nigroviri... *
+>Cluster 47
+0	862aa, >frog_V2R19... *
+1	860aa, >frog_V2R23... at 72.67%
+>Cluster 48
+0	862aa, >frog_V2R309... *
+>Cluster 49
+0	861aa, >frog_V2R99... *
+>Cluster 50
+0	860aa, >frog_V2R100... *
+>Cluster 51
+0	860aa, >frog_V2R126... *
+1	855aa, >frog_V2R266... at 75.09%
+>Cluster 52
+0	860aa, >frog_V2R288... *
+>Cluster 53
+0	860aa, >frog_V2R32... *
+>Cluster 54
+0	856aa, >frog_V2R317... at 73.60%
+1	859aa, >frog_V2R321... *
+>Cluster 55
+0	859aa, >frog_V2R54... *
+>Cluster 56
+0	859aa, >frog_V2R96... *
+1	856aa, >frog_V2R97... at 75.12%
+>Cluster 57
+0	859aa, >Danio_rerio_Complet... *
+>Cluster 58
+0	859aa, >Sc-V2R1_sf5423_sf36... *
+>Cluster 59
+0	857aa, >opossum_V2R79... at 76.66%
+1	858aa, >opossum_V2R80... *
+>Cluster 60
+0	858aa, >frog_V2R195... *
+1	854aa, >frog_V2R251... at 73.07%
+2	845aa, >frog_V2R255... at 72.66%
+>Cluster 61
+0	858aa, >frog_V2R284... *
+>Cluster 62
+0	858aa, >Sc-V2R21_sf25216... *
+>Cluster 63
+0	857aa, >Oryzias_latipes_Com... *
+>Cluster 64
+0	850aa, >opossum_V2R24... at 75.06%
+1	835aa, >opossum_V2R29... at 75.93%
+2	840aa, >opossum_V2R30... at 75.60%
+3	856aa, >opossum_V2R41... *
+4	840aa, >opossum_V2R43... at 75.60%
+5	840aa, >opossum_V2R44... at 75.48%
+6	852aa, >opossum_V2R45... at 74.77%
+>Cluster 65
+0	856aa, >frog_V2R271... *
+>Cluster 66
+0	851aa, >frog_V2R260... at 72.86%
+1	856aa, >frog_V2R280... *
+2	851aa, >frog_V2R281... at 78.97%
+>Cluster 67
+0	856aa, >Oryzias_latipes_Com... *
+>Cluster 68
+0	855aa, >frog_V2R187... *
+>Cluster 69
+0	855aa, >Sc-V2R24_sf20060... *
+>Cluster 70
+0	854aa, >opossum_V2R63... *
+>Cluster 71
+0	854aa, >frog_V2R267... *
+>Cluster 72
+0	854aa, >frog_V2R68... *
+>Cluster 73
+0	854aa, >Danio_rerio_Complet... *
+>Cluster 74
+0	853aa, >frog_V2R262... *
+>Cluster 75
+0	853aa, >frog_V2R48... *
+>Cluster 76
+0	853aa, >Danio_rerio_Complet... *
+>Cluster 77
+0	853aa, >Danio_rerio_Complet... *
+>Cluster 78
+0	853aa, >Oryzias_latipes_Com... *
+1	853aa, >Tetraodon_nigroviri... at 70.34%
+>Cluster 79
+0	853aa, >Sc-V2R12_sf3790... *
+>Cluster 80
+0	852aa, >opossum_V2R12... *
+>Cluster 81
+0	852aa, >opossum_V2R49... *
+>Cluster 82
+0	852aa, >opossum_V2R56... *
+>Cluster 83
+0	852aa, >frog_V2R18... *
+>Cluster 84
+0	852aa, >frog_V2R250... *
+>Cluster 85
+0	852aa, >frog_V2R258... *
+1	851aa, >frog_V2R320... at 73.44%
+>Cluster 86
+0	852aa, >frog_V2R26... *
+>Cluster 87
+0	852aa, >Sc-V2R34_sf17118... *
+>Cluster 88
+0	833aa, >frog_V2R143... at 70.23%
+1	851aa, >frog_V2R348... *
+>Cluster 89
+0	851aa, >Danio_rerio_Complet... *
+>Cluster 90
+0	851aa, >Tetraodon_nigroviri... *
+>Cluster 91
+0	850aa, >frog_V2R130... *
+>Cluster 92
+0	849aa, >opossum_V2R16... *
+>Cluster 93
+0	849aa, >frog_V2R275... *
+>Cluster 94
+0	849aa, >Danio_rerio_Complet... *
+>Cluster 95
+0	849aa, >Danio_rerio_Complet... *
+>Cluster 96
+0	849aa, >Oryzias_latipes_Com... *
+>Cluster 97
+0	849aa, >Cm-V2R34_SINCAMP000... *
+>Cluster 98
+0	847aa, >opossum_V2R17... *
+1	847aa, >opossum_V2R34... at 77.45%
+>Cluster 99
+0	847aa, >opossum_V2R84... *
+>Cluster 100
+0	847aa, >frog_V2R259... *
+>Cluster 101
+0	847aa, >frog_V2R98... *
+>Cluster 102
+0	847aa, >Danio_rerio_Complet... *
+>Cluster 103
+0	844aa, >opossum_V2R7... *
+1	843aa, >opossum_V2R55... at 71.77%
+2	829aa, >opossum_V2R67... at 72.98%
+>Cluster 104
+0	844aa, >frog_V2R13... *
+1	804aa, >frog_V2R15... at 71.64%
+>Cluster 105
+0	844aa, >frog_V2R247... *
+1	844aa, >frog_V2R319... at 76.30%
+>Cluster 106
+0	843aa, >Cm-V2R17_SINCAMP000... *
+>Cluster 107
+0	842aa, >frog_V2R133... *
+>Cluster 108
+0	830aa, >frog_V2R342... at 72.65%
+1	828aa, >frog_V2R60... at 76.09%
+2	841aa, >frog_V2R62... *
+>Cluster 109
+0	841aa, >Danio_rerio_Complet... *
+>Cluster 110
+0	840aa, >frog_V2R181... *
+>Cluster 111
+0	840aa, >frog_V2R39... *
+>Cluster 112
+0	840aa, >Cm-V2R9_SINCAMP0000... *
+>Cluster 113
+0	839aa, >frog_V2R40... *
+>Cluster 114
+0	838aa, >frog_V2R137... *
+1	832aa, >frog_V2R42... at 74.64%
+>Cluster 115
+0	838aa, >Oryzias_latipes_Com... *
+>Cluster 116
+0	837aa, >opossum_V2R42... *
+>Cluster 117
+0	836aa, >opossum_V2R23... *
+>Cluster 118
+0	836aa, >frog_V2R41... *
+>Cluster 119
+0	832aa, >frog_V2R147... at 76.68%
+1	835aa, >frog_V2R150... *
+2	821aa, >frog_V2R151... at 76.98%
+3	829aa, >frog_V2R160... at 77.20%
+>Cluster 120
+0	835aa, >Danio_rerio_Complet... *
+1	819aa, >Danio_rerio_Complet... at 78.27%
+2	833aa, >Danio_rerio_Complet... at 75.51%
+3	830aa, >Danio_rerio_Complet... at 74.94%
+4	833aa, >Danio_rerio_Complet... at 74.31%
+5	834aa, >Danio_rerio_Complet... at 77.22%
+6	831aa, >Danio_rerio_Complet... at 74.61%
+7	833aa, >Danio_rerio_Complet... at 73.83%
+8	834aa, >Danio_rerio_Complet... at 74.22%
+>Cluster 121
+0	834aa, >frog_V2R134... *
+>Cluster 122
+0	834aa, >frog_V2R256... *
+>Cluster 123
+0	834aa, >Cm-V2R10_SINCAMP000... *
+>Cluster 124
+0	833aa, >frog_V2R29... *
+>Cluster 125
+0	830aa, >opossum_V2R90... *
+>Cluster 126
+0	828aa, >frog_V2R136... *
+>Cluster 127
+0	827aa, >frog_V2R220... *
+>Cluster 128
+0	824aa, >frog_V2R67... *
+>Cluster 129
+0	821aa, >Danio_rerio_Complet... *
+>Cluster 130
+0	814aa, >frog_V2R63... *
+1	800aa, >frog_V2R64... at 76.38%
+>Cluster 131
+0	808aa, >Tetraodon_nigroviri... *
+>Cluster 132
+0	798aa, >Sc-V2R29_sf84419... *
+>Cluster 133
+0	703aa, >Sc-V2R7_sf54760... *

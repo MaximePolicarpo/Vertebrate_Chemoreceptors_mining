@@ -1,0 +1,605 @@
+>Cluster 0
+0	431aa, >Amia_calva---DELTA-... *
+>Cluster 1
+0	427aa, >Amia_calva---BETA-1... *
+>Cluster 2
+0	392aa, >Amia_calva---BETA-9... *
+>Cluster 3
+0	387aa, >Amia_calva---ZETA-4... *
+>Cluster 4
+0	383aa, >Amia_calva---GAMMA-... *
+>Cluster 5
+0	379aa, >Amia_calva---GAMMA-... *
+>Cluster 6
+0	379aa, >Amia_calva---ZETA-7... *
+>Cluster 7
+0	378aa, >Amia_calva---BETA-1... *
+>Cluster 8
+0	370aa, >Amia_calva---ALPHA-... *
+>Cluster 9
+0	364aa, >Amia_calva---DELTA-... *
+>Cluster 10
+0	364aa, >Amia_calva---GAMMA-... *
+>Cluster 11
+0	362aa, >Amia_calva---ZETA-9... *
+>Cluster 12
+0	359aa, >Amia_calva---DELTA-... *
+>Cluster 13
+0	357aa, >Amia_calva---ZETA-6... *
+>Cluster 14
+0	355aa, >Amia_calva---EPSILO... *
+>Cluster 15
+0	354aa, >Amia_calva---EPSILO... *
+>Cluster 16
+0	354aa, >Amia_calva---EPSILO... *
+>Cluster 17
+0	350aa, >Amia_calva---BETA-1... *
+>Cluster 18
+0	350aa, >Amia_calva---DELTA-... *
+>Cluster 19
+0	350aa, >Amia_calva---ETA-6-... *
+>Cluster 20
+0	349aa, >Amia_calva---DELTA-... *
+>Cluster 21
+0	348aa, >Amia_calva---ETA-10... *
+>Cluster 22
+0	344aa, >Amia_calva---DELTA-... *
+>Cluster 23
+0	343aa, >Amia_calva---DELTA-... *
+>Cluster 24
+0	341aa, >Amia_calva---BETA-6... *
+>Cluster 25
+0	341aa, >Amia_calva---BETA-7... *
+>Cluster 26
+0	341aa, >Amia_calva---ZETA-3... *
+>Cluster 27
+0	340aa, >Amia_calva---DELTA-... *
+>Cluster 28
+0	340aa, >Amia_calva---DELTA-... *
+>Cluster 29
+0	340aa, >Amia_calva---DELTA-... *
+>Cluster 30
+0	340aa, >Amia_calva---GAMMA-... *
+>Cluster 31
+0	339aa, >Amia_calva---DELTA-... *
+>Cluster 32
+0	339aa, >Amia_calva---DELTA-... *
+>Cluster 33
+0	339aa, >Amia_calva---GAMMA-... *
+>Cluster 34
+0	337aa, >Amia_calva---DELTA-... *
+>Cluster 35
+0	336aa, >Amia_calva---ETA-18... *
+>Cluster 36
+0	335aa, >Amia_calva---DELTA-... *
+>Cluster 37
+0	335aa, >Amia_calva---ETA-3-... *
+>Cluster 38
+0	335aa, >Amia_calva---ETA-21... *
+>Cluster 39
+0	335aa, >Amia_calva---GAMMA-... *
+>Cluster 40
+0	335aa, >Amia_calva---GAMMA-... *
+>Cluster 41
+0	335aa, >Amia_calva---GAMMA-... *
+>Cluster 42
+0	334aa, >Amia_calva---ZETA-1... *
+>Cluster 43
+0	334aa, >Amia_calva---ZETA-4... *
+>Cluster 44
+0	333aa, >Amia_calva---ZETA-5... *
+>Cluster 45
+0	332aa, >Amia_calva---DELTA-... *
+>Cluster 46
+0	332aa, >Amia_calva---DELTA-... *
+>Cluster 47
+0	332aa, >Amia_calva---DELTA-... *
+>Cluster 48
+0	332aa, >Amia_calva---ZETA-4... *
+>Cluster 49
+0	331aa, >Amia_calva---BETA-1... *
+>Cluster 50
+0	331aa, >Amia_calva---ETA-5-... *
+>Cluster 51
+0	330aa, >Amia_calva---GAMMA-... *
+>Cluster 52
+0	329aa, >Amia_calva---ZETA-7... *
+>Cluster 53
+0	328aa, >Amia_calva---DELTA-... *
+>Cluster 54
+0	328aa, >Amia_calva---DELTA-... *
+>Cluster 55
+0	328aa, >Amia_calva---ETA-25... *
+>Cluster 56
+0	328aa, >Amia_calva---GAMMA-... *
+>Cluster 57
+0	327aa, >Amia_calva---GAMMA-... *
+>Cluster 58
+0	327aa, >Amia_calva---ZETA-2... *
+>Cluster 59
+0	327aa, >Amia_calva---ZETA-2... *
+>Cluster 60
+0	327aa, >Amia_calva---ZETA-2... *
+>Cluster 61
+0	327aa, >Amia_calva---ZETA-2... *
+>Cluster 62
+0	327aa, >Amia_calva---ZETA-6... *
+>Cluster 63
+0	327aa, >Amia_calva---ZETA-7... *
+>Cluster 64
+0	326aa, >Amia_calva---BETA-8... *
+>Cluster 65
+0	326aa, >Amia_calva---EPSILO... *
+>Cluster 66
+0	326aa, >Amia_calva---GAMMA-... *
+>Cluster 67
+0	326aa, >Amia_calva---GAMMA-... *
+>Cluster 68
+0	326aa, >Amia_calva---GAMMA-... *
+>Cluster 69
+0	326aa, >Amia_calva---GAMMA-... *
+>Cluster 70
+0	326aa, >Amia_calva---GAMMA-... *
+>Cluster 71
+0	326aa, >Amia_calva---GAMMA-... *
+>Cluster 72
+0	326aa, >Amia_calva---GAMMA-... *
+>Cluster 73
+0	326aa, >Amia_calva---GAMMA-... *
+>Cluster 74
+0	326aa, >Amia_calva---ZETA-8... *
+>Cluster 75
+0	326aa, >Amia_calva---ZETA-8... *
+>Cluster 76
+0	326aa, >Amia_calva---ZETA-8... *
+>Cluster 77
+0	326aa, >Amia_calva---ZETA-8... *
+>Cluster 78
+0	325aa, >Amia_calva---BETA-1... *
+>Cluster 79
+0	325aa, >Amia_calva---BETA-2... *
+>Cluster 80
+0	325aa, >Amia_calva---BETA-3... *
+>Cluster 81
+0	325aa, >Amia_calva---BETA-1... *
+>Cluster 82
+0	325aa, >Amia_calva---BETA-1... *
+>Cluster 83
+0	325aa, >Amia_calva---BETA-1... *
+>Cluster 84
+0	325aa, >Amia_calva---DELTA-... *
+>Cluster 85
+0	325aa, >Amia_calva---DELTA-... *
+>Cluster 86
+0	325aa, >Amia_calva---DELTA-... *
+>Cluster 87
+0	325aa, >Amia_calva---DELTA-... *
+>Cluster 88
+0	325aa, >Amia_calva---EPSILO... *
+>Cluster 89
+0	325aa, >Amia_calva---EPSILO... *
+>Cluster 90
+0	325aa, >Amia_calva---EPSILO... *
+>Cluster 91
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 92
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 93
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 94
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 95
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 96
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 97
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 98
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 99
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 100
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 101
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 102
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 103
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 104
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 105
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 106
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 107
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 108
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 109
+0	325aa, >Amia_calva---GAMMA-... *
+>Cluster 110
+0	325aa, >Amia_calva---ZETA-1... *
+>Cluster 111
+0	325aa, >Amia_calva---ZETA-1... *
+>Cluster 112
+0	325aa, >Amia_calva---ZETA-1... *
+>Cluster 113
+0	325aa, >Amia_calva---ZETA-1... *
+>Cluster 114
+0	325aa, >Amia_calva---ZETA-1... *
+>Cluster 115
+0	325aa, >Amia_calva---ZETA-1... *
+>Cluster 116
+0	325aa, >Amia_calva---ZETA-1... *
+>Cluster 117
+0	325aa, >Amia_calva---ZETA-2... *
+>Cluster 118
+0	325aa, >Amia_calva---ZETA-2... *
+>Cluster 119
+0	325aa, >Amia_calva---ZETA-3... *
+>Cluster 120
+0	325aa, >Amia_calva---ZETA-3... *
+>Cluster 121
+0	325aa, >Amia_calva---ZETA-3... *
+>Cluster 122
+0	325aa, >Amia_calva---ZETA-3... *
+>Cluster 123
+0	325aa, >Amia_calva---ZETA-4... *
+>Cluster 124
+0	325aa, >Amia_calva---ZETA-4... *
+>Cluster 125
+0	325aa, >Amia_calva---ZETA-4... *
+>Cluster 126
+0	325aa, >Amia_calva---ZETA-4... *
+>Cluster 127
+0	325aa, >Amia_calva---ZETA-4... *
+>Cluster 128
+0	325aa, >Amia_calva---ZETA-7... *
+>Cluster 129
+0	325aa, >Amia_calva---ZETA-7... *
+>Cluster 130
+0	325aa, >Amia_calva---ZETA-8... *
+>Cluster 131
+0	325aa, >Amia_calva---ZETA-8... *
+>Cluster 132
+0	325aa, >Amia_calva---ZETA-8... *
+>Cluster 133
+0	325aa, >Amia_calva---ZETA-8... *
+>Cluster 134
+0	325aa, >Amia_calva---ZETA-9... *
+>Cluster 135
+0	324aa, >Amia_calva---BETA-4... *
+>Cluster 136
+0	324aa, >Amia_calva---BETA-5... *
+>Cluster 137
+0	324aa, >Amia_calva---ETA-1-... *
+>Cluster 138
+0	324aa, >Amia_calva---GAMMA-... *
+>Cluster 139
+0	324aa, >Amia_calva---ZETA-2... *
+>Cluster 140
+0	324aa, >Amia_calva---ZETA-3... *
+>Cluster 141
+0	324aa, >Amia_calva---ZETA-5... *
+>Cluster 142
+0	324aa, >Amia_calva---ZETA-5... *
+>Cluster 143
+0	324aa, >Amia_calva---ZETA-5... *
+>Cluster 144
+0	324aa, >Amia_calva---ZETA-5... *
+>Cluster 145
+0	324aa, >Amia_calva---ZETA-5... *
+>Cluster 146
+0	324aa, >Amia_calva---ZETA-5... *
+1	324aa, >Amia_calva---ZETA-6... at 100.00%
+>Cluster 147
+0	324aa, >Amia_calva---ZETA-6... *
+>Cluster 148
+0	324aa, >Amia_calva---ZETA-8... *
+>Cluster 149
+0	324aa, >Amia_calva---ZETA-9... *
+>Cluster 150
+0	323aa, >Amia_calva---DELTA-... *
+>Cluster 151
+0	323aa, >Amia_calva---ZETA-1... *
+>Cluster 152
+0	323aa, >Amia_calva---ZETA-4... *
+>Cluster 153
+0	323aa, >Amia_calva---ZETA-6... *
+>Cluster 154
+0	323aa, >Amia_calva---ZETA-8... *
+>Cluster 155
+0	323aa, >Amia_calva---ZETA-9... *
+>Cluster 156
+0	323aa, >Amia_calva---ZETA-9... *
+>Cluster 157
+0	322aa, >Amia_calva---ETA-19... *
+>Cluster 158
+0	322aa, >Amia_calva---GAMMA-... *
+>Cluster 159
+0	322aa, >Amia_calva---GAMMA-... *
+>Cluster 160
+0	322aa, >Amia_calva---ZETA-6... *
+>Cluster 161
+0	322aa, >Amia_calva---ZETA-9... *
+>Cluster 162
+0	321aa, >Amia_calva---ALPHA-... *
+>Cluster 163
+0	321aa, >Amia_calva---ALPHA-... *
+>Cluster 164
+0	321aa, >Amia_calva---ALPHA-... *
+>Cluster 165
+0	321aa, >Amia_calva---DELTA-... *
+>Cluster 166
+0	321aa, >Amia_calva---ZETA-6... *
+>Cluster 167
+0	321aa, >Amia_calva---ZETA-6... *
+>Cluster 168
+0	321aa, >Amia_calva---ZETA-7... *
+>Cluster 169
+0	321aa, >Amia_calva---ZETA-7... *
+>Cluster 170
+0	320aa, >Amia_calva---DELTA-... *
+>Cluster 171
+0	320aa, >Amia_calva---GAMMA-... *
+>Cluster 172
+0	320aa, >Amia_calva---GAMMA-... *
+>Cluster 173
+0	320aa, >Amia_calva---GAMMA-... *
+>Cluster 174
+0	320aa, >Amia_calva---GAMMA-... *
+>Cluster 175
+0	320aa, >Amia_calva---GAMMA-... *
+>Cluster 176
+0	320aa, >Amia_calva---GAMMA-... *
+>Cluster 177
+0	320aa, >Amia_calva---GAMMA-... *
+>Cluster 178
+0	320aa, >Amia_calva---GAMMA-... *
+>Cluster 179
+0	320aa, >Amia_calva---GAMMA-... *
+>Cluster 180
+0	320aa, >Amia_calva---GAMMA-... *
+>Cluster 181
+0	320aa, >Amia_calva---ZETA-2... *
+>Cluster 182
+0	320aa, >Amia_calva---ZETA-5... *
+>Cluster 183
+0	319aa, >Amia_calva---DELTA-... *
+>Cluster 184
+0	319aa, >Amia_calva---DELTA-... *
+>Cluster 185
+0	319aa, >Amia_calva---EPSILO... *
+>Cluster 186
+0	319aa, >Amia_calva---ETA-9-... *
+>Cluster 187
+0	319aa, >Amia_calva---ETA-11... *
+>Cluster 188
+0	319aa, >Amia_calva---ETA-14... *
+>Cluster 189
+0	319aa, >Amia_calva---ETA-16... *
+>Cluster 190
+0	319aa, >Amia_calva---ETA-26... *
+>Cluster 191
+0	319aa, >Amia_calva---GAMMA-... *
+>Cluster 192
+0	319aa, >Amia_calva---GAMMA-... *
+>Cluster 193
+0	319aa, >Amia_calva---ZETA-9... *
+>Cluster 194
+0	318aa, >Amia_calva---DELTA-... *
+>Cluster 195
+0	318aa, >Amia_calva---ETA-4-... *
+>Cluster 196
+0	318aa, >Amia_calva---ZETA-3... *
+>Cluster 197
+0	318aa, >Amia_calva---ZETA-5... *
+>Cluster 198
+0	317aa, >Amia_calva---DELTA-... *
+>Cluster 199
+0	317aa, >Amia_calva---DELTA-... *
+>Cluster 200
+0	317aa, >Amia_calva---ETA-2-... *
+>Cluster 201
+0	317aa, >Amia_calva---ETA-7-... *
+>Cluster 202
+0	317aa, >Amia_calva---ETA-8-... *
+>Cluster 203
+0	317aa, >Amia_calva---ETA-12... *
+>Cluster 204
+0	317aa, >Amia_calva---ETA-13... *
+>Cluster 205
+0	317aa, >Amia_calva---ETA-15... *
+>Cluster 206
+0	317aa, >Amia_calva---ETA-22... *
+>Cluster 207
+0	317aa, >Amia_calva---ETA-23... *
+>Cluster 208
+0	317aa, >Amia_calva---ETA-24... *
+>Cluster 209
+0	317aa, >Amia_calva---ETA-27... *
+>Cluster 210
+0	317aa, >Amia_calva---ETA-28... *
+>Cluster 211
+0	317aa, >Amia_calva---ZETA-3... *
+>Cluster 212
+0	317aa, >Amia_calva---ZETA-6... *
+>Cluster 213
+0	317aa, >Amia_calva---ZETA-7... *
+>Cluster 214
+0	317aa, >Amia_calva---ZETA-7... *
+>Cluster 215
+0	317aa, >Amia_calva---ZETA-7... *
+>Cluster 216
+0	316aa, >Amia_calva---BETA-1... *
+>Cluster 217
+0	314aa, >Amia_calva---DELTA-... *
+>Cluster 218
+0	314aa, >Amia_calva---DELTA-... *
+>Cluster 219
+0	314aa, >Amia_calva---DELTA-... *
+>Cluster 220
+0	314aa, >Amia_calva---DELTA-... *
+>Cluster 221
+0	314aa, >Amia_calva---DELTA-... *
+>Cluster 222
+0	314aa, >Amia_calva---DELTA-... *
+>Cluster 223
+0	314aa, >Amia_calva---DELTA-... *
+>Cluster 224
+0	314aa, >Amia_calva---DELTA-... *
+>Cluster 225
+0	314aa, >Amia_calva---DELTA-... *
+>Cluster 226
+0	314aa, >Amia_calva---ZETA-1... *
+>Cluster 227
+0	314aa, >Amia_calva---ZETA-2... *
+>Cluster 228
+0	314aa, >Amia_calva---ZETA-3... *
+>Cluster 229
+0	314aa, >Amia_calva---ZETA-5... *
+>Cluster 230
+0	314aa, >Amia_calva---ZETA-6... *
+>Cluster 231
+0	314aa, >Amia_calva---ZETA-8... *
+>Cluster 232
+0	314aa, >Amia_calva---ZETA-9... *
+>Cluster 233
+0	314aa, >Amia_calva---ZETA-1... *
+>Cluster 234
+0	314aa, >Amia_calva---ZETA-2... *
+>Cluster 235
+0	314aa, >Amia_calva---ZETA-3... *
+>Cluster 236
+0	314aa, >Amia_calva---ZETA-3... *
+>Cluster 237
+0	314aa, >Amia_calva---ZETA-4... *
+>Cluster 238
+0	314aa, >Amia_calva---ZETA-4... *
+>Cluster 239
+0	314aa, >Amia_calva---ZETA-6... *
+>Cluster 240
+0	313aa, >Amia_calva---DELTA-... *
+>Cluster 241
+0	313aa, >Amia_calva---ETA-20... *
+>Cluster 242
+0	312aa, >Amia_calva---DELTA-... *
+>Cluster 243
+0	312aa, >Amia_calva---DELTA-... *
+>Cluster 244
+0	312aa, >Amia_calva---DELTA-... *
+>Cluster 245
+0	312aa, >Amia_calva---DELTA-... *
+>Cluster 246
+0	312aa, >Amia_calva---DELTA-... *
+>Cluster 247
+0	312aa, >Amia_calva---DELTA-... *
+>Cluster 248
+0	312aa, >Amia_calva---DELTA-... *
+>Cluster 249
+0	311aa, >Amia_calva---DELTA-... *
+>Cluster 250
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 251
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 252
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 253
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 254
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 255
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 256
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 257
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 258
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 259
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 260
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 261
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 262
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 263
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 264
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 265
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 266
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 267
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 268
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 269
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 270
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 271
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 272
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 273
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 274
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 275
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 276
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 277
+0	310aa, >Amia_calva---DELTA-... *
+>Cluster 278
+0	309aa, >Amia_calva---DELTA-... *
+>Cluster 279
+0	309aa, >Amia_calva---DELTA-... *
+>Cluster 280
+0	309aa, >Amia_calva---DELTA-... *
+>Cluster 281
+0	309aa, >Amia_calva---DELTA-... *
+>Cluster 282
+0	309aa, >Amia_calva---DELTA-... *
+>Cluster 283
+0	309aa, >Amia_calva---DELTA-... *
+>Cluster 284
+0	309aa, >Amia_calva---DELTA-... *
+>Cluster 285
+0	309aa, >Amia_calva---DELTA-... *
+>Cluster 286
+0	309aa, >Amia_calva---DELTA-... *
+>Cluster 287
+0	309aa, >Amia_calva---ZETA-2... *
+>Cluster 288
+0	308aa, >Amia_calva---DELTA-... *
+>Cluster 289
+0	307aa, >Amia_calva---ETA-29... *
+>Cluster 290
+0	307aa, >Amia_calva---ZETA-7... *
+>Cluster 291
+0	295aa, >Amia_calva---GAMMA-... *
+>Cluster 292
+0	280aa, >Amia_calva---DELTA-... *
+>Cluster 293
+0	280aa, >Amia_calva---DELTA-... *
+>Cluster 294
+0	280aa, >Amia_calva---DELTA-... *
+>Cluster 295
+0	278aa, >Amia_calva---GAMMA-... *
+>Cluster 296
+0	271aa, >Amia_calva---DELTA-... *
+>Cluster 297
+0	258aa, >Amia_calva---DELTA-... *
+>Cluster 298
+0	258aa, >Amia_calva---GAMMA-... *
+>Cluster 299
+0	258aa, >Amia_calva---ZETA-5... *
+>Cluster 300
+0	257aa, >Amia_calva---ETA-17... *
+>Cluster 301
+0	254aa, >Amia_calva---DELTA-... *

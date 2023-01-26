@@ -1,0 +1,930 @@
+>Cluster 0
+0	304aa, >MimuV1R73.1_1... at 82.24%
+1	312aa, >MimuV1R74.1_1... at 80.13%
+2	317aa, >MimuV1R86.1_1... at 81.70%
+3	284aa, >MimuV1R87.1_1... at 85.92%
+4	412aa, >MimuV1R88.1_1... *
+>Cluster 1
+0	393aa, >TasyV1R184.1_1... *
+>Cluster 2
+0	387aa, >TuchV1R33.1_1... *
+>Cluster 3
+0	379aa, >OtgaV1R29.1_1... *
+>Cluster 4
+0	312aa, >MimuV1R75.1_1... at 86.54%
+1	317aa, >MimuV1R77.1_1... at 81.70%
+2	312aa, >MimuV1R78.1_1... at 88.14%
+3	307aa, >MimuV1R80.1_1... at 82.08%
+4	373aa, >MimuV1R82.1_1... *
+>Cluster 5
+0	363aa, >OtgaV1R25.1_1... *
+>Cluster 6
+0	363aa, >OtgaV1R26.1_1... *
+>Cluster 7
+0	357aa, >Mus_musculus_intact... *
+>Cluster 8
+0	357aa, >CajaV1R39.1_1... *
+1	357aa, >SaboV1R60.1_1... at 87.68%
+>Cluster 9
+0	356aa, >Atractosteus_spatul... *
+>Cluster 10
+0	353aa, >GogoV1R60.1_1... *
+1	353aa, >HosaV1R77.1_1... at 97.45%
+>Cluster 11
+0	353aa, >MimuV1R127.1_1... *
+>Cluster 12
+0	352aa, >TasyV1R22.1_1... *
+>Cluster 13
+0	351aa, >OtgaV1R104.1_1... *
+1	330aa, >OtgaV1R105.1_1... at 82.12%
+>Cluster 14
+0	346aa, >opossumV1R3... *
+>Cluster 15
+0	298aa, >MimuV1R152.1_1... at 84.56%
+1	298aa, >MimuV1R154.1_1... at 83.89%
+2	345aa, >MimuV1R165.1_1... *
+3	292aa, >MimuV1R173.1_1... at 80.82%
+4	297aa, >MimuV1R176.1_1... at 81.48%
+>Cluster 16
+0	345aa, >frog_V1R10... *
+1	342aa, >frog_V1R11... at 85.67%
+2	324aa, >frog_V1R12... at 88.58%
+3	323aa, >frog_V1R23... at 92.88%
+>Cluster 17
+0	344aa, >dogV1R6... *
+>Cluster 18
+0	344aa, >Danio_rerio_Complet... *
+>Cluster 19
+0	342aa, >opossumV1R38... *
+>Cluster 20
+0	342aa, >TasyV1R182.1_1... *
+>Cluster 21
+0	341aa, >Atractosteus_spatul... *
+>Cluster 22
+0	341aa, >OtgaV1R47.1_1... *
+1	317aa, >OtgaV1R83.1_1... at 83.60%
+>Cluster 23
+0	340aa, >Danio_rerio_Complet... *
+>Cluster 24
+0	340aa, >OtgaV1R102.1_1... *
+>Cluster 25
+0	339aa, >Atractosteus_spatul... *
+1	339aa, >Atractosteus_spatul... at 92.92%
+2	339aa, >Atractosteus_spatul... at 94.40%
+3	339aa, >Atractosteus_spatul... at 92.04%
+>Cluster 26
+0	339aa, >Mus_musculus_intact... *
+>Cluster 27
+0	339aa, >TasyV1R116.1_1... *
+1	339aa, >TasyV1R117.1_1... at 100.00%
+>Cluster 28
+0	338aa, >opossumV1R41... *
+>Cluster 29
+0	338aa, >ChsaV1R25.1_1... *
+>Cluster 30
+0	306aa, >MimuV1R131.1_1... at 87.58%
+1	306aa, >MimuV1R280.1_1... at 94.12%
+2	338aa, >MimuV1R283.1_1... *
+3	306aa, >MimuV1R285.1_1... at 87.91%
+>Cluster 31
+0	335aa, >MimuV1R124.1_1... *
+>Cluster 32
+0	334aa, >Danio_rerio_Complet... *
+>Cluster 33
+0	300aa, >MimuV1R151.1_1... at 84.00%
+1	318aa, >MimuV1R153.1_1... at 87.11%
+2	300aa, >MimuV1R155.1_1... at 86.33%
+3	332aa, >MimuV1R156.1_1... at 81.93%
+4	318aa, >MimuV1R158.1_1... at 85.22%
+5	325aa, >MimuV1R161.1_1... at 83.08%
+6	318aa, >MimuV1R162.1_1... at 83.02%
+7	323aa, >MimuV1R164.1_1... at 88.85%
+8	334aa, >MimuV1R166.1_1... *
+9	334aa, >MimuV1R168.1_1... at 83.53%
+10	309aa, >MimuV1R170.1_1... at 85.11%
+11	318aa, >MimuV1R172.1_1... at 86.79%
+12	317aa, >MimuV1R174.1_1... at 85.49%
+>Cluster 34
+0	334aa, >OtgaV1R91.1_1... *
+1	333aa, >OtgaV1R94.1_1... at 80.18%
+>Cluster 35
+0	334aa, >SaboV1R61.1_1... *
+>Cluster 36
+0	334aa, >TasyV1R185.1_1... *
+>Cluster 37
+0	333aa, >opossumV1R36... *
+>Cluster 38
+0	332aa, >opossumV1R27... *
+>Cluster 39
+0	331aa, >Danio_rerio_Complet... *
+>Cluster 40
+0	331aa, >TasyV1R120.1_1... *
+1	331aa, >TasyV1R15.1_1... at 84.89%
+>Cluster 41
+0	331aa, >TasyV1R16.1_1... *
+>Cluster 42
+0	305aa, >MimuV1R100.1_1... at 84.92%
+1	310aa, >MimuV1R15.1_1... at 82.90%
+2	305aa, >MimuV1R252.1_1... at 85.90%
+3	305aa, >MimuV1R39.1_1... at 85.57%
+4	301aa, >MimuV1R4.1_1... at 88.70%
+5	300aa, >MimuV1R45.1_1... at 82.67%
+6	305aa, >MimuV1R46.1_1... at 85.57%
+7	303aa, >MimuV1R48.1_1... at 82.51%
+8	330aa, >MimuV1R49.1_1... *
+9	300aa, >MimuV1R5.1_1... at 89.67%
+10	305aa, >MimuV1R7.1_1... at 86.23%
+>Cluster 43
+0	330aa, >OtgaV1R32.1_1... *
+>Cluster 44
+0	329aa, >MimuV1R61.1_1... *
+>Cluster 45
+0	329aa, >OtgaV1R37.1_1... *
+>Cluster 46
+0	329aa, >frog_V1R15... *
+>Cluster 47
+0	328aa, >opossumV1R5... *
+>Cluster 48
+0	328aa, >Mus_musculus_intact... *
+>Cluster 49
+0	327aa, >MimuV1R20.1_1... *
+1	309aa, >MimuV1R8.1_1... at 88.35%
+2	309aa, >MimuV1R92.1_1... at 81.23%
+>Cluster 50
+0	327aa, >MimuV1R228.1_1... *
+1	301aa, >MimuV1R232.1_1... at 87.38%
+2	327aa, >MimuV1R241.1_1... at 92.97%
+3	301aa, >MimuV1R245.1_1... at 85.38%
+>Cluster 51
+0	327aa, >frog_V1R16... *
+>Cluster 52
+0	327aa, >frog_V1R8... *
+1	327aa, >frog_V1R9... at 100.00%
+>Cluster 53
+0	315aa, >MimuV1R31.1_1... at 81.90%
+1	315aa, >MimuV1R35.1_1... at 83.17%
+2	325aa, >MimuV1R36.1_1... *
+3	325aa, >MimuV1R37.1_1... at 81.85%
+4	315aa, >MimuV1R97.1_1... at 80.95%
+>Cluster 54
+0	325aa, >MimuV1R38.1_1... *
+>Cluster 55
+0	325aa, >OtgaV1R18.1_1... *
+1	318aa, >OtgaV1R72.1_1... at 88.05%
+>Cluster 56
+0	324aa, >opossumV1R15... *
+1	324aa, >opossumV1R18... at 82.72%
+2	324aa, >opossumV1R19... at 84.26%
+>Cluster 57
+0	312aa, >Mus_musculus_intact... at 80.13%
+1	324aa, >Mus_musculus_intact... *
+2	306aa, >Mus_musculus_intact... at 80.39%
+3	324aa, >Mus_musculus_intact... at 86.42%
+4	312aa, >Mus_musculus_intact... at 80.45%
+>Cluster 58
+0	324aa, >Mus_musculus_intact... *
+1	308aa, >Mus_musculus_intact... at 81.82%
+>Cluster 59
+0	324aa, >frog_V1R14... *
+>Cluster 60
+0	323aa, >Atractosteus_spatul... *
+>Cluster 61
+0	323aa, >Mus_musculus_intact... *
+>Cluster 62
+0	312aa, >OtgaV1R110.1_1... at 87.82%
+1	323aa, >OtgaV1R111.1_1... *
+>Cluster 63
+0	323aa, >frog_V1R13... *
+>Cluster 64
+0	322aa, >OtgaV1R90.1_1... *
+>Cluster 65
+0	321aa, >opossumV1R44... *
+>Cluster 66
+0	307aa, >Mus_musculus_intact... at 80.46%
+1	307aa, >Mus_musculus_intact... at 83.06%
+2	297aa, >Mus_musculus_intact... at 83.16%
+3	321aa, >Mus_musculus_intact... *
+4	307aa, >Mus_musculus_intact... at 83.71%
+5	305aa, >Mus_musculus_intact... at 81.97%
+6	314aa, >Mus_musculus_intact... at 98.41%
+7	307aa, >Mus_musculus_intact... at 84.36%
+8	321aa, >Mus_musculus_intact... at 99.69%
+9	307aa, >Mus_musculus_intact... at 83.06%
+10	307aa, >Mus_musculus_intact... at 80.78%
+11	307aa, >Mus_musculus_intact... at 81.11%
+12	307aa, >Mus_musculus_intact... at 84.36%
+13	307aa, >Mus_musculus_intact... at 84.36%
+14	297aa, >Mus_musculus_intact... at 83.50%
+15	307aa, >Mus_musculus_intact... at 83.06%
+16	307aa, >Mus_musculus_intact... at 81.76%
+17	305aa, >Mus_musculus_intact... at 84.59%
+18	307aa, >Mus_musculus_intact... at 81.11%
+19	307aa, >Mus_musculus_intact... at 84.04%
+20	307aa, >Mus_musculus_intact... at 80.13%
+21	321aa, >Mus_musculus_intact... at 97.51%
+22	307aa, >Mus_musculus_intact... at 82.74%
+23	297aa, >Mus_musculus_intact... at 82.15%
+24	307aa, >Mus_musculus_intact... at 80.78%
+25	314aa, >Mus_musculus_intact... at 99.68%
+26	305aa, >Mus_musculus_intact... at 80.33%
+27	305aa, >Mus_musculus_intact... at 83.61%
+28	295aa, >Mus_musculus_intact... at 92.54%
+29	321aa, >Mus_musculus_intact... at 99.07%
+30	305aa, >Mus_musculus_intact... at 84.26%
+31	307aa, >Mus_musculus_intact... at 84.04%
+32	307aa, >Mus_musculus_intact... at 84.04%
+33	307aa, >Mus_musculus_intact... at 80.13%
+>Cluster 67
+0	321aa, >OtgaV1R115.1_1... *
+>Cluster 68
+0	321aa, >frog_V1R1... *
+>Cluster 69
+0	321aa, >frog_V1R4... *
+1	319aa, >frog_V1R5... at 81.82%
+2	320aa, >frog_V1R6... at 80.62%
+3	320aa, >frog_V1R7... at 80.62%
+>Cluster 70
+0	307aa, >cowV1R25... at 82.41%
+1	320aa, >cowV1R28... *
+>Cluster 71
+0	320aa, >Mus_musculus_intact... *
+1	310aa, >Mus_musculus_intact... at 85.16%
+2	310aa, >Mus_musculus_intact... at 83.87%
+3	310aa, >Mus_musculus_intact... at 80.65%
+4	310aa, >Mus_musculus_intact... at 85.81%
+5	310aa, >Mus_musculus_intact... at 80.65%
+6	320aa, >Mus_musculus_intact... at 82.81%
+7	300aa, >Mus_musculus_intact... at 80.00%
+>Cluster 72
+0	318aa, >OtgaV1R113.1_1... at 82.08%
+1	320aa, >OtgaV1R122.1_1... *
+>Cluster 73
+0	320aa, >OtgaV1R33.1_1... *
+>Cluster 74
+0	320aa, >TasyV1R152.1_1... *
+1	309aa, >TasyV1R154.1_1... at 96.44%
+>Cluster 75
+0	320aa, >TasyV1R262.1_1... *
+>Cluster 76
+0	310aa, >cowV1R19... at 88.71%
+1	319aa, >cowV1R23... *
+2	310aa, >cowV1R24... at 88.71%
+3	303aa, >cowV1R27... at 81.52%
+>Cluster 77
+0	319aa, >opossumV1R26... *
+>Cluster 78
+0	319aa, >opossumV1R31... *
+>Cluster 79
+0	319aa, >Atractosteus_spatul... *
+>Cluster 80
+0	314aa, >Mus_musculus_intact... at 89.17%
+1	319aa, >Mus_musculus_intact... *
+>Cluster 81
+0	319aa, >Mus_musculus_intact... *
+>Cluster 82
+0	319aa, >Mus_musculus_intact... *
+>Cluster 83
+0	319aa, >Mus_musculus_intact... *
+1	319aa, >Mus_musculus_intact... at 86.52%
+>Cluster 84
+0	319aa, >OtgaV1R41.1_1... *
+>Cluster 85
+0	306aa, >CajaV1R32.1_1... at 80.39%
+1	306aa, >CajaV1R35.1_1... at 83.99%
+2	306aa, >SaboV1R38.1_1... at 84.31%
+3	319aa, >SaboV1R39.1_1... *
+4	319aa, >SaboV1R73.1_1... at 89.03%
+>Cluster 86
+0	319aa, >frog_V1R18... *
+>Cluster 87
+0	319aa, >frog_V1R2... *
+1	319aa, >frog_V1R3... at 100.00%
+>Cluster 88
+0	318aa, >Atractosteus_spatul... *
+>Cluster 89
+0	318aa, >Mus_musculus_intact... *
+>Cluster 90
+0	318aa, >OtgaV1R17.1_1... *
+>Cluster 91
+0	318aa, >OtgaV1R54.1_1... *
+>Cluster 92
+0	317aa, >MimuV1R264.1_1... *
+>Cluster 93
+0	317aa, >MimuV1R278.1_1... *
+1	317aa, >MimuV1R281.1_1... at 83.60%
+>Cluster 94
+0	313aa, >MimuV1R32.1_1... at 89.14%
+1	317aa, >MimuV1R34.1_1... *
+>Cluster 95
+0	317aa, >MimuV1R76.1_1... *
+1	317aa, >MimuV1R83.1_1... at 83.91%
+>Cluster 96
+0	317aa, >OtgaV1R118.1_1... *
+>Cluster 97
+0	317aa, >SaboV1R53.1_1... *
+>Cluster 98
+0	317aa, >TasyV1R246.1_1... *
+>Cluster 99
+0	316aa, >dogV1R1... *
+>Cluster 100
+0	316aa, >Atractosteus_spatul... *
+>Cluster 101
+0	316aa, >Danio_rerio_Complet... *
+>Cluster 102
+0	316aa, >Mus_musculus_intact... *
+>Cluster 103
+0	316aa, >Mus_musculus_intact... *
+>Cluster 104
+0	316aa, >Mus_musculus_intact... *
+1	316aa, >Mus_musculus_intact... at 85.76%
+2	316aa, >Mus_musculus_intact... at 86.08%
+>Cluster 105
+0	316aa, >OtgaV1R123.1_1... *
+>Cluster 106
+0	315aa, >Mus_musculus_intact... *
+1	303aa, >Mus_musculus_intact... at 88.78%
+>Cluster 107
+0	315aa, >Mus_musculus_intact... *
+>Cluster 108
+0	315aa, >OtgaV1R69.1_1... *
+>Cluster 109
+0	311aa, >TasyV1R286.1_1... at 80.71%
+1	315aa, >TasyV1R54.1_1... *
+>Cluster 110
+0	315aa, >frog_V1R17... *
+>Cluster 111
+0	314aa, >opossumV1R25... *
+>Cluster 112
+0	314aa, >opossumV1R43... *
+1	305aa, >opossumV1R46... at 82.30%
+2	302aa, >opossumV1R47... at 83.77%
+>Cluster 113
+0	314aa, >RhroV1R50.1_1... *
+>Cluster 114
+0	314aa, >TasyV1R176.1_1... *
+>Cluster 115
+0	314aa, >TasyV1R192.1_1... *
+1	314aa, >TasyV1R194.1_1... at 80.25%
+>Cluster 116
+0	314aa, >TuchV1R3.1_1... *
+1	314aa, >TuchV1R5.1_1... at 92.36%
+>Cluster 117
+0	313aa, >Mus_musculus_intact... *
+1	313aa, >Mus_musculus_intact... at 95.21%
+2	313aa, >Mus_musculus_intact... at 96.49%
+>Cluster 118
+0	313aa, >Mus_musculus_intact... *
+1	313aa, >Mus_musculus_intact... at 87.22%
+2	303aa, >Mus_musculus_intact... at 84.16%
+3	304aa, >Mus_musculus_intact... at 83.88%
+>Cluster 119
+0	313aa, >Mus_musculus_intact... *
+>Cluster 120
+0	313aa, >Mus_musculus_intact... *
+>Cluster 121
+0	313aa, >MimuV1R255.1_1... *
+1	313aa, >MimuV1R265.1_1... at 87.22%
+>Cluster 122
+0	313aa, >MimuV1R266.1_1... *
+>Cluster 123
+0	307aa, >OtgaV1R128.1_1... at 85.67%
+1	312aa, >OtgaV1R129.1_1... at 84.94%
+2	313aa, >OtgaV1R131.1_1... *
+>Cluster 124
+0	313aa, >OtgaV1R52.1_1... *
+>Cluster 125
+0	313aa, >OtgaV1R57.1_1... *
+>Cluster 126
+0	313aa, >OtgaV1R62.1_1... *
+>Cluster 127
+0	313aa, >OtgaV1R93.1_1... *
+>Cluster 128
+0	313aa, >SaboV1R62.1_1... *
+>Cluster 129
+0	313aa, >TasyV1R155.1_1... *
+1	313aa, >TasyV1R41.1_1... at 100.00%
+>Cluster 130
+0	313aa, >TasyV1R178.1_1... *
+1	313aa, >TasyV1R25.1_1... at 83.71%
+>Cluster 131
+0	313aa, >TasyV1R18.1_1... *
+>Cluster 132
+0	313aa, >TasyV1R201.1_1... *
+>Cluster 133
+0	313aa, >TasyV1R256.1_1... *
+>Cluster 134
+0	313aa, >TasyV1R60.1_1... *
+>Cluster 135
+0	313aa, >TuchV1R10.1_1... *
+>Cluster 136
+0	313aa, >TuchV1R2.1_1... *
+>Cluster 137
+0	312aa, >opossumV1R6... *
+>Cluster 138
+0	279aa, >Mus_musculus_intact... at 80.29%
+1	312aa, >Mus_musculus_intact... *
+2	312aa, >Mus_musculus_intact... at 81.09%
+3	312aa, >Mus_musculus_intact... at 80.45%
+4	298aa, >Mus_musculus_intact... at 81.54%
+>Cluster 139
+0	312aa, >Mus_musculus_intact... *
+>Cluster 140
+0	312aa, >Mus_musculus_intact... *
+1	298aa, >Mus_musculus_intact... at 87.25%
+>Cluster 141
+0	312aa, >OtgaV1R53.1_1... *
+>Cluster 142
+0	312aa, >OtgaV1R58.1_1... *
+>Cluster 143
+0	311aa, >cowV1R4... *
+>Cluster 144
+0	311aa, >cowV1R10... *
+>Cluster 145
+0	309aa, >opossumV1R1... at 81.55%
+1	311aa, >opossumV1R2... *
+>Cluster 146
+0	311aa, >Mus_musculus_intact... *
+1	311aa, >Mus_musculus_intact... at 82.64%
+2	303aa, >Mus_musculus_intact... at 86.14%
+3	299aa, >Mus_musculus_intact... at 97.66%
+>Cluster 147
+0	311aa, >Mus_musculus_intact... *
+1	300aa, >Mus_musculus_intact... at 89.00%
+>Cluster 148
+0	311aa, >Mus_musculus_intact... *
+>Cluster 149
+0	311aa, >Mus_musculus_intact... *
+>Cluster 150
+0	310aa, >Mus_musculus_intact... at 82.26%
+1	311aa, >Mus_musculus_intact... *
+2	311aa, >Mus_musculus_intact... at 99.68%
+>Cluster 151
+0	311aa, >OtgaV1R100.1_1... *
+>Cluster 152
+0	311aa, >OtgaV1R76.1_1... *
+1	310aa, >OtgaV1R78.1_1... at 84.19%
+2	291aa, >OtgaV1R81.1_1... at 86.94%
+>Cluster 153
+0	310aa, >SaboV1R21.1_1... at 84.19%
+1	311aa, >SaboV1R22.1_1... *
+>Cluster 154
+0	311aa, >TuchV1R31.1_1... *
+1	304aa, >TuchV1R56.1_1... at 91.45%
+>Cluster 155
+0	311aa, >TuchV1R70.1_1... *
+>Cluster 156
+0	310aa, >dogV1R2... *
+>Cluster 157
+0	310aa, >opossumV1R28... *
+>Cluster 158
+0	310aa, >Mus_musculus_intact... *
+1	309aa, >Mus_musculus_intact... at 80.91%
+2	310aa, >Mus_musculus_intact... at 83.23%
+3	310aa, >Mus_musculus_intact... at 83.55%
+4	310aa, >Mus_musculus_intact... at 83.23%
+>Cluster 159
+0	302aa, >Mus_musculus_intact... at 85.10%
+1	310aa, >Mus_musculus_intact... *
+2	302aa, >Mus_musculus_intact... at 95.03%
+>Cluster 160
+0	310aa, >Mus_musculus_intact... *
+>Cluster 161
+0	310aa, >Mus_musculus_intact... *
+>Cluster 162
+0	310aa, >MimuV1R128.1_1... *
+>Cluster 163
+0	310aa, >PapaV1R73.1_1... *
+1	310aa, >PatrV1R88.1_1... at 99.03%
+>Cluster 164
+0	309aa, >opossumV1R21... *
+>Cluster 165
+0	309aa, >Mus_musculus_intact... *
+1	309aa, >Mus_musculus_intact... at 96.76%
+2	309aa, >Mus_musculus_intact... at 89.97%
+>Cluster 166
+0	302aa, >Mus_musculus_intact... at 85.76%
+1	309aa, >Mus_musculus_intact... *
+2	296aa, >Mus_musculus_intact... at 88.85%
+3	305aa, >Mus_musculus_intact... at 86.23%
+4	302aa, >Mus_musculus_intact... at 88.41%
+>Cluster 167
+0	279aa, >Mus_musculus_intact... at 94.62%
+1	309aa, >Mus_musculus_intact... *
+>Cluster 168
+0	309aa, >OtgaV1R117.1_1... *
+1	306aa, >OtgaV1R120.1_1... at 89.54%
+>Cluster 169
+0	309aa, >OtgaV1R60.1_1... *
+>Cluster 170
+0	309aa, >OtgaV1R70.1_1... *
+>Cluster 171
+0	301aa, >HosaV1R68.1_1... at 90.37%
+1	301aa, >PoabV1R75.1_1... at 96.68%
+2	309aa, >PoabV1R93.1_1... *
+>Cluster 172
+0	309aa, >frog_V1R19... *
+1	309aa, >frog_V1R20... at 80.26%
+>Cluster 173
+0	308aa, >cowV1R6... *
+>Cluster 174
+0	308aa, >dogV1R3... *
+>Cluster 175
+0	308aa, >Mus_musculus_intact... *
+>Cluster 176
+0	308aa, >Mus_musculus_intact... *
+1	308aa, >Mus_musculus_intact... at 89.94%
+>Cluster 177
+0	299aa, >Mus_musculus_intact... at 82.61%
+1	308aa, >Mus_musculus_intact... *
+2	302aa, >Mus_musculus_intact... at 83.44%
+>Cluster 178
+0	301aa, >Mus_musculus_intact... at 82.06%
+1	306aa, >Mus_musculus_intact... at 85.95%
+2	308aa, >Mus_musculus_intact... *
+>Cluster 179
+0	308aa, >Mus_musculus_intact... *
+>Cluster 180
+0	308aa, >MimuV1R226.1_1... *
+>Cluster 181
+0	308aa, >OtgaV1R64.1_1... *
+>Cluster 182
+0	307aa, >cowV1R11... *
+>Cluster 183
+0	307aa, >cowV1R16... *
+1	301aa, >cowV1R26... at 87.38%
+>Cluster 184
+0	307aa, >dogV1R8... *
+>Cluster 185
+0	307aa, >opossumV1R34... *
+>Cluster 186
+0	305aa, >Mus_musculus_intact... at 84.26%
+1	307aa, >Mus_musculus_intact... *
+2	306aa, >Mus_musculus_intact... at 86.93%
+3	306aa, >Mus_musculus_intact... at 84.97%
+4	306aa, >Mus_musculus_intact... at 84.97%
+5	307aa, >Mus_musculus_intact... at 95.44%
+6	295aa, >Mus_musculus_intact... at 83.39%
+7	307aa, >Mus_musculus_intact... at 95.77%
+8	306aa, >Mus_musculus_intact... at 84.97%
+9	307aa, >Mus_musculus_intact... at 93.16%
+10	305aa, >Mus_musculus_intact... at 85.90%
+11	307aa, >Mus_musculus_intact... at 84.04%
+12	307aa, >Mus_musculus_intact... at 83.71%
+13	305aa, >Mus_musculus_intact... at 85.90%
+14	305aa, >Mus_musculus_intact... at 83.93%
+15	305aa, >Mus_musculus_intact... at 84.59%
+16	306aa, >Mus_musculus_intact... at 85.29%
+17	305aa, >Mus_musculus_intact... at 86.23%
+18	307aa, >Mus_musculus_intact... at 84.69%
+19	305aa, >Mus_musculus_intact... at 85.57%
+20	307aa, >Mus_musculus_intact... at 84.69%
+21	306aa, >Mus_musculus_intact... at 84.64%
+>Cluster 187
+0	307aa, >Mus_musculus_intact... *
+1	303aa, >Mus_musculus_intact... at 88.78%
+>Cluster 188
+0	307aa, >Mus_musculus_intact... *
+>Cluster 189
+0	307aa, >Mus_musculus_intact... *
+>Cluster 190
+0	307aa, >MimuV1R122.1_1... *
+>Cluster 191
+0	307aa, >OtgaV1R116.1_1... *
+>Cluster 192
+0	307aa, >OtgaV1R87.1_1... *
+>Cluster 193
+0	307aa, >SaboV1R23.1_1... *
+>Cluster 194
+0	307aa, >TasyV1R51.1_1... *
+>Cluster 195
+0	307aa, >TuchV1R32.1_1... *
+>Cluster 196
+0	306aa, >cowV1R9... *
+>Cluster 197
+0	306aa, >opossumV1R4... *
+>Cluster 198
+0	306aa, >opossumV1R9... *
+>Cluster 199
+0	306aa, >Mus_musculus_intact... *
+>Cluster 200
+0	306aa, >Mus_musculus_intact... *
+1	306aa, >Mus_musculus_intact... at 96.08%
+2	306aa, >Mus_musculus_intact... at 97.39%
+3	306aa, >Mus_musculus_intact... at 97.71%
+>Cluster 201
+0	306aa, >Mus_musculus_intact... *
+>Cluster 202
+0	306aa, >Mus_musculus_intact... *
+>Cluster 203
+0	306aa, >Mus_musculus_intact... *
+1	306aa, >Mus_musculus_intact... at 99.67%
+>Cluster 204
+0	306aa, >Mus_musculus_intact... *
+>Cluster 205
+0	306aa, >Mus_musculus_intact... *
+1	306aa, >Mus_musculus_intact... at 82.35%
+>Cluster 206
+0	306aa, >CajaV1R30.1_1... *
+1	302aa, >SaboV1R36.1_1... at 87.75%
+>Cluster 207
+0	306aa, >GogoV1R82.1_1... *
+1	306aa, >PatrV1R168.1_1... at 98.37%
+2	306aa, >PatrV1R28.1_1... at 98.04%
+3	306aa, >PatrV1R31.1_1... at 98.37%
+4	305aa, >SaboV1R72.1_1... at 82.62%
+>Cluster 208
+0	306aa, >MimuV1R287.1_1... *
+>Cluster 209
+0	306aa, >PoabV1R66.1_1... *
+>Cluster 210
+0	305aa, >cowV1R30... *
+>Cluster 211
+0	305aa, >opossumV1R24... *
+1	305aa, >opossumV1R49... at 97.70%
+>Cluster 212
+0	304aa, >Mus_musculus_intact... at 84.87%
+1	305aa, >Mus_musculus_intact... *
+>Cluster 213
+0	305aa, >Mus_musculus_intact... *
+1	302aa, >Mus_musculus_intact... at 86.75%
+2	305aa, >Mus_musculus_intact... at 85.25%
+>Cluster 214
+0	305aa, >Mus_musculus_intact... *
+>Cluster 215
+0	305aa, >Mus_musculus_intact... *
+>Cluster 216
+0	305aa, >CajaV1R41.1_1... *
+>Cluster 217
+0	305aa, >MimuV1R267.1_1... *
+>Cluster 218
+0	305aa, >OtgaV1R55.1_1... *
+1	305aa, >OtgaV1R56.1_1... at 95.08%
+>Cluster 219
+0	305aa, >TasyV1R206.1_1... *
+>Cluster 220
+0	305aa, >TasyV1R255.1_1... *
+>Cluster 221
+0	304aa, >cowV1R18... *
+>Cluster 222
+0	304aa, >opossumV1R7... *
+1	298aa, >opossumV1R16... at 85.57%
+>Cluster 223
+0	304aa, >opossumV1R10... *
+>Cluster 224
+0	304aa, >opossumV1R45... *
+>Cluster 225
+0	304aa, >Mus_musculus_intact... *
+1	304aa, >Mus_musculus_intact... at 91.45%
+2	304aa, >Mus_musculus_intact... at 92.43%
+3	304aa, >Mus_musculus_intact... at 95.07%
+4	304aa, >Mus_musculus_intact... at 92.43%
+5	304aa, >Mus_musculus_intact... at 89.80%
+>Cluster 226
+0	304aa, >Mus_musculus_intact... *
+>Cluster 227
+0	304aa, >Mus_musculus_intact... *
+>Cluster 228
+0	304aa, >Mus_musculus_intact... *
+>Cluster 229
+0	304aa, >Mus_musculus_intact... *
+>Cluster 230
+0	304aa, >MimuV1R247.1_1... *
+>Cluster 231
+0	304aa, >OtgaV1R114.1_1... *
+>Cluster 232
+0	304aa, >OtgaV1R121.1_1... *
+>Cluster 233
+0	304aa, >OtgaV1R74.1_1... *
+>Cluster 234
+0	304aa, >PoabV1R40.1_1... *
+>Cluster 235
+0	304aa, >SaboV1R37.1_1... *
+>Cluster 236
+0	304aa, >TuchV1R21.1_1... *
+1	304aa, >TuchV1R23.1_1... at 88.49%
+>Cluster 237
+0	303aa, >cowV1R13... *
+>Cluster 238
+0	303aa, >opossumV1R29... *
+>Cluster 239
+0	303aa, >opossumV1R30... *
+>Cluster 240
+0	303aa, >opossumV1R32... *
+>Cluster 241
+0	303aa, >opossumV1R35... *
+>Cluster 242
+0	303aa, >Danio_rerio_Complet... *
+>Cluster 243
+0	303aa, >Mus_musculus_intact... *
+1	303aa, >Mus_musculus_intact... at 88.12%
+>Cluster 244
+0	299aa, >Mus_musculus_intact... at 80.27%
+1	303aa, >Mus_musculus_intact... *
+2	303aa, >Mus_musculus_intact... at 85.81%
+3	303aa, >Mus_musculus_intact... at 84.82%
+4	303aa, >Mus_musculus_intact... at 89.77%
+>Cluster 245
+0	303aa, >Mus_musculus_intact... *
+>Cluster 246
+0	303aa, >Mus_musculus_intact... *
+>Cluster 247
+0	303aa, >MimuV1R189.1_1... *
+1	302aa, >MimuV1R190.1_1... at 81.79%
+2	302aa, >MimuV1R192.1_1... at 81.79%
+3	302aa, >MimuV1R193.1_1... at 81.79%
+4	302aa, >MimuV1R194.1_1... at 82.45%
+5	302aa, >MimuV1R195.1_1... at 81.46%
+6	302aa, >MimuV1R273.1_1... at 84.11%
+>Cluster 248
+0	303aa, >TuchV1R66.1_1... *
+>Cluster 249
+0	302aa, >cowV1R12... *
+>Cluster 250
+0	302aa, >cowV1R14... *
+>Cluster 251
+0	302aa, >cowV1R17... *
+>Cluster 252
+0	275aa, >Mus_musculus_intact... at 86.91%
+1	302aa, >Mus_musculus_intact... *
+2	302aa, >Mus_musculus_intact... at 83.11%
+3	302aa, >Mus_musculus_intact... at 87.09%
+4	298aa, >Mus_musculus_intact... at 83.89%
+5	302aa, >Mus_musculus_intact... at 87.42%
+>Cluster 253
+0	302aa, >Mus_musculus_intact... *
+1	302aa, >Mus_musculus_intact... at 91.06%
+>Cluster 254
+0	302aa, >Mus_musculus_intact... *
+1	302aa, >Mus_musculus_intact... at 91.06%
+>Cluster 255
+0	302aa, >MimuV1R230.1_1... *
+1	302aa, >MimuV1R294.1_1... at 86.75%
+2	302aa, >MimuV1R44.1_1... at 97.35%
+>Cluster 256
+0	301aa, >MimuV1R234.1_1... at 92.69%
+1	302aa, >MimuV1R235.1_1... *
+2	301aa, >MimuV1R236.1_1... at 84.39%
+3	302aa, >MimuV1R240.1_1... at 81.13%
+4	302aa, >MimuV1R243.1_1... at 83.44%
+>Cluster 257
+0	302aa, >NoleV1R11.1_1... *
+1	293aa, >PapaV1R77.1_1... at 91.81%
+2	302aa, >PoabV1R31.1_1... at 92.05%
+>Cluster 258
+0	302aa, >OtgaV1R40.1_1... *
+>Cluster 259
+0	302aa, >OtgaV1R75.1_1... *
+>Cluster 260
+0	302aa, >TasyV1R254.1_1... *
+>Cluster 261
+0	302aa, >TasyV1R258.1_1... *
+>Cluster 262
+0	302aa, >TasyV1R31.1_1... *
+>Cluster 263
+0	301aa, >Mus_musculus_intact... *
+>Cluster 264
+0	301aa, >MimuV1R233.1_1... *
+1	301aa, >MimuV1R244.1_1... at 82.39%
+2	301aa, >MimuV1R9.1_1... at 97.67%
+>Cluster 265
+0	301aa, >MimuV1R293.1_1... *
+>Cluster 266
+0	300aa, >CajaV1R46.1_1... at 89.33%
+1	301aa, >SaboV1R48.1_1... *
+>Cluster 267
+0	301aa, >TasyV1R170.1_1... *
+>Cluster 268
+0	300aa, >opossumV1R20... *
+>Cluster 269
+0	300aa, >Mus_musculus_intact... *
+>Cluster 270
+0	300aa, >Mus_musculus_intact... *
+1	300aa, >Mus_musculus_intact... at 83.33%
+2	300aa, >Mus_musculus_intact... at 84.33%
+3	300aa, >Mus_musculus_intact... at 86.00%
+4	298aa, >Mus_musculus_intact... at 82.55%
+>Cluster 271
+0	300aa, >CajaV1R28.1_1... *
+1	300aa, >SaboV1R47.1_1... at 97.67%
+>Cluster 272
+0	300aa, >MimuV1R121.1_1... *
+1	300aa, >MimuV1R89.1_1... at 92.67%
+>Cluster 273
+0	300aa, >MimuV1R248.1_1... *
+>Cluster 274
+0	300aa, >MimuV1R71.1_1... *
+>Cluster 275
+0	300aa, >OtgaV1R89.1_1... *
+>Cluster 276
+0	300aa, >OtgaV1R92.1_1... *
+>Cluster 277
+0	300aa, >OtgaV1R96.1_1... *
+>Cluster 278
+0	300aa, >TasyV1R219.1_1... *
+>Cluster 279
+0	300aa, >TuchV1R30.1_1... *
+>Cluster 280
+0	299aa, >cowV1R5... *
+>Cluster 281
+0	299aa, >dogV1R4... *
+>Cluster 282
+0	299aa, >Danio_rerio_Complet... *
+>Cluster 283
+0	299aa, >Mus_musculus_intact... *
+>Cluster 284
+0	299aa, >TuchV1R15.1_1... *
+1	287aa, >TuchV1R89.1_1... at 89.55%
+>Cluster 285
+0	298aa, >opossumV1R11... *
+>Cluster 286
+0	298aa, >opossumV1R17... *
+>Cluster 287
+0	298aa, >opossumV1R22... *
+>Cluster 288
+0	298aa, >opossumV1R23... *
+>Cluster 289
+0	298aa, >opossumV1R40... *
+>Cluster 290
+0	298aa, >Mus_musculus_intact... *
+>Cluster 291
+0	298aa, >Mus_musculus_intact... *
+1	298aa, >Mus_musculus_intact... at 86.91%
+>Cluster 292
+0	298aa, >Mus_musculus_intact... *
+>Cluster 293
+0	298aa, >Mus_musculus_intact... *
+>Cluster 294
+0	298aa, >Mus_musculus_intact... *
+>Cluster 295
+0	298aa, >Mus_musculus_intact... *
+>Cluster 296
+0	298aa, >OtgaV1R31.1_1... *
+>Cluster 297
+0	298aa, >TuchV1R43.1_1... *
+>Cluster 298
+0	297aa, >cowV1R31... *
+>Cluster 299
+0	297aa, >opossumV1R12... *
+>Cluster 300
+0	297aa, >Mus_musculus_intact... *
+>Cluster 301
+0	297aa, >Mus_musculus_intact... *
+>Cluster 302
+0	296aa, >cowV1R1... *
+>Cluster 303
+0	296aa, >cowV1R21... *
+1	271aa, >cowV1R32... at 81.55%
+>Cluster 304
+0	296aa, >Mus_musculus_intact... *
+>Cluster 305
+0	296aa, >Mus_musculus_intact... *
+>Cluster 306
+0	296aa, >MimuV1R256.1_1... *
+>Cluster 307
+0	296aa, >TuchV1R74.1_1... *
+>Cluster 308
+0	295aa, >cowV1R3... *
+>Cluster 309
+0	295aa, >cowV1R20... *
+>Cluster 310
+0	295aa, >dogV1R5... *
+>Cluster 311
+0	295aa, >Mus_musculus_intact... *
+>Cluster 312
+0	294aa, >cowV1R15... *
+>Cluster 313
+0	294aa, >opossumV1R13... *
+1	294aa, >opossumV1R14... at 92.86%
+>Cluster 314
+0	293aa, >opossumV1R33... *
+>Cluster 315
+0	293aa, >OtgaV1R77.1_1... *
+>Cluster 316
+0	291aa, >NoleV1R4.1_1... *
+>Cluster 317
+0	290aa, >opossumV1R37... *
+>Cluster 318
+0	290aa, >opossumV1R42... *
+>Cluster 319
+0	289aa, >Mus_musculus_intact... *
+>Cluster 320
+0	287aa, >opossumV1R8... *
+>Cluster 321
+0	287aa, >TasyV1R92.1_1... *
+>Cluster 322
+0	287aa, >TuchV1R80.1_1... *
+>Cluster 323
+0	285aa, >dogV1R7... *
+>Cluster 324
+0	285aa, >opossumV1R48... *
+>Cluster 325
+0	279aa, >cowV1R2... *
+1	275aa, >cowV1R7... at 90.18%
+>Cluster 326
+0	279aa, >cowV1R8... *
+>Cluster 327
+0	278aa, >cowV1R22... *
+>Cluster 328
+0	274aa, >opossumV1R39... *
+>Cluster 329
+0	261aa, >cowV1R29... *

@@ -1,0 +1,2 @@
+This software was licensed for private study, education or non-profit research only,
+granted to Maxime Policarpo, who agreed to these conditions on http://software.sbc.su.se/cgi-bin/request.cgi?project=phobius

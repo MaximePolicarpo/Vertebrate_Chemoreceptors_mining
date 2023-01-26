@@ -1,0 +1,1386 @@
+>Cluster 0
+0	377aa, >Lo_T2R3... *
+>Cluster 1
+0	348aa, >Cod_Tas2r2... at 100.00%
+1	326aa, >Cod_Tas2r4... at 71.78%
+2	349aa, >Gm_T2R4... at 70.77%
+3	376aa, >Gm_T2R5... *
+>Cluster 2
+0	320aa, >zebrafish_Tas2r2... at 80.00%
+1	320aa, >zebrafish_Tas2r4... at 100.00%
+2	331aa, >Dr_T2R2... at 79.76%
+3	355aa, >Dr_T2R5... *
+>Cluster 3
+0	315aa, >Chimpanzee_Tas2r3... at 71.43%
+1	316aa, >Cow_Tas2r3... at 71.84%
+2	316aa, >Dog_Tas2r3... at 85.13%
+3	316aa, >Ferret_Tas2r3... at 89.24%
+4	315aa, >Gibbons_Tas2r3... at 71.11%
+5	315aa, >Gorilla_Tas2r3... at 71.43%
+6	315aa, >Horse_Tas2r3a... at 79.05%
+7	315aa, >Human_Tas2r3... at 71.43%
+8	314aa, >Marmoset_Tas2r3... at 71.02%
+9	316aa, >Megabat_Tas2r3... at 71.84%
+10	316aa, >Mouselemur_Tas2r3... at 72.47%
+11	315aa, >Orangutan_Tas2r3... at 71.43%
+12	353aa, >Panda_Tas2r3... *
+13	316aa, >Pig_Tas2r3... at 76.58%
+14	311aa, >Tarsier_Tas2r3... at 74.60%
+>Cluster 4
+0	349aa, >Dog_Tas2r43... *
+1	303aa, >Ferret_Tas2r14... at 75.91%
+2	307aa, >Ferret_Tas2r19... at 73.94%
+3	309aa, >Panda_Tas2r31... at 73.46%
+4	305aa, >Panda_Tas2r43... at 74.10%
+>Cluster 5
+0	338aa, >Chimpanzee_Tas2r39... at 70.12%
+1	320aa, >Dog_Tas2r39... at 71.88%
+2	338aa, >Gorilla_Tas2r39... at 70.12%
+3	338aa, >Human_Tas2r39... at 70.12%
+4	319aa, >Megabat_Tas2r39... at 70.53%
+5	349aa, >Squirrel_Tas2r39... *
+>Cluster 6
+0	327aa, >Cod_Tas2r1... at 72.17%
+1	298aa, >Cod_Tas2r3... at 100.00%
+2	349aa, >Gm_T2R3... *
+3	327aa, >Gm_T2R6... at 72.17%
+>Cluster 7
+0	347aa, >Cow_Tas2r39... *
+1	319aa, >Horse_Tas2r39... at 72.41%
+2	347aa, >Pig_Tas2r39... at 70.61%
+>Cluster 8
+0	347aa, >Kangaroorat_Tas2r14... *
+>Cluster 9
+0	345aa, >Bushbaby_Tas2r56... *
+1	318aa, >Chimpanzee_Tas2r60... at 72.01%
+2	318aa, >Gorilla_Tas2r56... at 72.64%
+3	318aa, >Human_Tas2r56... at 73.27%
+4	318aa, >Orangutan_Tas2r56... at 71.70%
+5	318aa, >Rhesus_Tas2r56... at 72.01%
+>Cluster 10
+0	342aa, >Dr_T2R6... *
+>Cluster 11
+0	340aa, >Guineapig_Tas2r152... *
+>Cluster 12
+0	308aa, >Guineapig_Tas2r14a... at 71.43%
+1	339aa, >Guineapig_Tas2r140... *
+>Cluster 13
+0	316aa, >Dog_Tas2r38... at 71.84%
+1	334aa, >Ferret_Tas2r38... at 70.96%
+2	331aa, >Mouse_Tas2r138... at 70.69%
+3	339aa, >Nakedmole_rat_Tas2r... *
+4	334aa, >Panda_Tas2r38... at 72.46%
+5	331aa, >rat_Tas2r138... at 71.30%
+6	337aa, >Tarsier_Tas2r38... at 72.11%
+7	332aa, >Treeshrew_Tas2r38... at 72.29%
+>Cluster 14
+0	321aa, >Chicken_Tas2r3... at 79.44%
+1	339aa, >Turkey_Tas2r9... *
+>Cluster 15
+0	311aa, >Gibbons_Tas2r39... at 92.60%
+1	338aa, >Rhesus_Tas2r39... *
+>Cluster 16
+0	337aa, >Cat_Tas2r9... *
+1	312aa, >Chimpanzee_Tas2r9... at 70.51%
+2	327aa, >Ferret_Tas2r9... at 71.25%
+3	312aa, >Gibbons_Tas2r9... at 71.47%
+4	311aa, >Horse_Tas2r9... at 70.42%
+5	311aa, >Megabat_Tas2r9... at 72.35%
+6	331aa, >Panda_Tas2r9... at 76.44%
+7	310aa, >Rhesus_Tas2r9... at 71.29%
+>Cluster 17
+0	335aa, >Cow_Tas2r3a... *
+1	335aa, >Microbat_Tas2r38... at 72.24%
+2	335aa, >Pig_Tas2r38... at 74.33%
+>Cluster 18
+0	332aa, >Frog_Tas2r30... at 91.57%
+1	335aa, >Frog_Tas2r32... *
+>Cluster 19
+0	335aa, >Megabat_Tas2r38... *
+>Cluster 20
+0	334aa, >Mouse_Tas2r1A... at 85.33%
+1	335aa, >rat_Tas2r119... *
+>Cluster 21
+0	334aa, >Hyrax_Tas2r138... *
+>Cluster 22
+0	296aa, >Alpaca_Tas2r2... at 70.27%
+1	304aa, >Cat_Tas2r2... at 72.70%
+2	304aa, >Ferret_Tas2r2... at 75.33%
+3	301aa, >Horse_Tas2r2... at 71.43%
+4	302aa, >Marmoset_Tas2r2... at 70.86%
+5	334aa, >Microbat_Tas2r2... *
+6	303aa, >Orangutan_Tas2r2... at 72.28%
+7	304aa, >Panda_Tas2r2... at 73.36%
+8	303aa, >Treeshrew_Tas2r2... at 71.29%
+>Cluster 23
+0	323aa, >Dog_Tas2r42... at 72.76%
+1	306aa, >Horse_Tas2r42a(6... at 72.22%
+2	315aa, >Megabat_Tas2r42... at 75.56%
+3	334aa, >Microbat_Tas2r42... *
+>Cluster 24
+0	334aa, >Pika_Tas2r62... *
+1	331aa, >Rabbit_Tas2r41... at 75.83%
+>Cluster 25
+0	334aa, >Shrew_Tas2r38... *
+>Cluster 26
+0	333aa, >Bushbaby_Tas2r38... *
+1	333aa, >Gibbons_Tas2r38... at 71.17%
+2	333aa, >Gorilla_Tas2r38... at 72.07%
+3	333aa, >Human_Tas2r38... at 71.47%
+4	333aa, >Marmoset_Tas2r38... at 71.47%
+5	333aa, >Mouselemur_Tas2r38... at 77.18%
+6	313aa, >Orangutan_Tas2r38... at 71.25%
+>Cluster 27
+0	315aa, >Horse_Tas2r134... at 75.24%
+1	318aa, >Horse_Tas2r134a... at 70.75%
+2	333aa, >Horse_Tas2r39A... *
+>Cluster 28
+0	333aa, >Mouse_Tas2r26... *
+1	333aa, >Mouse_Tas2r28... at 76.28%
+2	333aa, >rat_Tas2r110... at 72.97%
+3	333aa, >rat_Tas2r123... at 79.88%
+>Cluster 29
+0	333aa, >Shrew_Tas2r4... *
+>Cluster 30
+0	315aa, >Rhesus_Tas2r3... at 71.43%
+1	333aa, >Squirrel_Tas2r137... *
+>Cluster 31
+0	333aa, >Am_T2R3a... *
+>Cluster 32
+0	333aa, >Am_T2R3c... *
+>Cluster 33
+0	332aa, >Hedgehog_Tas2r138... *
+>Cluster 34
+0	312aa, >Microbat_Tas2r8... at 88.78%
+1	332aa, >Microbat_Tas2r9... *
+2	309aa, >Microbat_Tas2r13... at 88.35%
+3	309aa, >Microbat_Tas2r14... at 90.61%
+4	307aa, >Microbat_Tas2r18... at 82.74%
+5	310aa, >Microbat_Tas2r42A... at 90.65%
+>Cluster 35
+0	332aa, >Shrew_Tas2r11... *
+1	332aa, >Shrew_Tas2r11A... at 86.14%
+2	319aa, >Shrew_Tas2r11B... at 84.95%
+3	332aa, >Shrew_Tas2r11C... at 82.23%
+>Cluster 36
+0	332aa, >Tarsier_Tas2r67... *
+>Cluster 37
+0	332aa, >Am_T2R3b... *
+>Cluster 38
+0	332aa, >Am_T2R3k... *
+>Cluster 39
+0	314aa, >anole_lizard_Tas2r4... at 74.52%
+1	331aa, >anole_lizard_Tas2r1... *
+>Cluster 40
+0	331aa, >Sloth_Tas2r138... *
+>Cluster 41
+0	331aa, >Am_T2R4b... *
+>Cluster 42
+0	330aa, >Frog_Tas2r4... *
+>Cluster 43
+0	330aa, >Mouse_Tas2r117... *
+1	318aa, >rat_Tas2r117... at 73.58%
+>Cluster 44
+0	305aa, >Mouse_Tas2r23... at 74.75%
+1	330aa, >rat_Tas2r136... *
+>Cluster 45
+0	330aa, >Terec_Tas2r38... *
+>Cluster 46
+0	298aa, >Mouse_Tas2r134... at 81.21%
+1	329aa, >rat_Tas2r134... *
+>Cluster 47
+0	329aa, >Wallbaby_Tas2r140... *
+>Cluster 48
+0	329aa, >Am_T2R3f... *
+>Cluster 49
+0	317aa, >Frog_Tas2r44... at 76.03%
+1	316aa, >Frog_Tas2r45... at 78.16%
+2	328aa, >Frog_Tas2r46... *
+>Cluster 50
+0	328aa, >Guineapig_Tas2r9... *
+1	328aa, >Guineapig_Tas2r125... at 93.60%
+>Cluster 51
+0	328aa, >Opossum_Tas2r23... *
+>Cluster 52
+0	328aa, >Pika_Tas2r67... *
+>Cluster 53
+0	328aa, >Tasmaniandevil_Tas2... *
+>Cluster 54
+0	322aa, >Opossum_Tas2r39... at 78.26%
+1	328aa, >Tasmaniandevil_Tas2... *
+>Cluster 55
+0	328aa, >Treeshrew_Tas2r9... *
+>Cluster 56
+0	328aa, >Pf_T2R1... *
+1	325aa, >Xm_T2R1... at 89.23%
+>Cluster 57
+0	327aa, >Sh_T2R1... at 91.44%
+1	328aa, >Pm_T2R1... *
+2	328aa, >Ps_T2R1... at 95.43%
+3	328aa, >Bp_T2R1... at 91.77%
+>Cluster 58
+0	328aa, >Lo_T2R2... *
+>Cluster 59
+0	327aa, >Mouse_Tas2r22... *
+1	327aa, >rat_Tas2r102... at 75.54%
+2	314aa, >rat_Tas2r13... at 78.03%
+>Cluster 60
+0	320aa, >Bushbaby_Tas2r7... at 72.50%
+1	325aa, >Chimpanzee_Tas2r7... *
+2	318aa, >Gibbons_Tas2r7... at 96.23%
+3	318aa, >Gorilla_Tas2r7... at 97.48%
+4	312aa, >Guineapig_Tas2r7... at 73.40%
+5	318aa, >Human_Tas2r7... at 98.74%
+6	312aa, >Marmoset_Tas2r7... at 89.74%
+7	287aa, >Marmoset_Tas2r39A... at 86.06%
+8	312aa, >Microbat_Tas2r7... at 76.92%
+9	312aa, >Nakedmole_rat_Tas2r... at 73.08%
+10	318aa, >Orangutan_Tas2r7... at 97.17%
+11	312aa, >Pig_Tas2r7... at 73.08%
+12	303aa, >Rabbit_Tas2r130... at 78.22%
+13	318aa, >Rhesus_Tas2r7... at 93.40%
+14	312aa, >Sloth_Tas2r10... at 72.76%
+15	312aa, >Squirrel_Tas2r7... at 76.60%
+>Cluster 61
+0	325aa, >Kangaroorat_Tas2r13... *
+>Cluster 62
+0	325aa, >Squirrel_Tas2r10... *
+>Cluster 63
+0	325aa, >Ol_T2R1... *
+>Cluster 64
+0	325aa, >Am_T2R3i... *
+>Cluster 65
+0	324aa, >Alpaca_Tas2r39... *
+>Cluster 66
+0	306aa, >anole_lizard_Tas2r2... at 80.72%
+1	324aa, >anole_lizard_Tas2r6... *
+2	324aa, >anole_lizard_Tas2r8... at 95.68%
+3	324aa, >anole_lizard_Tas2r1... at 79.01%
+>Cluster 67
+0	324aa, >Nakedmole_rat_Tas2r... *
+>Cluster 68
+0	303aa, >Ferret_Tas2r42... at 81.85%
+1	324aa, >Panda_Tas2r42... *
+>Cluster 69
+0	324aa, >Rabbit_Tas2r67... *
+>Cluster 70
+0	305aa, >Mouse_Tas2r27... at 73.44%
+1	324aa, >rat_Tas2r116... *
+>Cluster 71
+0	324aa, >Shrew_Tas2r4A... *
+>Cluster 72
+0	324aa, >Lo_T2R1... *
+>Cluster 73
+0	324aa, >Am_T2R1... *
+>Cluster 74
+0	324aa, >Dr_T2R1... *
+>Cluster 75
+0	319aa, >Bushbaby_Tas2r58... at 75.86%
+1	323aa, >Chimpanzee_Tas2r40... *
+2	306aa, >Dog_Tas2r40... at 76.14%
+3	323aa, >Gibbons_Tas2r40... at 97.21%
+4	323aa, >Gorilla_Tas2r40... at 99.38%
+5	318aa, >Horse_Tas2r40... at 79.25%
+6	323aa, >Human_Tas2r40... at 99.38%
+7	323aa, >Manatee_Tas2r40... at 71.21%
+8	323aa, >Marmoset_Tas2r40... at 93.19%
+9	318aa, >Megabat_Tas2r40... at 76.42%
+10	317aa, >Microbat_Tas2r40... at 76.97%
+11	323aa, >Mouselemur_Tas2r40... at 76.78%
+12	323aa, >Orangutan_Tas2r40... at 98.14%
+13	318aa, >Panda_Tas2r40... at 76.73%
+14	323aa, >Rhesus_Tas2r40... at 95.36%
+15	321aa, >Tarsier_Tas2r40... at 83.80%
+16	271aa, >Treeshrew_Tas2r40... at 77.86%
+>Cluster 76
+0	323aa, >Guineapig_Tas2r40... *
+1	323aa, >Nakedmole_rat_Tas2r... at 72.45%
+>Cluster 77
+0	309aa, >Alpaca_Tas2r10... at 71.20%
+1	310aa, >Armadillo_Tas2r10... at 71.61%
+2	322aa, >Dog_Tas2r10... at 89.13%
+3	321aa, >Ferret_Tas2r10... at 79.44%
+4	299aa, >Microbat_Tas2r10... at 73.24%
+5	322aa, >Orangutan_Tas2r10... at 70.19%
+6	323aa, >Panda_Tas2r10... *
+7	309aa, >Pig_Tas2r10... at 75.08%
+>Cluster 78
+0	323aa, >Pika_Tas2r144... *
+>Cluster 79
+0	321aa, >Takifugu_Tas2r1... at 72.90%
+1	323aa, >Pufferfish_Tas2r1... *
+2	321aa, >Tr_T2R1... at 72.90%
+3	323aa, >Tn_T2R1... at 100.00%
+>Cluster 80
+0	323aa, >Stickleback_Tas2r3... *
+1	323aa, >Ga_T2R3... at 100.00%
+>Cluster 81
+0	322aa, >Hyrax_Tas2r143A... *
+>Cluster 82
+0	322aa, >Manatee_Tas2r143... *
+>Cluster 83
+0	322aa, >Opossum_Tas2r38... *
+1	320aa, >Tasmaniandevil_Tas2... at 76.25%
+>Cluster 84
+0	322aa, >Am_T2R2... *
+>Cluster 85
+0	321aa, >Cod_Tas2r5... *
+1	321aa, >Gm_T2R2... at 100.00%
+>Cluster 86
+0	321aa, >Frog_Tas2r16... *
+>Cluster 87
+0	301aa, >anole_lizard_Tas2r2... at 73.42%
+1	300aa, >anole_lizard_Tas2r2... at 76.33%
+2	300aa, >anole_lizard_Tas2r3... at 75.67%
+3	298aa, >anole_lizard_Tas2r1... at 76.51%
+4	321aa, >anole_lizard_Tas2r3... *
+5	296aa, >anole_lizard_Tas2r1... at 76.01%
+6	298aa, >anole_lizard_Tas2r2... at 76.51%
+7	295aa, >anole_lizard_Tas2r3... at 74.24%
+>Cluster 88
+0	321aa, >Manatee_Tas2r39a... *
+>Cluster 89
+0	312aa, >Mouse_Tas2r9... at 93.27%
+1	321aa, >rat_Tas2r135... *
+>Cluster 90
+0	321aa, >rat_Tas2r14... *
+>Cluster 91
+0	321aa, >Am_T2R3d... *
+>Cluster 92
+0	321aa, >Am_T2R3g... *
+>Cluster 93
+0	321aa, >Am_T2R4d... *
+>Cluster 94
+0	320aa, >Frog_Tas2r15... *
+>Cluster 95
+0	320aa, >Horse_Tas2r14... *
+>Cluster 96
+0	320aa, >Mouse_Tas2r33... *
+1	315aa, >rat_Tas2r129... at 78.10%
+>Cluster 97
+0	320aa, >Opossum_Tas2r40... *
+1	319aa, >Tasmaniandevil_Tas2... at 80.56%
+>Cluster 98
+0	316aa, >Mouse_Tas2r35... at 75.00%
+1	320aa, >rat_Tas2r109... *
+>Cluster 99
+0	319aa, >Bushbaby_Tas2r14... *
+>Cluster 100
+0	319aa, >Bushbaby_Tas2r40... *
+1	314aa, >Bushbaby_Tas2r41... at 78.98%
+>Cluster 101
+0	319aa, >Chimpanzee_Tas2r30... *
+1	309aa, >Chimpanzee_Tas2r43... at 80.58%
+2	272aa, >Chimpanzee_Tas2r45... at 81.62%
+3	309aa, >Chimpanzee_Tas2r451... at 80.58%
+4	309aa, >Chimpanzee_Tas2r66... at 85.76%
+5	319aa, >Gibbons_Tas2r66... at 91.22%
+6	319aa, >Gorilla_Tas2r30... at 98.75%
+7	309aa, >Gorilla_Tas2r31... at 78.32%
+8	309aa, >Gorilla_Tas2r46... at 85.76%
+9	309aa, >Human_Tas2r43... at 79.61%
+10	309aa, >Human_Tas2r44... at 78.96%
+11	299aa, >Human_Tas2r45... at 80.94%
+12	309aa, >Human_Tas2r46... at 85.76%
+13	319aa, >Human_Tas2r47... at 97.49%
+14	310aa, >Marmoset_Tas2r66... at 76.13%
+15	309aa, >Orangutan_Tas2r31... at 81.23%
+16	313aa, >Orangutan_Tas2r31b... at 83.07%
+17	309aa, >Orangutan_Tas2r31c... at 80.91%
+18	309aa, >Rhesus_Tas2r47... at 80.91%
+19	303aa, >Rhesus_Tas2r8... at 77.56%
+20	309aa, >Rhesus_Tas2r43... at 77.02%
+21	308aa, >Rhesus_Tas2r43A... at 81.17%
+22	308aa, >Rhesus_Tas2r46... at 82.79%
+23	309aa, >Rhesus_Tas2r46A... at 77.67%
+>Cluster 102
+0	319aa, >Frog_Tas2r8... *
+>Cluster 103
+0	319aa, >Medium_ground_finch... *
+1	299aa, >Zebra_Finch_Tas2r4... at 70.57%
+2	313aa, >Zebra_Finch_Tas2r6... at 84.66%
+>Cluster 104
+0	317aa, >Medium_ground_finch... at 78.55%
+1	319aa, >Medium_ground_finch... *
+>Cluster 105
+0	319aa, >Megabat_Tas2r7a... *
+>Cluster 106
+0	319aa, >Megabat_Tas2r31... *
+1	278aa, >Megabat_Tas2r45... at 73.74%
+>Cluster 107
+0	319aa, >Microbat_Tas2r39... *
+>Cluster 108
+0	319aa, >Mouse_Tas2r6... *
+1	319aa, >rat_Tas2r139(6)... at 84.95%
+>Cluster 109
+0	319aa, >Mouse_Tas2r7... *
+1	319aa, >rat_Tas2r144(6)... at 88.09%
+>Cluster 110
+0	317aa, >Chimpanzee_Tas2r14... at 82.33%
+1	318aa, >Gibbons_Tas2r14... at 85.22%
+2	317aa, >Gorilla_Tas2r14... at 82.97%
+3	317aa, >Human_Tas2r14... at 83.28%
+4	318aa, >Orangutan_Tas2r14... at 81.76%
+5	319aa, >Rhesus_Tas2r14... *
+>Cluster 111
+0	318aa, >Kangaroorat_Tas2r56... *
+>Cluster 112
+0	318aa, >Mouselemur_Tas2r62... *
+>Cluster 113
+0	318aa, >Pika_Tas2r131... *
+>Cluster 114
+0	309aa, >Chimpanzee_Tas2r8... at 85.11%
+1	309aa, >Gorilla_Tas2r8... at 87.70%
+2	309aa, >Human_Tas2r8... at 85.11%
+3	309aa, >Marmoset_Tas2r8... at 82.85%
+4	309aa, >Marmoset_Tas2r9a... at 83.17%
+5	309aa, >Mouselemur_Tas2r8... at 72.49%
+6	309aa, >Orangutan_Tas2r8... at 90.29%
+7	318aa, >Rhesus_Tas2r8A... *
+8	309aa, >Tarsier_Tas2r8... at 71.20%
+>Cluster 115
+0	311aa, >Alpaca_Tas2r7... at 70.74%
+1	312aa, >Dog_Tas2r7... at 74.04%
+2	312aa, >Ferret_Tas2r7... at 73.08%
+3	312aa, >Horse_Tas2r5... at 75.00%
+4	308aa, >Hyrax_Tas2r7... at 70.78%
+5	312aa, >Megabat_Tas2r7... at 73.72%
+6	312aa, >Panda_Tas2r7... at 74.68%
+7	309aa, >Pika_Tas2r7... at 71.52%
+8	316aa, >Shrew_Tas2r10... at 88.61%
+9	318aa, >Shrew_Tas2r10B... *
+>Cluster 116
+0	318aa, >Am_T2R3o... *
+>Cluster 117
+0	317aa, >Armadillo_Tas2r14... *
+>Cluster 118
+0	317aa, >Coelacanth_Tas2r1... *
+>Cluster 119
+0	317aa, >Frog_Tas2r6... *
+>Cluster 120
+0	317aa, >Guineapig_Tas2r60... *
+>Cluster 121
+0	317aa, >Hedgehog_Tas2r3... *
+>Cluster 122
+0	317aa, >anole_lizard_Tas2r7... *
+>Cluster 123
+0	317aa, >Pufferfish_Tas2r2... *
+1	313aa, >Pufferfish_Tas2r4... at 73.80%
+2	317aa, >Pufferfish_Tas2r5... at 94.32%
+3	317aa, >Tn_T2R2... at 100.00%
+4	313aa, >Tn_T2R4... at 73.80%
+5	317aa, >Tn_T2R5... at 94.32%
+>Cluster 124
+0	312aa, >Human_Tas2r9... at 73.08%
+1	312aa, >Orangutan_Tas2r9... at 73.72%
+2	317aa, >Rabbit_Tas2r9... *
+>Cluster 125
+0	317aa, >Zebra_Finch_Tas2r7... *
+>Cluster 126
+0	317aa, >On_T2R1... *
+>Cluster 127
+0	317aa, >Gm_T2R1... *
+>Cluster 128
+0	317aa, >Am_T2R4c... *
+>Cluster 129
+0	316aa, >Bushbaby_Tas2r117... *
+1	316aa, >Bushbaby_Tas2r13... at 99.05%
+>Cluster 130
+0	316aa, >Bushbaby_Tas2r3... *
+>Cluster 131
+0	316aa, >Bushbaby_Tas2r62... *
+>Cluster 132
+0	316aa, >Takifugu_Tas2r3... *
+1	316aa, >Tr_T2R3... at 100.00%
+>Cluster 133
+0	316aa, >Microbat_Tas2r3... *
+>Cluster 134
+0	316aa, >Mouse_Tas2r3... *
+1	316aa, >rat_Tas2r3... at 88.29%
+>Cluster 135
+0	311aa, >Guineapig_Tas2r3... at 74.92%
+1	316aa, >Nakedmole_rat_Tas2r... *
+>Cluster 136
+0	308aa, >Opossum_Tas2r3D... at 70.45%
+1	316aa, >Opossum_Tas2r3F... *
+>Cluster 137
+0	316aa, >Pig_Tas2r42... *
+>Cluster 138
+0	316aa, >Pika_Tas2r138... *
+>Cluster 139
+0	316aa, >Rabbit_Tas2r3... *
+>Cluster 140
+0	310aa, >Mouse_Tas2r34... at 80.00%
+1	316aa, >rat_Tas2r131... *
+>Cluster 141
+0	316aa, >Sloth_Tas2r122... *
+>Cluster 142
+0	316aa, >Stickleback_Tas2r1... *
+1	313aa, >Stickleback_Tas2r2... at 87.22%
+2	316aa, >Ga_T2R1... at 100.00%
+3	313aa, >Ga_T2R2... at 87.22%
+>Cluster 143
+0	316aa, >Tarsier_Tas2r31... *
+>Cluster 144
+0	316aa, >Tasmaniandevil_Tas2... *
+>Cluster 145
+0	316aa, >Terec_Tas2r8... *
+1	316aa, >Terec_Tas2r139... at 88.92%
+>Cluster 146
+0	316aa, >Turtle_Tas2r7... *
+>Cluster 147
+0	291aa, >Frog_Tas2r25... at 87.29%
+1	315aa, >Frog_Tas2r51... *
+2	293aa, >Frog_Tas2r54... at 92.83%
+>Cluster 148
+0	315aa, >Frog_Tas2r58... *
+>Cluster 149
+0	315aa, >Guineapig_Tas2r123... *
+>Cluster 150
+0	315aa, >Hyrax_Tas2r3... *
+>Cluster 151
+0	315aa, >Nakedmole_rat_Tas2r... *
+>Cluster 152
+0	315aa, >Opossum_Tas2r41... *
+1	314aa, >Tasmaniandevil_Tas2... at 75.80%
+2	315aa, >Wallbaby_Tas2r126... at 70.16%
+>Cluster 153
+0	315aa, >Opossum_Tas2r7... *
+1	311aa, >Opossum_Tas2r7A... at 73.95%
+2	315aa, >Opossum_Tas2r7B... at 76.83%
+>Cluster 154
+0	315aa, >Pika_Tas2r14... *
+>Cluster 155
+0	315aa, >Pufferfish_Tas2r3... *
+1	315aa, >Tn_T2R3... at 100.00%
+>Cluster 156
+0	315aa, >Rabbit_Tas2r116... *
+>Cluster 157
+0	315aa, >Tasmaniandevil_Tas2... *
+>Cluster 158
+0	315aa, >Turtle_Tas2r4... *
+>Cluster 159
+0	315aa, >Wallbaby_Tas2r7... *
+1	315aa, >Wallbaby_Tas2r42... at 89.84%
+>Cluster 160
+0	315aa, >Wallbaby_Tas2r41... *
+>Cluster 161
+0	315aa, >Am_T2R3h... *
+>Cluster 162
+0	314aa, >Armadillo_Tas2r4... *
+1	299aa, >Chimpanzee_Tas2r4... at 71.24%
+2	306aa, >Horse_Tas2r4... at 70.59%
+3	299aa, >Human_Tas2r4... at 70.57%
+>Cluster 163
+0	314aa, >Dog_Tas2r12... *
+1	311aa, >Ferret_Tas2r122... at 81.03%
+2	311aa, >Panda_Tas2r12... at 80.71%
+>Cluster 164
+0	314aa, >Frog_Tas2r36... *
+>Cluster 165
+0	314aa, >Guineapig_Tas2r7a... *
+>Cluster 166
+0	314aa, >Guineapig_Tas2r40a... *
+>Cluster 167
+0	302aa, >Gorilla_Tas2r42... at 81.79%
+1	314aa, >Human_Tas2r55... *
+2	314aa, >Marmoset_Tas2r42... at 77.07%
+3	314aa, >Orangutan_Tas2r42... at 94.59%
+4	314aa, >Rhesus_Tas2r55... at 86.94%
+>Cluster 168
+0	314aa, >Hyrax_Tas2r62... *
+>Cluster 169
+0	314aa, >Opossum_Tas2r27... *
+>Cluster 170
+0	314aa, >Opossum_Tas2r33... *
+>Cluster 171
+0	314aa, >Opossum_Tas2r1... *
+>Cluster 172
+0	312aa, >Cow_Tas2r56... at 72.44%
+1	314aa, >Pig_Tas2r56... *
+>Cluster 173
+0	314aa, >Rabbit_Tas2r129... *
+>Cluster 174
+0	314aa, >Treeshrew_Tas2r56... *
+>Cluster 175
+0	304aa, >Treeshrew_Tas2r117... at 74.01%
+1	314aa, >Treeshrew_Tas2r123... *
+>Cluster 176
+0	314aa, >Wallbaby_Tas2r20... *
+>Cluster 177
+0	314aa, >Lc_T2R01... *
+>Cluster 178
+0	313aa, >Bushbaby_Tas2r67... *
+1	306aa, >Mouselemur_Tas2r67... at 72.88%
+>Cluster 179
+0	313aa, >Cow_Tas2r46A... *
+>Cluster 180
+0	313aa, >Hedgehog_Tas2r18... *
+>Cluster 181
+0	304aa, >Horse_Tas2r143... at 86.51%
+1	313aa, >Horse_Tas2r11... *
+>Cluster 182
+0	313aa, >anole_lizard_Tas2r1... *
+1	301aa, >anole_lizard_Tas2r6... at 80.40%
+>Cluster 183
+0	313aa, >Pig_Tas2r62... *
+>Cluster 184
+0	313aa, >Sloth_Tas2r113... *
+>Cluster 185
+0	313aa, >Squirrel_Tas2r30... *
+>Cluster 186
+0	313aa, >Squirrel_Tas2r106... *
+>Cluster 187
+0	304aa, >Orangutan_Tas2r18... at 72.70%
+1	313aa, >Tarsier_Tas2r18... *
+>Cluster 188
+0	313aa, >Terec_Tas2r67... *
+>Cluster 189
+0	313aa, >Treeshrew_Tas2r11... *
+>Cluster 190
+0	313aa, >zebrafish_Tas2r3... *
+1	313aa, >Dr_T2R3a... at 100.00%
+2	313aa, >Dr_T2R3b... at 96.49%
+>Cluster 191
+0	312aa, >Bushbaby_Tas2r12... *
+>Cluster 192
+0	312aa, >Cat_Tas2r42... *
+1	312aa, >Cat_Tas2r18... at 99.68%
+2	312aa, >Dog_Tas2r67... at 73.40%
+3	311aa, >Ferret_Tas2r67... at 71.70%
+>Cluster 193
+0	312aa, >Chimpanzee_Tas2r62... *
+1	312aa, >Gibbons_Tas2r62... at 92.95%
+2	312aa, >Gorilla_Tas2r43... at 97.44%
+3	304aa, >Marmoset_Tas2r62... at 82.57%
+4	312aa, >Orangutan_Tas2r62... at 94.23%
+5	304aa, >Rhesus_Tas2r62... at 87.83%
+>Cluster 194
+0	312aa, >Cow_Tas2r42... *
+>Cluster 195
+0	312aa, >Frog_Tas2r5... *
+>Cluster 196
+0	312aa, >Horse_Tas2r7a... *
+1	311aa, >Horse_Tas2r9A... at 75.56%
+2	311aa, >Horse_Tas2r12... at 75.88%
+>Cluster 197
+0	312aa, >Mouse_Tas2r11... *
+1	312aa, >rat_Tas2r130... at 93.27%
+>Cluster 198
+0	312aa, >Mouse_Tas2r38... *
+1	312aa, >rat_Tas2r103... at 77.24%
+>Cluster 199
+0	312aa, >Mouse_Tas2r39... *
+1	312aa, >rat_Tas2r140... at 79.17%
+>Cluster 200
+0	312aa, >Nakedmole_rat_Tas2r... *
+>Cluster 201
+0	312aa, >Opossum_Tas2r3A... *
+>Cluster 202
+0	296aa, >Pika_Tas2r120... at 72.30%
+1	312aa, >Rabbit_Tas2r30... *
+>Cluster 203
+0	312aa, >Rabbit_Tas2r109... *
+>Cluster 204
+0	312aa, >Shrew_Tas2r13... *
+>Cluster 205
+0	312aa, >Shrew_Tas2r120... *
+>Cluster 206
+0	312aa, >Squirrel_Tas2r129... *
+>Cluster 207
+0	300aa, >Bushbaby_Tas2r6... at 72.00%
+1	308aa, >Bushbaby_Tas2r10... at 71.75%
+2	304aa, >Bushbaby_Tas2r101... at 71.71%
+3	311aa, >Bushbaby_Tas2r103... *
+4	311aa, >Bushbaby_Tas2r104... at 76.21%
+5	306aa, >Bushbaby_Tas2r105... at 74.18%
+>Cluster 208
+0	311aa, >Chicken_Tas2r1... *
+>Cluster 209
+0	311aa, >Chicken_Tas2r2... *
+1	311aa, >Turkey_Tas2r2... at 97.75%
+>Cluster 210
+0	311aa, >Mouse_Tas2r31... *
+1	310aa, >rat_Tas2r125... at 76.13%
+>Cluster 211
+0	309aa, >Guineapig_Tas2r130... at 77.67%
+1	311aa, >Nakedmole_rat_Tas2r... *
+2	310aa, >Nakedmole_rat_Tas2r... at 78.06%
+>Cluster 212
+0	311aa, >Opossum_Tas2r29... *
+>Cluster 213
+0	311aa, >Opossum_Tas2r22... *
+>Cluster 214
+0	311aa, >Pig_Tas2r9... *
+>Cluster 215
+0	306aa, >Shrew_Tas2r8... at 83.33%
+1	294aa, >Shrew_Tas2r8A... at 87.07%
+2	311aa, >Shrew_Tas2r8b... *
+>Cluster 216
+0	311aa, >Shrew_Tas2r11D... *
+>Cluster 217
+0	311aa, >Tasmaniandevil_Tas2... *
+>Cluster 218
+0	311aa, >Terec_Tas2r3... *
+>Cluster 219
+0	311aa, >Turtle_Tas2r136... *
+>Cluster 220
+0	311aa, >Wallbaby_Tas2r119... *
+>Cluster 221
+0	310aa, >Medium_ground_finch... at 74.19%
+1	311aa, >Zebra_Finch_Tas2r1... *
+2	310aa, >Zebra_Finch_Tas2r3... at 76.45%
+3	310aa, >Zebra_Finch_Tas2r8... at 78.71%
+>Cluster 222
+0	310aa, >Coelacanth_Tas2r4... *
+>Cluster 223
+0	310aa, >Cow_Tas2r105... *
+1	299aa, >Cow_Tas2r10... at 78.60%
+>Cluster 224
+0	310aa, >anole_lizard_Tas2r4... *
+>Cluster 225
+0	309aa, >anole_lizard_Tas2r2... at 76.70%
+1	310aa, >anole_lizard_Tas2r4... *
+2	309aa, >anole_lizard_Tas2r1... at 88.67%
+>Cluster 226
+0	310aa, >Medium_ground_finch... *
+>Cluster 227
+0	310aa, >Microbat_Tas2r11... *
+>Cluster 228
+0	307aa, >Microbat_Tas2r16... at 86.97%
+1	310aa, >Microbat_Tas2r16a... *
+2	310aa, >Microbat_Tas2r16B... at 89.68%
+3	310aa, >Microbat_Tas2r62... at 90.00%
+>Cluster 229
+0	310aa, >Mouse_Tas2r20... *
+>Cluster 230
+0	310aa, >Nakedmole_rat_Tas2r... *
+>Cluster 231
+0	310aa, >Opossum_Tas2r24... *
+>Cluster 232
+0	310aa, >Pig_Tas2r12... *
+>Cluster 233
+0	310aa, >Rabbit_Tas2r117... *
+>Cluster 234
+0	310aa, >Shrew_Tas2r122... *
+>Cluster 235
+0	310aa, >Turtle_Tas2r8... *
+>Cluster 236
+0	310aa, >Pm_T2R2b... *
+1	304aa, >Bp_T2R2b... at 78.62%
+2	303aa, >Sh_T2R2b... at 72.94%
+3	303aa, >Ps_T2R2b... at 87.79%
+4	303aa, >Pm_T2R2c... at 86.80%
+>Cluster 237
+0	299aa, >Chimpanzee_Tas2r19... at 88.29%
+1	309aa, >Chimpanzee_Tas2r49... *
+2	299aa, >Gorilla_Tas2r19... at 85.62%
+3	298aa, >Human_Tas2r48... at 85.57%
+4	299aa, >Rhesus_Tas2r64... at 85.28%
+>Cluster 238
+0	309aa, >Cow_Tas2r10b... *
+>Cluster 239
+0	309aa, >Cow_Tas2r12... *
+>Cluster 240
+0	309aa, >Cow_Tas2r46c... *
+>Cluster 241
+0	308aa, >Chimpanzee_Tas2r20... at 93.83%
+1	309aa, >Gibbons_Tas2r20... *
+2	309aa, >Gorilla_Tas2r20... at 93.85%
+3	308aa, >Human_Tas2r49... at 93.18%
+4	308aa, >Marmoset_Tas2r19... at 81.17%
+5	309aa, >Orangutan_Tas2r46... at 91.59%
+6	309aa, >Rhesus_Tas2r49... at 85.76%
+>Cluster 242
+0	309aa, >Guineapig_Tas2r10A... *
+1	309aa, >Guineapig_Tas2r10B... at 79.29%
+2	308aa, >Guineapig_Tas2r12A... at 83.77%
+3	309aa, >Nakedmole_rat_Tas2r... at 72.82%
+>Cluster 243
+0	309aa, >Hedgehog_Tas2r113... *
+>Cluster 244
+0	309aa, >Hyrax_Tas2r62A... *
+>Cluster 245
+0	309aa, >Kangaroorat_Tas2r25... *
+>Cluster 246
+0	294aa, >anole_lizard_Tas2r1... at 88.78%
+1	304aa, >anole_lizard_Tas2r3... at 86.51%
+2	309aa, >anole_lizard_Tas2r1... *
+>Cluster 247
+0	309aa, >Microbat_Tas2r50... *
+1	305aa, >Microbat_Tas2r63... at 70.49%
+>Cluster 248
+0	309aa, >Microbat_Tas2r67... *
+>Cluster 249
+0	309aa, >Mouse_Tas2r16... *
+1	309aa, >rat_Tas2r114... at 84.14%
+>Cluster 250
+0	309aa, >Mouse_Tas2r19... *
+>Cluster 251
+0	309aa, >Mouse_Tas2r21... *
+1	309aa, >rat_Tas2r124... at 81.55%
+>Cluster 252
+0	309aa, >Mouse_Tas2r29... *
+1	309aa, >rat_Tas2r113... at 78.96%
+>Cluster 253
+0	306aa, >Horse_Tas2r8... at 74.84%
+1	309aa, >Panda_Tas2r8... *
+>Cluster 254
+0	309aa, >Platypus_Tas2r1... *
+>Cluster 255
+0	309aa, >Rabbit_Tas2r10... *
+>Cluster 256
+0	309aa, >Rabbit_Tas2r14... *
+>Cluster 257
+0	309aa, >Rabbit_Tas2r31... *
+>Cluster 258
+0	309aa, >Rabbit_Tas2r122... *
+>Cluster 259
+0	300aa, >Mouse_Tas2r15... at 83.67%
+1	309aa, >rat_Tas2r105... *
+>Cluster 260
+0	309aa, >Squirrel_Tas2r116... *
+>Cluster 261
+0	309aa, >Tasmaniandevil_Tas2... *
+>Cluster 262
+0	307aa, >Treeshrew_Tas2r46... at 73.94%
+1	309aa, >Treeshrew_Tas2r68... *
+>Cluster 263
+0	309aa, >Treeshrew_Tas2r136... *
+>Cluster 264
+0	309aa, >Treeshrew_Tas2r10... *
+>Cluster 265
+0	297aa, >Turtle_Tas2r12... at 85.86%
+1	297aa, >Turtle_Tas2r18... at 75.08%
+2	309aa, >Turtle_Tas2r30... *
+3	309aa, >Turtle_Tas2r46... at 87.06%
+4	309aa, >Turtle_Tas2r62... at 82.52%
+>Cluster 266
+0	309aa, >Wallbaby_Tas2r7a... *
+>Cluster 267
+0	309aa, >Am_T2R5a... *
+>Cluster 268
+0	308aa, >Armadillo_Tas2r41... *
+1	307aa, >Chimpanzee_Tas2r41... at 71.99%
+2	308aa, >Dog_Tas2r41... at 74.03%
+3	307aa, >Gibbons_Tas2r41... at 70.68%
+4	307aa, >Gorilla_Tas2r41... at 71.01%
+5	307aa, >Hedgehog_Tas2r41... at 74.59%
+6	307aa, >Human_Tas2r41... at 70.68%
+7	307aa, >Megabat_Tas2r41... at 73.62%
+8	308aa, >Microbat_Tas2r41... at 74.35%
+9	308aa, >Microbat_Tas2r126... at 71.10%
+10	308aa, >Mouse_Tas2r10... at 70.13%
+11	308aa, >Mouselemur_Tas2r41... at 72.73%
+12	308aa, >Panda_Tas2r41... at 77.92%
+13	307aa, >Pig_Tas2r41... at 75.57%
+14	308aa, >rat_Tas2r126(6)... at 71.43%
+15	308aa, >Tarsier_Tas2r41... at 73.38%
+>Cluster 269
+0	308aa, >Cow_Tas2r7... *
+>Cluster 270
+0	308aa, >Frog_Tas2r3... *
+1	308aa, >Frog_Tas2r39... at 99.03%
+>Cluster 271
+0	308aa, >Frog_Tas2r34... *
+>Cluster 272
+0	308aa, >Takifugu_Tas2r4... *
+1	308aa, >Tr_T2R4... at 100.00%
+>Cluster 273
+0	293aa, >Guineapig_Tas2r19... at 80.89%
+1	308aa, >Guineapig_Tas2r19b... *
+2	297aa, >Guineapig_Tas2r19c... at 85.52%
+>Cluster 274
+0	308aa, >Guineapig_Tas2r41... *
+1	308aa, >Nakedmole_rat_Tas2r... at 73.05%
+>Cluster 275
+0	308aa, >Hedgehog_Tas2r7... *
+>Cluster 276
+0	308aa, >Kangaroorat_Tas2r8... *
+>Cluster 277
+0	308aa, >Manatee_Tas2r30... *
+>Cluster 278
+0	308aa, >Mouse_Tas2r12... *
+1	308aa, >rat_Tas2r107... at 85.39%
+>Cluster 279
+0	308aa, >Mouse_Tas2r13... *
+1	307aa, >rat_Tas2r106... at 84.36%
+>Cluster 280
+0	308aa, >Opossum_Tas2r28... *
+>Cluster 281
+0	308aa, >Platypus_Tas2r62... *
+1	308aa, >Platypus_Tas2r143... at 76.62%
+>Cluster 282
+0	308aa, >Rabbit_Tas2r125... *
+>Cluster 283
+0	308aa, >Squirrel_Tas2r41... *
+>Cluster 284
+0	308aa, >Squirrel_Tas2r110... *
+>Cluster 285
+0	308aa, >Terec_Tas2r15... *
+>Cluster 286
+0	308aa, >Wallbaby_Tas2r9... *
+>Cluster 287
+0	305aa, >Sh_T2R2a... at 75.41%
+1	308aa, >Bp_T2R2a... *
+>Cluster 288
+0	307aa, >Chimpanzee_Tas2r10... *
+1	307aa, >Gibbons_Tas2r10... at 92.83%
+2	307aa, >Gorilla_Tas2r10... at 96.09%
+3	307aa, >Human_Tas2r10... at 96.09%
+4	307aa, >Marmoset_Tas2r10... at 73.94%
+5	307aa, >Rhesus_Tas2r10... at 90.55%
+>Cluster 289
+0	307aa, >Frog_Tas2r14... *
+>Cluster 290
+0	307aa, >Hyrax_Tas2r41... *
+>Cluster 291
+0	307aa, >Marmoset_Tas2r4... *
+1	307aa, >Orangutan_Tas2r41... at 79.80%
+2	307aa, >Rhesus_Tas2r41... at 77.52%
+>Cluster 292
+0	307aa, >Nakedmole_rat_Tas2r... *
+>Cluster 293
+0	307aa, >Opossum_Tas2r38a... *
+1	307aa, >Opossum_Tas2r3H... at 83.39%
+>Cluster 294
+0	307aa, >Opossum_Tas2r25... *
+>Cluster 295
+0	307aa, >Pika_Tas2r129... *
+>Cluster 296
+0	303aa, >Platypus_Tas2r3... at 75.25%
+1	307aa, >Platypus_Tas2r41A... *
+2	307aa, >Platypus_Tas2r41A1... at 100.00%
+3	307aa, >Platypus_Tas2r56... at 72.96%
+>Cluster 297
+0	307aa, >Tasmaniandevil_Tas2... *
+>Cluster 298
+0	307aa, >Turtle_Tas2r42... *
+>Cluster 299
+0	306aa, >Ps_T2R2a... at 86.27%
+1	307aa, >Pm_T2R2a... *
+>Cluster 300
+0	297aa, >Bushbaby_Tas2r4... at 71.04%
+1	306aa, >Cat_Tas2r4... *
+2	300aa, >Ferret_Tas2r4... at 78.67%
+3	299aa, >Gorilla_Tas2r4... at 72.91%
+4	299aa, >Marmoset_Tas2r4A... at 70.90%
+5	299aa, >Panda_Tas2r4... at 83.28%
+6	296aa, >Pig_Tas2r4... at 73.31%
+7	299aa, >Rhesus_Tas2r4... at 72.58%
+8	299aa, >Squirrel_Tas2r4... at 72.91%
+9	299aa, >Tarsier_Tas2r4... at 70.23%
+10	299aa, >Treeshrew_Tas2r4... at 74.25%
+>Cluster 301
+0	306aa, >Frog_Tas2r2... *
+1	306aa, >Frog_Tas2r2a... at 98.04%
+2	306aa, >Frog_Tas2r10... at 89.87%
+>Cluster 302
+0	306aa, >Frog_Tas2r11... *
+>Cluster 303
+0	306aa, >Frog_Tas2r13... *
+>Cluster 304
+0	306aa, >Frog_Tas2r33... *
+>Cluster 305
+0	306aa, >Takifugu_Tas2r2... *
+1	306aa, >Tr_T2R2... at 100.00%
+>Cluster 306
+0	306aa, >Guineapig_Tas2r13... *
+>Cluster 307
+0	306aa, >Hedgehog_Tas2r47... *
+>Cluster 308
+0	306aa, >Kangaroorat_Tas2r46... *
+>Cluster 309
+0	306aa, >Pika_Tas2r30... *
+>Cluster 310
+0	306aa, >Rabbit_Tas2r4... *
+>Cluster 311
+0	306aa, >Rabbit_Tas2r18... *
+>Cluster 312
+0	306aa, >Rabbit_Tas2r20... *
+>Cluster 313
+0	306aa, >Tasmaniandevil_Tas2... *
+>Cluster 314
+0	306aa, >Tasmaniandevil_Tas2... *
+>Cluster 315
+0	306aa, >Wallbaby_Tas2r139... *
+>Cluster 316
+0	305aa, >Cow_Tas2r20... *
+>Cluster 317
+0	305aa, >Cow_Tas2r46... *
+>Cluster 318
+0	305aa, >Frog_Tas2r4a... *
+>Cluster 319
+0	305aa, >Frog_Tas2r37... *
+>Cluster 320
+0	305aa, >Hedgehog_Tas2r66... *
+>Cluster 321
+0	305aa, >Hedgehog_Tas2r120... *
+>Cluster 322
+0	305aa, >Kangaroorat_Tas2r14... *
+>Cluster 323
+0	305aa, >Mouse_Tas2r18... *
+1	305aa, >rat_Tas2r121... at 82.30%
+>Cluster 324
+0	305aa, >Opossum_Tas2r56... *
+1	303aa, >Tasmaniandevil_Tas2... at 72.94%
+>Cluster 325
+0	305aa, >Opossum_Tas2r2... *
+>Cluster 326
+0	305aa, >Opossum_Tas2r4... *
+1	303aa, >Tasmaniandevil_Tas2... at 75.25%
+>Cluster 327
+0	305aa, >Rabbit_Tas2r13... *
+>Cluster 328
+0	305aa, >Rabbit_Tas2r15... *
+1	305aa, >Rabbit_Tas2r64... at 95.08%
+>Cluster 329
+0	305aa, >Tasmaniandevil_Tas2... *
+>Cluster 330
+0	305aa, >Tasmaniandevil_Tas2... *
+>Cluster 331
+0	305aa, >zebrafish_Tas2r1... *
+1	305aa, >Dr_T2R4... at 100.00%
+>Cluster 332
+0	304aa, >Frog_Tas2r35... *
+>Cluster 333
+0	304aa, >Hedgehog_Tas2r3A... *
+>Cluster 334
+0	304aa, >Microbat_Tas2r15A... *
+1	304aa, >Microbat_Tas2r20... at 92.76%
+>Cluster 335
+0	304aa, >Pig_Tas2r46... *
+>Cluster 336
+0	304aa, >Pika_Tas2r121... *
+>Cluster 337
+0	304aa, >Pika_Tas2r119... *
+>Cluster 338
+0	304aa, >Rabbit_Tas2r1... *
+>Cluster 339
+0	297aa, >Mouse_Tas2r108... at 88.22%
+1	304aa, >rat_Tas2r108... *
+>Cluster 340
+0	304aa, >Shrew_Tas2r135... *
+>Cluster 341
+0	303aa, >Bushbaby_Tas2r71... *
+1	303aa, >Dog_Tas2r2... at 72.61%
+2	303aa, >Gorilla_Tas2r2... at 78.22%
+>Cluster 342
+0	303aa, >Chimpanzee_Tas2r13... *
+1	303aa, >Gibbons_Tas2r13... at 94.72%
+2	303aa, >Gorilla_Tas2r13... at 95.71%
+3	303aa, >Human_Tas2r13... at 96.37%
+4	303aa, >Marmoset_Tas2r13... at 80.86%
+5	303aa, >Marmoset_Tas2r13a... at 82.18%
+6	303aa, >Orangutan_Tas2r13... at 93.73%
+7	303aa, >Rhesus_Tas2r13... at 86.14%
+8	303aa, >Tarsier_Tas2r13... at 73.27%
+>Cluster 343
+0	303aa, >Cow_Tas2r13... *
+>Cluster 344
+0	303aa, >Frog_Tas2r53... *
+>Cluster 345
+0	303aa, >Kangaroorat_Tas2r14... *
+>Cluster 346
+0	303aa, >anole_lizard_Tas2r1... *
+1	303aa, >anole_lizard_Tas2r2... at 86.47%
+2	303aa, >anole_lizard_Tas2r2... at 92.08%
+>Cluster 347
+0	303aa, >anole_lizard_Tas2r3... *
+>Cluster 348
+0	303aa, >Mouse_Tas2r1... *
+1	303aa, >rat_Tas2r22... at 90.76%
+>Cluster 349
+0	303aa, >Opossum_Tas2r21... *
+>Cluster 350
+0	303aa, >Rabbit_Tas2r56... *
+>Cluster 351
+0	303aa, >Shrew_Tas2r43... *
+>Cluster 352
+0	303aa, >Tasmaniandevil_Tas2... *
+>Cluster 353
+0	303aa, >Tasmaniandevil_Tas2... *
+>Cluster 354
+0	302aa, >Horse_Tas2r50... *
+1	302aa, >Horse_Tas2r30... at 73.84%
+>Cluster 355
+0	302aa, >anole_lizard_Tas2r4... *
+>Cluster 356
+0	302aa, >Pufferfish_Tas2r6... *
+1	302aa, >Tn_T2R6... at 100.00%
+>Cluster 357
+0	302aa, >rat_Tas2r104... *
+>Cluster 358
+0	290aa, >Chimpanzee_Tas2r2... at 73.10%
+1	302aa, >Squirrel_Tas2r2... *
+>Cluster 359
+0	302aa, >Squirrel_Tas2r134... *
+>Cluster 360
+0	302aa, >Wallbaby_Tas2r135... *
+>Cluster 361
+0	302aa, >Wallbaby_Tas2r31... *
+>Cluster 362
+0	300aa, >Wallbaby_Tas2r16... at 71.67%
+1	302aa, >Wallbaby_Tas2r62... *
+>Cluster 363
+0	301aa, >Coelacanth_Tas2r5... *
+>Cluster 364
+0	301aa, >Cow_Tas2r16... *
+>Cluster 365
+0	301aa, >Dog_Tas2r34... *
+>Cluster 366
+0	301aa, >anole_lizard_Tas2r4... *
+>Cluster 367
+0	301aa, >Manatee_Tas2r4... *
+>Cluster 368
+0	301aa, >Mouselemur_Tas2r67a... *
+>Cluster 369
+0	301aa, >Nakedmole_rat_Tas2r... *
+>Cluster 370
+0	301aa, >Squirrel_Tas2r16... *
+>Cluster 371
+0	301aa, >Treeshrew_Tas2r16... *
+>Cluster 372
+0	301aa, >Am_T2R4a... *
+>Cluster 373
+0	300aa, >Bushbaby_Tas2r16... *
+>Cluster 374
+0	300aa, >Coelacanth_Tas2r6... *
+>Cluster 375
+0	300aa, >Frog_Tas2r7... *
+>Cluster 376
+0	300aa, >Frog_Tas2r7a... *
+>Cluster 377
+0	300aa, >Guineapig_Tas2r143... *
+>Cluster 378
+0	300aa, >Hedgehog_Tas2r4... *
+>Cluster 379
+0	300aa, >anole_lizard_Tas2r1... *
+>Cluster 380
+0	300aa, >anole_lizard_Tas2r1... *
+>Cluster 381
+0	300aa, >anole_lizard_Tas2r1... *
+>Cluster 382
+0	300aa, >anole_lizard_Tas2r2... *
+>Cluster 383
+0	300aa, >Medium_ground_finch... *
+1	300aa, >Zebra_Finch_Tas2r5... at 77.33%
+>Cluster 384
+0	300aa, >Microbat_Tas2r4... *
+>Cluster 385
+0	300aa, >Opossum_Tas2r62... *
+>Cluster 386
+0	300aa, >Pig_Tas2r16... *
+>Cluster 387
+0	300aa, >Rabbit_Tas2r143... *
+>Cluster 388
+0	300aa, >Rabbit_Tas2r50A... *
+>Cluster 389
+0	300aa, >Shrew_Tas2r116... *
+>Cluster 390
+0	300aa, >Shrew_Tas2r129... *
+>Cluster 391
+0	300aa, >Squirrel_Tas2r40... *
+>Cluster 392
+0	300aa, >Squirrel_Tas2r122... *
+>Cluster 393
+0	300aa, >Terec_Tas2r4... *
+>Cluster 394
+0	299aa, >Wallbaby_Tas2r118... at 83.61%
+1	300aa, >Wallbaby_Tas2r134... *
+>Cluster 395
+0	299aa, >Bushbaby_Tas2r1... *
+>Cluster 396
+0	299aa, >Chimpanzee_Tas2r1... *
+1	299aa, >Gibbons_Tas2r1... at 91.97%
+2	299aa, >Gorilla_Tas2r1... at 97.99%
+3	299aa, >Human_Tas2r1... at 97.99%
+4	299aa, >Marmoset_Tas2r1... at 77.59%
+5	299aa, >Orangutan_Tas2r1... at 94.98%
+6	299aa, >Rhesus_Tas2r1... at 87.96%
+>Cluster 397
+0	299aa, >Chimpanzee_Tas2r5... *
+1	295aa, >Dog_Tas2r5... at 75.93%
+2	295aa, >Ferret_Tas2r5... at 76.27%
+3	299aa, >Gibbons_Tas2r5... at 94.31%
+4	299aa, >Gorilla_Tas2r5... at 97.99%
+5	299aa, >Human_Tas2r5... at 97.32%
+6	299aa, >Marmoset_Tas2r5... at 86.96%
+7	296aa, >Microbat_Tas2r5... at 71.96%
+8	299aa, >Orangutan_Tas2r5... at 94.31%
+9	299aa, >Treeshrew_Tas2r5... at 72.91%
+>Cluster 398
+0	299aa, >Chimpanzee_Tas2r50... *
+1	299aa, >Gibbons_Tas2r50... at 95.32%
+2	299aa, >Gorilla_Tas2r50... at 98.33%
+3	299aa, >Human_Tas2r50... at 97.99%
+4	299aa, >Marmoset_Tas2r30... at 78.93%
+5	299aa, >Orangutan_Tas2r50... at 94.31%
+6	299aa, >Rhesus_Tas2r50... at 88.29%
+>Cluster 399
+0	299aa, >Frog_Tas2r9... *
+>Cluster 400
+0	299aa, >Guineapig_Tas2r4... *
+1	297aa, >Nakedmole_rat_Tas2r... at 80.47%
+>Cluster 401
+0	299aa, >Horse_Tas2r1... *
+>Cluster 402
+0	299aa, >Hyrax_Tas2r1... *
+>Cluster 403
+0	299aa, >Hyrax_Tas2r139... *
+>Cluster 404
+0	299aa, >Megabat_Tas2r1... *
+>Cluster 405
+0	299aa, >Megabat_Tas2r4... *
+>Cluster 406
+0	299aa, >Microbat_Tas2r1... *
+>Cluster 407
+0	299aa, >Mouse_Tas2r2... *
+1	299aa, >rat_Tas2r118... at 91.97%
+>Cluster 408
+0	299aa, >Mouselemur_Tas2r1... *
+>Cluster 409
+0	299aa, >Shrew_Tas2r2... *
+>Cluster 410
+0	299aa, >Squirrel_Tas2r9... *
+>Cluster 411
+0	299aa, >Tarsier_Tas2r1... *
+>Cluster 412
+0	299aa, >Tasmaniandevil_Tas2... *
+>Cluster 413
+0	299aa, >Turtle_Tas2r135... *
+>Cluster 414
+0	298aa, >Armadillo_Tas2r1... *
+>Cluster 415
+0	298aa, >Cat_Tas2r1... *
+1	297aa, >Dog_Tas2r1... at 74.07%
+2	298aa, >Ferret_Tas2r1... at 73.83%
+3	298aa, >Panda_Tas2r1... at 75.84%
+>Cluster 416
+0	298aa, >Guineapig_Tas2r1A... *
+>Cluster 417
+0	298aa, >Guineapig_Tas2r1E... *
+>Cluster 418
+0	298aa, >Guineapig_Tas2r1f... *
+>Cluster 419
+0	298aa, >Hyrax_Tas2r5... *
+>Cluster 420
+0	298aa, >Megabat_Tas2r5... *
+>Cluster 421
+0	297aa, >Nakedmole_rat_Tas2r... at 71.72%
+1	298aa, >Nakedmole_rat_Tas2r... *
+>Cluster 422
+0	298aa, >Terec_Tas2r13... *
+>Cluster 423
+0	298aa, >Terec_Tas2r46... *
+1	297aa, >Terec_Tas2r63... at 74.07%
+>Cluster 424
+0	298aa, >Treeshrew_Tas2r1... *
+>Cluster 425
+0	297aa, >Frog_Tas2r42... *
+>Cluster 426
+0	297aa, >Guineapig_Tas2r1D... *
+>Cluster 427
+0	297aa, >Guineapig_Tas2r16... *
+>Cluster 428
+0	297aa, >Kangaroorat_Tas2r5... *
+>Cluster 429
+0	297aa, >Pika_Tas2r136... *
+>Cluster 430
+0	297aa, >Rabbit_Tas2r16... *
+>Cluster 431
+0	297aa, >Rabbit_Tas2r108... *
+>Cluster 432
+0	296aa, >Coelacanth_Tas2r3... *
+>Cluster 433
+0	296aa, >Cow_Tas2r1... *
+>Cluster 434
+0	296aa, >Cow_Tas2r4... *
+>Cluster 435
+0	296aa, >Frog_Tas2r17... *
+1	294aa, >Frog_Tas2r19... at 71.09%
+2	296aa, >Frog_Tas2r22... at 72.30%
+>Cluster 436
+0	294aa, >Frog_Tas2r21... at 75.85%
+1	296aa, >Frog_Tas2r26... *
+2	294aa, >Frog_Tas2r48... at 79.93%
+3	294aa, >Frog_Tas2r48a... at 80.61%
+4	294aa, >Frog_Tas2r49... at 81.29%
+>Cluster 437
+0	290aa, >Frog_Tas2r29... at 72.41%
+1	296aa, >Frog_Tas2r43... *
+2	290aa, >Frog_Tas2r50... at 76.21%
+>Cluster 438
+0	296aa, >Guineapig_Tas2r119... *
+>Cluster 439
+0	296aa, >anole_lizard_Tas2r3... *
+>Cluster 440
+0	296aa, >anole_lizard_Tas2r1... *
+>Cluster 441
+0	296aa, >Opossum_Tas2r26... *
+>Cluster 442
+0	296aa, >Pig_Tas2r11... *
+>Cluster 443
+0	296aa, >Squirrel_Tas2r1... *
+>Cluster 444
+0	295aa, >Alpaca_Tas2r4... *
+>Cluster 445
+0	295aa, >Alpaca_Tas2r67... *
+>Cluster 446
+0	295aa, >Cow_Tas2r65a... *
+>Cluster 447
+0	295aa, >Frog_Tas2r23... *
+1	293aa, >Frog_Tas2r24... at 70.31%
+2	291aa, >Frog_Tas2r47... at 88.32%
+>Cluster 448
+0	295aa, >Frog_Tas2r24a... *
+>Cluster 449
+0	295aa, >Frog_Tas2r38... *
+>Cluster 450
+0	295aa, >Guineapig_Tas2r1... *
+>Cluster 451
+0	295aa, >Mouse_Tas2r17... *
+1	295aa, >rat_Tas2r120... at 82.71%
+>Cluster 452
+0	295aa, >Nakedmole_rat_Tas2r... *
+>Cluster 453
+0	295aa, >Am_T2R3j... *
+>Cluster 454
+0	294aa, >Hyrax_Tas2r143... *
+>Cluster 455
+0	293aa, >Hyrax_Tas2r118... at 77.47%
+1	294aa, >Hyrax_Tas2r134... *
+>Cluster 456
+0	292aa, >Hyrax_Tas2r16... at 73.97%
+1	294aa, >Manatee_Tas2r16... *
+>Cluster 457
+0	293aa, >Mouse_Tas2r8... at 87.37%
+1	294aa, >rat_Tas2r143... *
+>Cluster 458
+0	294aa, >Tarsier_Tas2r16... *
+>Cluster 459
+0	293aa, >Kangaroorat_Tas2r2... *
+>Cluster 460
+0	291aa, >Chimpanzee_Tas2r16... at 82.82%
+1	291aa, >Gibbons_Tas2r16... at 81.44%
+2	291aa, >Gorilla_Tas2r16... at 83.16%
+3	291aa, >Human_Tas2r16... at 81.79%
+4	292aa, >Marmoset_Tas2r16... *
+5	291aa, >Orangutan_Tas2r16... at 80.76%
+6	291aa, >Rhesus_Tas2r16... at 79.04%
+>Cluster 461
+0	290aa, >Terec_Tas2r114... *
+>Cluster 462
+0	289aa, >Frog_Tas2r20... *
+>Cluster 463
+0	289aa, >Pika_Tas2r13... *
+>Cluster 464
+0	287aa, >Rabbit_Tas2r113... *
+>Cluster 465
+0	286aa, >Squirrel_Tas2r124... *
+>Cluster 466
+0	285aa, >Megabat_Tas2r16... *
+>Cluster 467
+0	283aa, >Hedgehog_Tas2r56... *
+>Cluster 468
+0	268aa, >Am_T2R3n... *

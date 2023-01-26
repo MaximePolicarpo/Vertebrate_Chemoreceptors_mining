@@ -1,0 +1,271 @@
+IQ-TREE multicore version 2.0.3 for Linux 64-bit built Dec 20 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    cpu-node-53.ifb.local (AVX2, FMA3, 251 GB RAM)
+Command: /shared/ifbstor1/software/miniconda/envs/iqtree-2.0.3/bin/iqtree -s V2R_Database_cdhit_70_plus_outgroup.aln -st AA -nt 50 -bb 1000 -m JTT+F+I+G4 -redo
+Seed:    601298 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Mar 25 13:59:35 2022
+Kernel:  AVX+FMA - 50 threads (50 CPU cores detected)
+
+Reading alignment file V2R_Database_cdhit_70_plus_outgroup.aln ... Fasta format detected
+Alignment most likely contains protein sequences
+WARNING: 15 sites contain only gaps or ambiguous characters.
+Alignment has 147 sequences with 1311 columns, 1259 distinct patterns
+931 parsimony-informative, 178 singleton sites, 202 constant sites
+                                                          Gap/Ambiguity  Composition  p-value
+   1  opossum_V2R7                                               35.62%    passed     62.91%
+   2  opossum_V2R12                                              35.01%    passed     14.88%
+   3  opossum_V2R15                                              30.51%    passed     42.96%
+   4  opossum_V2R16                                              35.24%    passed     36.59%
+   5  opossum_V2R17                                              35.39%    passed     85.92%
+   6  opossum_V2R23                                              36.23%    passed      8.14%
+   7  opossum_V2R41                                              34.71%    passed     51.59%
+   8  opossum_V2R63                                              34.86%    passed     82.73%
+   9  opossum_V2R49                                              35.01%    passed     17.89%
+  10  opossum_V2R54                                              33.49%    passed     25.79%
+  11  opossum_V2R56                                              35.01%    passed     52.38%
+  12  opossum_V2R42                                              36.16%    passed     48.76%
+  13  opossum_V2R80                                              34.55%    failed      0.00%
+  14  opossum_V2R84                                              35.39%    passed     15.45%
+  15  opossum_V2R90                                              36.69%    passed      7.89%
+  16  frog_V2R1                                                  31.05%    passed     33.91%
+  17  frog_V2R100                                                34.40%    passed     92.84%
+  18  frog_V2R109                                                34.02%    passed     77.97%
+  19  frog_V2R121                                                34.17%    passed     66.04%
+  20  frog_V2R122                                                33.87%    passed     48.48%
+  21  frog_V2R126                                                34.40%    passed     68.47%
+  22  frog_V2R13                                                 35.62%    passed     89.05%
+  23  frog_V2R130                                                35.16%    passed     79.91%
+  24  frog_V2R133                                                35.77%    passed     43.69%
+  25  frog_V2R134                                                36.38%    passed     94.40%
+  26  frog_V2R136                                                36.84%    passed     49.95%
+  27  frog_V2R137                                                36.08%    passed     34.05%
+  28  frog_V2R150                                                36.31%    failed      1.80%
+  29  frog_V2R169                                                33.71%    passed     26.05%
+  30  frog_V2R170                                                34.02%    passed     81.83%
+  31  frog_V2R175                                                33.03%    passed     25.36%
+  32  frog_V2R176                                                33.94%    passed      8.17%
+  33  frog_V2R18                                                 35.01%    passed     82.64%
+  34  frog_V2R181                                                35.93%    passed     58.91%
+  35  frog_V2R184                                                33.49%    passed     21.27%
+  36  frog_V2R185                                                33.56%    passed     11.57%
+  37  frog_V2R187                                                34.78%    passed     52.96%
+  38  frog_V2R189                                                33.26%    passed     82.71%
+  39  frog_V2R19                                                 34.25%    passed     36.66%
+  40  frog_V2R195                                                34.55%    passed     93.88%
+  41  frog_V2R206                                                33.33%    passed     39.16%
+  42  frog_V2R21                                                 33.03%    passed     17.04%
+  43  frog_V2R210                                                33.79%    passed     79.97%
+  44  frog_V2R215                                                33.94%    passed     55.99%
+  45  frog_V2R217                                                33.41%    passed     78.63%
+  46  frog_V2R220                                                36.92%    passed     94.14%
+  47  frog_V2R230                                                32.34%    passed     97.67%
+  48  frog_V2R231                                                33.64%    passed     61.24%
+  49  frog_V2R247                                                35.62%    passed     68.53%
+  50  frog_V2R250                                                35.01%    passed     98.82%
+  51  frog_V2R256                                                36.38%    passed     94.39%
+  52  frog_V2R258                                                35.01%    passed     37.34%
+  53  frog_V2R259                                                35.39%    failed      1.84%
+  54  frog_V2R26                                                 35.01%    passed     77.96%
+  55  frog_V2R262                                                34.94%    passed     57.96%
+  56  frog_V2R267                                                34.86%    passed     88.50%
+  57  frog_V2R271                                                34.71%    passed     25.71%
+  58  frog_V2R275                                                35.24%    passed     56.61%
+  59  frog_V2R280                                                34.71%    passed     45.61%
+  60  frog_V2R284                                                34.55%    passed     82.02%
+  61  frog_V2R285                                                33.03%    passed     61.37%
+  62  frog_V2R288                                                34.40%    passed     87.99%
+  63  frog_V2R29                                                 36.46%    passed     99.17%
+  64  frog_V2R291                                                33.33%    passed     43.10%
+  65  frog_V2R3                                                  32.95%    passed     63.72%
+  66  frog_V2R302                                                33.49%    passed     30.01%
+  67  frog_V2R309                                                34.25%    passed     80.81%
+  68  frog_V2R32                                                 34.40%    passed     98.37%
+  69  frog_V2R321                                                34.48%    passed     57.51%
+  70  frog_V2R347                                                34.10%    passed     42.79%
+  71  frog_V2R348                                                35.09%    passed     11.99%
+  72  frog_V2R384                                                33.10%    passed     62.60%
+  73  frog_V2R39                                                 35.93%    passed     41.84%
+  74  frog_V2R40                                                 36.00%    passed     69.67%
+  75  frog_V2R41                                                 36.23%    passed     41.35%
+  76  frog_V2R48                                                 34.94%    passed     42.43%
+  77  frog_V2R54                                                 34.48%    passed     54.23%
+  78  frog_V2R62                                                 35.85%    passed     50.48%
+  79  frog_V2R63                                                 37.91%    passed     57.99%
+  80  frog_V2R67                                                 37.15%    passed     71.59%
+  81  frog_V2R68                                                 34.86%    passed     59.96%
+  82  frog_V2R8                                                  33.71%    passed     87.33%
+  83  frog_V2R96                                                 34.48%    passed     11.62%
+  84  frog_V2R98                                                 35.39%    passed     34.26%
+  85  frog_V2R99                                                 34.32%    passed     99.69%
+  86  Danio_rerio_Complete_CM002902.2_31965350_31969973-Sub11    34.48%    failed      1.19%
+  87  Danio_rerio_Complete_CM002902.2_32136084_32139853-Sub1     33.94%    passed     73.22%
+  88  Danio_rerio_Complete_CM002902.2_32444693_32449253-Sub9     36.31%    passed     30.71%
+  89  Danio_rerio_Complete_CM002902.2_32996837_33000123-Sub10    34.94%    passed     29.99%
+  90  Danio_rerio_Complete_CM002902.2_33009828_33013040-Sub7     34.94%    passed     50.94%
+  91  Danio_rerio_Complete_CM002902.2_33032275_33036723-Sub8     35.24%    passed     29.39%
+  92  Danio_rerio_Complete_CM002902.2_33053336_33056325-Sub17    37.38%    passed     79.88%
+  93  Danio_rerio_Complete_CM002902.2_33090502_33093580-Sub17    35.24%    passed     88.53%
+  94  Danio_rerio_Complete_CM002902.2_33132385_33135415-Sub5     35.85%    passed     53.77%
+  95  Danio_rerio_Complete_CM002902.2_33172661_33175614-Sub3     35.09%    passed     87.60%
+  96  Danio_rerio_Complete_CM002902.2_33185908_33189547-Sub13    33.94%    passed     67.42%
+  97  Danio_rerio_Complete_CM002902.2_33265139_33268443-Sub2     35.39%    passed     99.24%
+  98  Danio_rerio_Complete_CM002902.2_33322494_33331624-Sub4     34.86%    passed     88.62%
+  99  Danio_rerio_Complete_CM002902.2_33333420_33337704-Sub14    33.94%    passed     16.82%
+ 100  Danio_rerio_Complete_CM002902.2_33675609_33679236-Sub16    33.79%    passed     62.45%
+ 101  Oryzias_latipes_Complete_13_12466805_12470547-Sub15        33.03%    failed      0.21%
+ 102  Oryzias_latipes_Complete_13_12480499_12484938-Sub16        33.26%    passed     53.27%
+ 103  Oryzias_latipes_Complete_13_12499927_12503474-Sub4         33.03%    passed     36.17%
+ 104  Oryzias_latipes_Complete_13_12567515_12572935-Sub14        31.88%    passed      7.54%
+ 105  Oryzias_latipes_Complete_13_12575188_12580203-Sub2         33.87%    passed     64.06%
+ 106  Oryzias_latipes_Complete_13_12581753_12585889-Sub13        32.57%    passed     88.63%
+ 107  Oryzias_latipes_Complete_13_12588050_12591176-Sub3         35.24%    passed     26.77%
+ 108  Oryzias_latipes_Complete_13_12617609_12621209-Sub8         34.63%    passed     74.83%
+ 109  Oryzias_latipes_Complete_13_12623222_12626366-Sub7         34.71%    passed     99.67%
+ 110  Oryzias_latipes_Complete_13_12629750_12633990-Sub10        34.94%    passed     49.07%
+ 111  Oryzias_latipes_Complete_13_12671361_12674334-Sub9         36.08%    passed     73.76%
+ 112  Oryzias_latipes_Complete_13_12685860_12689282-Sub12        32.65%    passed     17.17%
+ 113  Tetraodon_nigroviridis_Complete_16_2532256_2540664-Sub8    34.17%    passed     78.17%
+ 114  Tetraodon_nigroviridis_Complete_16_2548581_2551488-Sub6    38.37%    passed     91.67%
+ 115  Tetraodon_nigroviridis_Complete_16_2574028_2577905-Sub16   35.09%    failed      3.55%
+ 116  Tetraodon_nigroviridis_Complete_16_2599527_2603234-Sub15   33.64%    failed      1.63%
+ 117  Sc-V2R1_sf5423_sf36572                                     34.78%    passed     88.47%
+ 118  Sc-V2R3_sf20408                                            33.18%    passed     46.70%
+ 119  Sc-V2R12_sf3790                                            34.94%    passed     82.60%
+ 120  Sc-V2R4_sf5901                                             33.33%    passed     56.51%
+ 121  Sc-V2R26_sf33886                                           33.79%    passed     90.98%
+ 122  Sc-V2R23_sf28714                                           33.71%    passed     26.34%
+ 123  Sc-V2R34_sf17118                                           35.01%    passed     55.12%
+ 124  Sc-V2R24_sf20060                                           34.78%    passed     92.12%
+ 125  Sc-V2R9_sf29147                                            33.71%    passed     77.09%
+ 126  Sc-V2R21_sf25216                                           34.55%    passed     90.16%
+ 127  Sc-V2R7_sf54760                                            46.38%    passed     19.55%
+ 128  Sc-V2R29_sf84419                                           39.66%    passed     97.94%
+ 129  Cm-V2R10_SINCAMP00000010763_834                            36.38%    passed     87.10%
+ 130  Cm-V2R9_SINCAMP00000025740_840                             35.93%    passed     65.60%
+ 131  Cm-V2R34_SINCAMP00000017467_849                            35.24%    passed     69.36%
+ 132  Cm-V2R20_SINCAMP00000025078_869                            33.71%    passed     95.33%
+ 133  Cm-V2R17_SINCAMP00000025043_843                            35.70%    passed     63.27%
+ 134  Dr_CaSR                                                    32.34%    passed     44.09%
+ 135  Dr_T1Ra1                                                   38.37%    passed     12.30%
+ 136  Dr_T1Rb1                                                   38.44%    passed     33.45%
+ 137  Dr_T1Rb2                                                   37.38%    passed      5.36%
+ 138  Dr_T1Rc1                                                   36.77%    failed      0.45%
+ 139  Mm_T1R1                                                    36.46%    failed      0.00%
+ 140  Mm_T1R2                                                    36.16%    failed      0.03%
+ 141  Mm_T1R3                                                    36.08%    failed      0.00%
+ 142  CASR_HUMAN-Extracellular-calcium-sensing-receptor          32.57%    failed      3.32%
+ 143  CASR_MOUSE-Extracellular-calcium-sensing-receptor          32.57%    failed      3.82%
+ 144  CASR_BOVIN-Extracellular-calcium-sensing-receptor          32.49%    failed      3.64%
+ 145  CASR_RAT-Extracellular-calcium-sensing-receptor            32.57%    failed      2.83%
+ 146  CASR_PIG-Extracellular-calcium-sensing-receptor            32.57%    failed      1.44%
+ 147  TS1R2_HUMAN-Taste-receptor-type-1-member-2                 36.46%    failed      3.76%
+****  TOTAL                                                      34.82%  17 sequences failed composition chi2 test (p-value<5%; df=19)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.171 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 601298)...
+
+NOTE: 121 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.010, 1.332 / LogL: -173367.412
+Init pinv, alpha: 0.017, 1.000 / Estimate: 0.010, 1.333 / LogL: -173367.377
+Init pinv, alpha: 0.034, 1.000 / Estimate: 0.010, 1.331 / LogL: -173367.495
+Init pinv, alpha: 0.051, 1.000 / Estimate: 0.010, 1.331 / LogL: -173367.491
+Init pinv, alpha: 0.068, 1.000 / Estimate: 0.010, 1.331 / LogL: -173367.488
+Init pinv, alpha: 0.086, 1.000 / Estimate: 0.010, 1.331 / LogL: -173367.483
+Init pinv, alpha: 0.103, 1.000 / Estimate: 0.010, 1.331 / LogL: -173367.480
+Init pinv, alpha: 0.120, 1.000 / Estimate: 0.010, 1.331 / LogL: -173367.477
+Init pinv, alpha: 0.137, 1.000 / Estimate: 0.010, 1.331 / LogL: -173367.474
+Init pinv, alpha: 0.154, 1.000 / Estimate: 0.010, 1.331 / LogL: -173367.471
+Optimal pinv,alpha: 0.010, 1.333 / LogL: -173367.377
+
+Parameters optimization took 123.500 sec
+Computing ML distances based on estimated model parameters... 6.246 sec
+Computing BIONJ tree...
+0.017 seconds
+Log-likelihood of BIONJ tree: -173606.529
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 16.932 second
+Computing log-likelihood of 98 initial trees ... 14.137 seconds
+Current best score: -173367.377
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -173273.382
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -173251.867
+Iteration 10 / LogL: -173253.609 / Time: 0h:3m:8s
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 20: -173248.335
+Iteration 20 / LogL: -173248.335 / Time: 0h:3m:36s
+Finish initializing candidate tree set (15)
+Current best tree score: -173248.335 / CPU time: 86.237
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 22: -173231.070
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 29: -173229.984
+Iteration 30 / LogL: -173240.461 / Time: 0h:4m:6s (0h:14m:1s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 32: -173226.473
+Iteration 40 / LogL: -173241.343 / Time: 0h:4m:37s (0h:10m:53s left)
+Iteration 50 / LogL: -173249.105 / Time: 0h:5m:5s (0h:8m:31s left)
+Log-likelihood cutoff on original alignment: -173325.650
+Iteration 60 / LogL: -173227.950 / Time: 0h:5m:33s (0h:6m:47s left)
+Iteration 70 / LogL: -173230.233 / Time: 0h:6m:2s (0h:5m:25s left)
+Iteration 80 / LogL: -173228.134 / Time: 0h:6m:33s (0h:4m:18s left)
+Iteration 90 / LogL: -173234.682 / Time: 0h:7m:2s (0h:3m:19s left)
+Iteration 100 / LogL: -173230.391 / Time: 0h:7m:30s (0h:2m:25s left)
+Log-likelihood cutoff on original alignment: -173325.650
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.998
+Iteration 110 / LogL: -173229.976 / Time: 0h:7m:59s (0h:6m:35s left)
+Iteration 120 / LogL: -173228.015 / Time: 0h:8m:26s (0h:5m:40s left)
+Iteration 130 / LogL: -173297.158 / Time: 0h:8m:56s (0h:4m:51s left)
+TREE SEARCH COMPLETED AFTER 133 ITERATIONS / Time: 0h:9m:4s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -173226.473
+Optimal log-likelihood: -173226.468
+Proportion of invariable sites: 0.010
+Gamma shape alpha: 1.335
+Parameters optimization took 1 rounds (0.221 sec)
+BEST SCORE FOUND : -173226.468
+Creating bootstrap support values...
+Split supports printed to NEXUS file V2R_Database_cdhit_70_plus_outgroup.aln.splits.nex
+Total tree length: 73.677
+
+Total number of iterations: 133
+CPU time used for tree search: 19700.493 sec (5h:28m:20s)
+Wall-clock time used for tree search: 414.270 sec (0h:6m:54s)
+Total CPU time used: 25485.121 sec (7h:4m:45s)
+Total wall-clock time used: 545.351 sec (0h:9m:5s)
+
+Computing bootstrap consensus tree...
+Reading input file V2R_Database_cdhit_70_plus_outgroup.aln.splits.nex...
+147 taxa and 587 splits.
+Consensus tree written to V2R_Database_cdhit_70_plus_outgroup.aln.contree
+Reading input trees file V2R_Database_cdhit_70_plus_outgroup.aln.contree
+Log-likelihood of consensus tree: -173227.906
+
+Analysis results written to: 
+  IQ-TREE report:                V2R_Database_cdhit_70_plus_outgroup.aln.iqtree
+  Maximum-likelihood tree:       V2R_Database_cdhit_70_plus_outgroup.aln.treefile
+  Likelihood distances:          V2R_Database_cdhit_70_plus_outgroup.aln.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          V2R_Database_cdhit_70_plus_outgroup.aln.splits.nex
+  Consensus tree:                V2R_Database_cdhit_70_plus_outgroup.aln.contree
+  Screen log file:               V2R_Database_cdhit_70_plus_outgroup.aln.log
+
+Date and Time: Fri Mar 25 14:08:44 2022
