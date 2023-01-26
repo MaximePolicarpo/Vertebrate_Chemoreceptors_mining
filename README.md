@@ -155,3 +155,16 @@ Then run the T2R pipeline, with a tblastn evalue of 1e-5 and 20 threads :
 sbatch T2R_Finder.sh GCA_000002035.4_GRCz11_genomic.fna ./Database_T2R/Vertebrates_T2R_db_cdhit_70.prot GPCR_plus_Chemoreceptors_vertebrates.prot ./Database_T2R/Scripts_2022/ 25000 20 1e-5 TRUE
 
 
+
+Note that the two Dinpoi genome as well as the genome of Ambystoma mexicanum are too large for tblastn. Thus you must split these genome. For example, to split the genome in 30 parts : 
+
+- grep -v ">" GCA_002915635.3_AmbMex60DD_genomic.fna > GCA_002915635.3_AmbMex60DD_genomic_no_header.fna
+- samtools faidx GCA_002915635.3_AmbMex60DD_genomic.fna
+- nb_nuc=`awk '{sum+=$2;} END{print sum;}' GCA_002915635.3_AmbMex60DD_genomic.fna.fai
+- ans=$((nb_nuc / 30))
+- split -b $ans GCA_002915635.3_AmbMex60DD_genomic_no_header.fna splitted_genome
+
+
+
+
+
