@@ -4,23 +4,23 @@ The main pipelines scripts are called OR_Finder.sh, TAAR_Finder.sh, V1R_Finder.s
 
 1) Before running these pipelines, create a conda environment called "olfactory" and install seqkit, scikit-learn and tmhmm : 
 
-conda create -n olfactory
-conda activate olfactory
-conda install -c "bioconda/label/cf201901" seqkit
-conda install -c anaconda scikit-learn
-conda install -c dansondergaard tmhmm.py
+- conda create -n olfactory
+- conda activate olfactory
+- conda install -c "bioconda/label/cf201901" seqkit
+- conda install -c anaconda scikit-learn
+- conda install -c dansondergaard tmhmm.py
 
 
 2) If you are not under a slurm environment, then you should also have the following programs installed on your machine : 
 
-R v4.2.0
-BLAST v2.12.0
-EMBOSS v6.2.0
-SAMtools v1.15
-MAFFT v7.467
-IQ-TREE v2.0
-Python v3.9.5
-FASTX-Toolkit v0.0.14
+- R v4.2.0
+- BLAST v2.12.0
+- EMBOSS v6.2.0
+- SAMtools v1.15
+- MAFFT v7.467
+- IQ-TREE v2.0
+- Python v3.9.5
+- FASTX-Toolkit v0.0.14
 
 
 3a) If you are under a slurm environment, make sure that you have a qos named 6hours. Otherwise, replace the qos name in the lines beginning with "sbatch" in the main .sh scripts [OR_Finder.sh, TAAR_Finder.sh, V1R_Finder.sh, V2R_Finder.sh, T1R_Finder.sh, T2R_Finder.sh] (for example line 222 in TAAR_Finder.sh). 6hours is the optimal running time for these sbatch commands. 
@@ -28,14 +28,13 @@ FASTX-Toolkit v0.0.14
 
 3b) Again, if you are not under a slurm environment, then replace lines beginning by sbatch with nohup
 
-For example in TAAR_Finder.sh : 
-Replace
+For example in TAAR_Finder.sh, replace
 
-sbatch -W -c 4 --qos=6hours --wrap="$scripts_location/exonerate-2.2.0-x86_64/bin/exonerate -E True --showtargetgff TRUE --model protein2genome --ryo '%tcs' --minintron 50 --maxintron $maximum_intron_length Splitted_db/$file_name TAAR_best_hits_regions.fa > Exonerate_raw_results_folder/$file_name.exo.rslt ; sleep 10" &
+- sbatch -W -c 4 --qos=6hours --wrap="$scripts_location/exonerate-2.2.0-x86_64/bin/exonerate -E True --showtargetgff TRUE --model protein2genome --ryo '%tcs' --minintron 50 --maxintron $maximum_intron_length Splitted_db/$file_name TAAR_best_hits_regions.fa > Exonerate_raw_results_folder/$file_name.exo.rslt ; sleep 10" &
 
 by 
 
-nohup $scripts_location/exonerate-2.2.0-x86_64/bin/exonerate -E True --showtargetgff TRUE --model protein2genome --ryo '%tcs' --minintron 50 --maxintron $maximum_intron_length Splitted_db/$file_name TAAR_best_hits_regions.fa > Exonerate_raw_results_folder/$file_name.exo.rslt &
+- nohup $scripts_location/exonerate-2.2.0-x86_64/bin/exonerate -E True --showtargetgff TRUE --model protein2genome --ryo '%tcs' --minintron 50 --maxintron $maximum_intron_length Splitted_db/$file_name TAAR_best_hits_regions.fa > Exonerate_raw_results_folder/$file_name.exo.rslt &
 
 
 4) OR genes
