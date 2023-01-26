@@ -1,7 +1,8 @@
 # Vertebrate_Chemoreceptors_mining
 
+The main pipelines scripts are called OR_Finder.sh, TAAR_Finder.sh, V1R_Finder.sh, V2R_Finder.sh, T1R_Finder.sh, T2R_Finder.sh
 
-1) Before running the pipelines, create a conda environment called "olfactory" and install seqkit, scikit-learn and tmhmm : 
+1) Before running these pipelines, create a conda environment called "olfactory" and install seqkit, scikit-learn and tmhmm : 
 
 conda create -n olfactory
 conda activate olfactory
