@@ -2,7 +2,7 @@
 
 The main pipelines scripts are called OR_Finder.sh, TAAR_Finder.sh, V1R_Finder.sh, V2R_Finder.sh, T1R_Finder.sh, T2R_Finder.sh
 
-1) Before running these pipelines, create a conda environment called "olfactory" and install seqkit, scikit-learn and tmhmm : 
+1)Before running these pipelines, create a conda environment called "olfactory" and install seqkit, scikit-learn and tmhmm : 
 
 - conda create -n olfactory
 - conda activate olfactory
@@ -11,7 +11,7 @@ The main pipelines scripts are called OR_Finder.sh, TAAR_Finder.sh, V1R_Finder.s
 - conda install -c dansondergaard tmhmm.py
 
 
-2) If you are not under a slurm environment, then you should also have the following programs installed on your machine : 
+2)If you are not under a slurm environment, then you should also have the following programs installed on your machine : 
 
 - R v4.2.0
 - BLAST v2.12.0
@@ -23,10 +23,10 @@ The main pipelines scripts are called OR_Finder.sh, TAAR_Finder.sh, V1R_Finder.s
 - FASTX-Toolkit v0.0.14
 
 
-3a) If you are under a slurm environment, make sure that you have a qos named 6hours. Otherwise, replace the qos name in the lines beginning with "sbatch" in the main .sh scripts [OR_Finder.sh, TAAR_Finder.sh, V1R_Finder.sh, V2R_Finder.sh, T1R_Finder.sh, T2R_Finder.sh] (for example line 222 in TAAR_Finder.sh). 6hours is the optimal running time for these sbatch commands. 
+3a)If you are under a slurm environment, make sure that you have a qos named 6hours. Otherwise, replace the qos name in the lines beginning with "sbatch" in the main .sh scripts [OR_Finder.sh, TAAR_Finder.sh, V1R_Finder.sh, V2R_Finder.sh, T1R_Finder.sh, T2R_Finder.sh] (for example line 222 in TAAR_Finder.sh). 6hours is the optimal running time for these sbatch commands. 
 
 
-3b) Again, if you are not under a slurm environment, then replace lines beginning by sbatch with nohup
+3b)Again, if you are not under a slurm environment, then replace lines beginning by sbatch with nohup
 
 For example in TAAR_Finder.sh, replace
 
@@ -37,7 +37,7 @@ by
 - nohup $scripts_location/exonerate-2.2.0-x86_64/bin/exonerate -E True --showtargetgff TRUE --model protein2genome --ryo '%tcs' --minintron 50 --maxintron $maximum_intron_length Splitted_db/$file_name TAAR_best_hits_regions.fa > Exonerate_raw_results_folder/$file_name.exo.rslt &
 
 
-4) OR genes
+4)OR genes
 
 If you want to extract OR genes from a genome : 
 
@@ -54,7 +54,7 @@ sbatch OR_Finder.sh $genome_file_name $OR_database $GPCR_database $Script_folder
 
 
 
-5) TAAR genes
+5)TAAR genes
 
 If you want to extract TAAR genes from a genome : 
 
@@ -72,7 +72,7 @@ sbatch TAAR_Finder.sh $genome_file_name $TAAR_database $GPCR_database $Script_fo
 - $phobius_tmhmm : Set to TRUE or FALSE. If TRUE, then genes without a 7tm domain predicted by phobius and/or tmhmm will be placed into the same file as pseudogenes and truncated genes. If FALSE, then genes without a 7tm domain predicted by phobius and/or tmhmm will be placed in the result file together with genes with a predicted 7tm domain.
 
 
-5) V1R genes 
+5)V1R genes 
 
 If you want to extract V1R genes from a genome : 
 
@@ -91,7 +91,7 @@ sbatch V1R_Finder.sh $genome_file_name $V1R_database $GPCR_database $Script_fold
 
 
 
-6) V2R genes 
+6)V2R genes 
 
 If you want to extract V2R genes from a genome : 
 
@@ -109,7 +109,7 @@ sbatch V2R_Finder.sh $genome_file_name $V2R_database $GPCR_database $Script_fold
 
 
 
-7) T1R genes 
+7)T1R genes 
 
 If you want to extract T1R genes from a genome : 
 
@@ -125,7 +125,7 @@ sbatch T1R_Finder.sh $genome_file_name $T1R_database $GPCR_database $Script_fold
 - $phobius_tmhmm : Set to TRUE or FALSE. If TRUE, then genes without a 7tm domain predicted by phobius and/or tmhmm will be placed into the same file as pseudogenes and truncated genes. If FALSE, then genes without a 7tm domain predicted by phobius and/or tmhmm will be placed in the result file together with genes with a predicted 7tm domain.
 
 
-8) T2R genes
+8)T2R genes
 
 
 sbatch T2R_Finder.sh $genome_file_name $T2R_database $GPCR_database $Script_folders_location $intron_sizes $thread_number $evalue $phobius_tmhmm
@@ -142,7 +142,7 @@ sbatch T2R_Finder.sh $genome_file_name $T2R_database $GPCR_database $Script_fold
 
 
 
-9) Example
+9)Example
 
 Lets say I want to extract T2R genes from the Danio rerio genome. First I download the zebrafish genome and unzip it (fasta):
 
