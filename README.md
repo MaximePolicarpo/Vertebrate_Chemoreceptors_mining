@@ -11,7 +11,7 @@ The main pipelines scripts are called OR_Finder.sh, TAAR_Finder.sh, V1R_Finder.s
 - conda install -c dansondergaard tmhmm.py
 
 
-2)If you are not under a slurm environment, then you should also have the following programs installed on your machine : 
+2)You should also have the following programs installed on your machine : 
 
 - R v4.2.0
 - BLAST v2.12.0
@@ -21,6 +21,22 @@ The main pipelines scripts are called OR_Finder.sh, TAAR_Finder.sh, V1R_Finder.s
 - IQ-TREE v2.0
 - Python v3.9.5
 - FASTX-Toolkit v0.0.14
+
+R packages needed : 
+
+- data.table
+- dplyr
+- tidyr
+- plyranges
+- GenomicRanges
+- ape
+- phytools
+- stringr
+
+Python packages needed : 
+
+- Biopython
+
 
 
 3a)If you are under a slurm environment, make sure that you have a qos named 6hours. Otherwise, replace the qos name in the lines beginning with "sbatch" in the main .sh scripts [OR_Finder.sh, TAAR_Finder.sh, V1R_Finder.sh, V2R_Finder.sh, T1R_Finder.sh, T2R_Finder.sh] (for example line 222 in TAAR_Finder.sh). 6hours is the optimal running time for these sbatch commands. 
