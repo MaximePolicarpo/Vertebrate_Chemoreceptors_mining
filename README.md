@@ -213,3 +213,15 @@ Large genomes containing a lot of V2R genes, with large introns, such as Dipnoi 
 - Then, you can run the classic pipeline provided here (V2R_Finder.sh)
 
 
+
+
+I recommend that if you work on a relatively small subset of species, you manually check pseudogenes are some may be wrongly annotated as so by exonerate. 
+(Thus manually checking the exonerate results) 
+
+
+
+
+
+
+
+
