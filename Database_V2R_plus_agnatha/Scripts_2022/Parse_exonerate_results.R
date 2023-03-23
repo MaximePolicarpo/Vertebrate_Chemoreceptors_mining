@@ -107,37 +107,6 @@ colnames(exonerate_rslt) <- c("query", "query_start", "query_end", "false_scaffo
 
 #Remove genes with more blast hits that the number of exon, most probably chimeric genes
 
-#exonerate_rslt_filtered <- as.data.frame(NULL)
-#
-#for (i in seq(1:nrow(exonerate_rslt))){
-#
-#	curr_seqnames <- exonerate_rslt[i,]$seqnames
-#	curr_seqnames <- as.character(curr_seqnames)
-#	curr_start <- exonerate_rslt[i,]$start
-#	curr_end <- exonerate_rslt[i,]$end
-#	intron_number <- exonerate_rslt[i,]$intron_number
-#	exon_number <- intron_number+1
-#
-#	blasthit_number <- nrow(blast_result_besthits %>% filter(seqnames == curr_seqnames) %>% filter(start >= curr_start-50) %>% filter(end <= curr_end+50))
-#
-#
-#	if (exon_number >= blasthit_number){ 
-#
-#		exonerate_rslt_filtered <- rbind(exonerate_rslt_filtered, exonerate_rslt[i,])
-#
-#	}
-#}
-#
-#row.names(exonerate_rslt_filtered) <- seq(1, nrow(exonerate_rslt_filtered)) 
-#
-#exonerate_rslt_filtered <- exonerate_rslt_filtered %>% mutate(query_length = query_end - query_start) %>% mutate(scaffold_length = end-start) %>% filter(intron_number >= 1)
-
-
-
-
-
-#### PLACE POUR LE SCRIPT DE MATTHIEU -- DEBUT
-
 exonerate_rslt_filtered <- left_join(exonerate_rslt, blast_result_besthits, by = "seqnames", suffix=c("", "_b")) %>%
 	filter(start_b >= start-50) %>%
 	filter(end_b <= end+50)%>%
@@ -149,8 +118,6 @@ exonerate_rslt_filtered <- left_join(exonerate_rslt, blast_result_besthits, by =
 
 exonerate_rslt_filtered <- as.data.frame(exonerate_rslt_filtered %>% mutate(query_length = query_end - query_start) %>% mutate(scaffold_length = end-start) %>% filter(intron_number >= 1))
 
-
-#### PLACE POUR LE SCRIPT DE MATTHIEU -- FIN
 
 
 #Make filters on gene length and on scaffold length to find best hits
