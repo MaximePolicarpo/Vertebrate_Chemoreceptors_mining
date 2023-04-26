@@ -123,7 +123,7 @@ sbatch V2R_Finder.sh $genome_file_name $V2R_database $GPCR_database $Script_fold
 - $phobius_tmhmm : Set to TRUE or FALSE. If TRUE, then genes without a 7tm domain predicted by phobius and/or tmhmm will be placed into the same file as pseudogenes and truncated genes. If FALSE, then genes without a 7tm domain predicted by phobius and/or tmhmm will be placed in the result file together with genes with a predicted 7tm domain.
 
 
-For V2R genes of lampreys, I recommend to add these three genes to the V2R database (Obtained in the study of Kowatschew and Korsching 2022). I did not include these sequences in the classic database as much more false positive regions were exctracted in the initial blast, greatly reducing the running time of the pipeline : 
+For V2R genes of lampreys, I recommend to add these three genes to the V2R database (Obtained in the study of Kowatschew and Korsching 2022). I did not include these sequences in the classic database as much more false positive regions were exctracted in the initial blast, greatly impacting the running time of the pipeline and possibly leading to false positive genes : 
 
 >V2R-Receptor-Leth-V2R1
 MEPLCLLAIGLILLHITPHIETRLFIESGGDVILGGLFPLHNSVINLPLEFNAVPTSADCVMLNERALTRLYTMLFTIEEINNRSDLLPNMKLGYRVIDSCTDVMKAVEASYEFSLFGSTQKSPLVVIGDAYSFLTIPAAYTLGLKHIPMISYSASAPSLSDKTRFPTFMRTIPSDTFQS
