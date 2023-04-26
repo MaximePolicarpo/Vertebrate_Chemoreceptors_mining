@@ -216,7 +216,9 @@ I provide a script to automatically perform steps 2 to 4 : V2R_Finder_large_geno
 
 
 I recommend that if you work on a relatively small subset of species, you manually check pseudogenes are some may be wrongly annotated as so by exonerate. 
-(Thus manually checking the exonerate results) 
+(Thus manually checking the exonerate results). Complete genes annotations should be good or relatively close to the reality but again, on a small subset of species, it would be worth to verify those genes, especially those for which the number of exons reported by exonerate is much higher or shorter than expected (sometime exonerate will integrate very small but spurious exons increasing the exonerate score). If you have any questions or feedback, I can easily be reached at maxime.policarpo@unibas.ch or maxime.policarpo@hotmail.fr. 
+
+
 
 
 
