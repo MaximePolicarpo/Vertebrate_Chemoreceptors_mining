@@ -207,11 +207,11 @@ Note that the two Dinpoi genome as well as the genome of Ambystoma mexicanum are
 
 
 Large genomes containing a lot of V2R genes, with large introns, such as Dipnoi and Amphibian genomes can also cause some problem for this pipeline. Indeed, exonerate will not be able to predict all possible genes, even in 6 hours. Thus, what I did, and which I recommend, is to first generate a V2R subgenome. Here is how : 
-- First, run a tblastn using the V2R database against the genome
-- Second, extract only non-overlapping hit regions (extend -2000/+2000 around each hits)
-- Then, for each non-overlapping hits on the same scaffold, merge the results and create new "sub-scaffold". Do not merge blast results that were in different scaffolds
-- Then, you can run the classic pipeline provided here (V2R_Finder.sh)
-
+1- First, run a tblastn using the V2R database against the genome
+2- Second, extract only non-overlapping hit regions (extend -2000/+2000 around each hits)
+3- Then, for each non-overlapping hits on the same scaffold, merge the results and create new "sub-scaffold". Do not merge blast results that were in different scaffolds
+4- Then, you can run the classic pipeline provided here (V2R_Finder.sh)
+I provide a script to automatically perform steps 2 to 4 : V2R_Finder_large_genomes.sh 
 
 
 
