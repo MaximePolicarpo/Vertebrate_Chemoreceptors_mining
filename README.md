@@ -211,7 +211,7 @@ Large genomes containing a lot of V2R genes, with large introns, such as Dipnoi 
 2- Second, extract only non-overlapping hit regions (extend -2000/+2000 around each hits)
 3- Then, for each non-overlapping hits on the same scaffold, merge the results and create new "sub-scaffold". Do not merge blast results that were in different scaffolds
 4- Then, you can run the classic pipeline provided here (V2R_Finder.sh)
-I provide a script to automatically perform steps 2 to 4 : V2R_Finder_large_genomes.sh 
+I provide a script to automatically perform steps 2 to 4 : V2R_Finder_large_genomes.sh. By mapping back V2R genes found to the original genome, V2R genes in lungfishes indeed have large introns, from few thousand base pairs to millions base pairs. 
 
 
 
