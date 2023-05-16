@@ -59,8 +59,8 @@ If you want to extract OR genes from a genome :
 
 sbatch OR_Finder.sh $genome_file_name $OR_database $GPCR_database $Script_folders_location $intron_sizes $thread_number $phobius_tmhmm $max_nb_exons
 
-- $genome_file_name : You genome fasta file
-- $OR_database : Database containing protein sequences known OR genes. You can either create one of your choice or use the one provided here (Database_OR/Database_Vertebrate_OR_cdhit_80.prot)
+- $genome_file_name : Your genome fasta file
+- $OR_database : Database containing protein sequences of known OR genes. You can either create one of your choice or use the one provided here (Database_OR/Database_Vertebrate_OR_cdhit_80.prot)
 - $GPCR_database : Blast database of non-chemoreceptors GPCR proteins + chemoreceptors proteins. One should use the database provided (GPCR_plus_Chemoreceptors_vertebrates.prot)
 - $Script_folders_location : Full path the the folder containing accessory OR_finder scripts (Database_OR/Scripts_2022/)
 - $intron_sizes : Maximum intron size for multi-exon TAAR genes. (optimal : 25000)
@@ -77,8 +77,8 @@ If you want to extract TAAR genes from a genome :
 
 sbatch TAAR_Finder.sh $genome_file_name $TAAR_database $GPCR_database $Script_folders_location $intron_sizes $thread_number $Exon_mode $evalue $phobius_tmhmm
 
-- $genome_file_name : You genome fasta file
-- $TAAR_database : Database containing protein sequences known OR genes. You can either create one of your choice or use the one provided here (Database_TAAR/TAAR_plus_TAARL_database_reformat_cdhit_80.prot)
+- $genome_file_name : Your genome fasta file
+- $TAAR_database : Database containing protein sequences of known TAAR genes. You can either create one of your choice or use the one provided here (Database_TAAR/TAAR_plus_TAARL_database_reformat_cdhit_80.prot)
 - $GPCR_database : Blast database of non-chemoreceptors GPCR proteins + chemoreceptors proteins. One should use the database provided (GPCR_plus_Chemoreceptors_vertebrates.prot)
 - $Script_folders_location : Full path the the folder containing accessory TAAR_finder scripts (Database_TAAR/Scripts_2022/)
 - $intron_sizes : Maximum intron size for multi-exon TAAR genes. (optimal : 25000)
@@ -95,8 +95,8 @@ If you want to extract V1R genes from a genome :
 sbatch V1R_Finder.sh $genome_file_name $V1R_database $GPCR_database $Script_folders_location $intron_sizes $thread_number $Exon_mode $evalue $phobius_tmhmm
 
 
-- $genome_file_name : You genome fasta file
-- $V1R_database : Database containing protein sequences known V1R genes. You can either create one of your choice or use the one provided here (Database_V1R/Database_2022_V1R_vertebrates_cdhit_80.prot)
+- $genome_file_name : Your genome fasta file
+- $V1R_database : Database containing protein sequences of known V1R genes. You can either create one of your choice or use the one provided here (Database_V1R/Database_2022_V1R_vertebrates_cdhit_80.prot)
 - $GPCR_database : Blast database of non-chemoreceptors GPCR proteins + chemoreceptors proteins. One should use the database provided (GPCR_plus_Chemoreceptors_vertebrates.prot)
 - $Script_folders_location : Full path the the folder containing accessory V1R_finder scripts (Database_V1R/Scripts_2022/)
 - $intron_sizes : Maximum intron size for multi-exon V1R genes. (optimal : 25000)
@@ -114,8 +114,8 @@ If you want to extract V2R genes from a genome :
 
 sbatch V2R_Finder.sh $genome_file_name $V2R_database $GPCR_database $Script_folders_location $intron_sizes $thread_number $phobius_tmhmm
 
-- $genome_file_name : You genome fasta file
-- $V2R_database : Database containing protein sequences known V2R genes. You can either create one of your choice or use the one provided here (Database_V2R/Database_2022_V2R_vertebrates_cdhit_80.prot)
+- $genome_file_name : Your genome fasta file
+- $V2R_database : Database containing protein sequences of known V2R genes. You can either create one of your choice or use the one provided here (Database_V2R/Database_2022_V2R_vertebrates_cdhit_80.prot)
 - $GPCR_database : Blast database of non-chemoreceptors GPCR proteins + chemoreceptors proteins. One should use the database provided (GPCR_plus_Chemoreceptors_vertebrates.prot)
 - $Script_folders_location : Full path the the folder containing accessory V2R_finder scripts (Database_V2R/Scripts_2022/)
 - $intron_sizes : Maximum intron size for V2R genes. (Set between 15,000 ad 40,000 depending on the species)
@@ -157,8 +157,8 @@ If you want to extract T1R genes from a genome :
 
 sbatch T1R_Finder.sh $genome_file_name $T1R_database $GPCR_database $Script_folders_location $intron_sizes $thread_number $phobius_tmhmm
 
-- $genome_file_name : You genome fasta file
-- $T1R_database : Database containing protein sequences known T1R genes. You can either create one of your choice or use the one provided here (Database_T1R/Database_2022_T1R_vertebrates_cdhit_80.prot)
+- $genome_file_name : Your genome fasta file
+- $T1R_database : Database containing protein sequences of known T1R genes. You can either create one of your choice or use the one provided here (Database_T1R/Database_2022_T1R_vertebrates_cdhit_80.prot)
 - $GPCR_database : Blast database of non-chemoreceptors GPCR proteins + chemoreceptors proteins. One should use the database provided (GPCR_plus_Chemoreceptors_vertebrates.prot)
 - $Script_folders_location : Full path the the folder containing accessory T1R_finder scripts (Database_T1R/Scripts_2022/)
 - $intron_sizes : Maximum intron size for T1R genes. (Set between 15,000 ad 40,000 depending on the species)
@@ -172,8 +172,8 @@ sbatch T1R_Finder.sh $genome_file_name $T1R_database $GPCR_database $Script_fold
 sbatch T2R_Finder.sh $genome_file_name $T2R_database $GPCR_database $Script_folders_location $intron_sizes $thread_number $evalue $phobius_tmhmm
 
 
- - $genome_file_name : You genome fasta file
-- $T2R_database : Database containing protein sequences known T2R genes. You can either create one of your choice or use the one provided here (Database_T2R/Vertebrates_T2R_db_cdhit_70.prot)
+ - $genome_file_name : Your genome fasta file
+- $T2R_database : Database containing protein sequences of known T2R genes. You can either create one of your choice or use the one provided here (Database_T2R/Vertebrates_T2R_db_cdhit_70.prot)
 - $GPCR_database : Blast database of non-chemoreceptors GPCR proteins + chemoreceptors proteins. One should use the database provided (GPCR_plus_Chemoreceptors_vertebrates.prot)
 - $Script_folders_location : Full path the the folder containing accessory T2R_finder scripts (Database_T2R/Scripts_2022/)
 - $intron_sizes : Maximum intron size for T2R genes (Deprecated, you can put a random number. I never found any multiple-exon T2R genes)
