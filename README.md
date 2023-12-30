@@ -218,6 +218,7 @@ I recommend to not add sequences retrieved from previous run of this pipeline to
 I also recommend that if you work on a relatively small subset of species, you manually check pseudogenes are some may be wrongly annotated as so by exonerate. 
 (Thus manually checking the exonerate results). Complete genes annotations should be good or relatively close to the reality but again, on a small subset of species, it would be worth to verify those genes, especially those for which the number of exons reported by exonerate is much higher or shorter than expected (sometime exonerate will integrate very small but spurious exons increasing the exonerate score). If you have any questions or feedback, I can easily be reached at maxime.policarpo@unibas.ch or maxime.policarpo@hotmail.fr. 
 
+I am currently building similar pipleines using the new program "miniprot". This will lead to much faster running time without the need to parallelize exonerate jobs anymore. 
 
 
 
